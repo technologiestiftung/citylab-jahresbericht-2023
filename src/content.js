@@ -218,11 +218,9 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/odis.png",
-          alt: "Die Homepage von ODIS",
-          copyright: "",
-          fit: "contain",
-          position: "center center",
+          src: "assets/images/smart-city_ODIS.png",
+          alt: "image tag",
+          copyright: "© CityLAB Berlin",
         },
       },
     ],
@@ -268,11 +266,12 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/datenoekonomie.png",
-          alt: "Das Deckblatt der Studie zum Thema Datenökonomie.",
-          copyright: "",
+          src: "assets/images/neue-technologien_datenoekonomie-cropped.png",
+          alt: "image tag",
+          copyright: "© 2022 Technologiestiftung Berlin",
           fit: "contain",
-          position: "center center",
+          maxWidth: "600px",
+          position: "center right",
         },
       },
       {
@@ -297,10 +296,12 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/Innovationserhebung.jpg",
-          alt: "Eine Frau mit VR-Brille, rein illustrativ",
-          copyright: "© shutterstock",
-          position: "center center",
+          src: "assets/images/neue-technologien_innovation-cropped.png",
+          alt: "image tag",
+          copyright: "TODO",
+          fit: "contain",
+          maxWidth: "600px",
+          position: "center right",
         },
       },
     ],
@@ -346,10 +347,10 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/kultur_bdigital.jpg",
-          alt: "Die Homepage von kulturBdigital.",
-          copyright: " ",
-          position: "center center",
+          src: "assets/images/kultur_bdigital.png",
+          alt: "image tag",
+          copyright: "TODO",
+          fit: "contain",
         },
       },
     ],
@@ -396,11 +397,9 @@ const content = {
         },
         img: {
           src: "assets/images/bildung_hacking-box-cropped.jpg",
-          alt: "Die Bilder zeigen die Hacking Box der Technologiestiftung.",
-          copyright: "© Carolin Claußnitzer / Archiv Technologiestiftung",
+          alt: "image tag",
+          copyright: "© CityLAB Berlin",
           fit: "contain",
-          maxWidth: "800px",
-          position: "center center",
         },
       },
       {
@@ -436,13 +435,13 @@ const content = {
     id: "5.0",
     topic: {
       de: "Prototyping",
-      en: "Prototyping",
+      en: "EMPTY",
     },
     blocks: {
       intro: {
         title: {
           de: "Prototyping",
-          en: "Prototyping",
+          en: "EMPTY",
         },
         text: {
           de: "Das Leben in Berlin spiegelt sich in den Daten, die anfallen. Zunehmend stellen die Verwaltung, aber auch die Versorgungsbetriebe und viele Unternehmen diese Daten als Open Data für die weitere Nutzung zur Verfügung. Die Datenanalysen und Datenvisualisierungen, die daraus entstehen, machen das Geschehen in der Stadt transparent und ermöglichen neue Services.",
