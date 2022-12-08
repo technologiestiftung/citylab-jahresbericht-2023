@@ -2,8 +2,8 @@ const content = {
   accordions: [
     {
       title: {
-        de: "Bericht des Kuratoriumsvorsitzenden Matthias Patz",
-        en: "Report by the Chair of the Board of Trustees – Matthias Patz",
+        de: "Der beste Jahresrückblick der Welt",
+        en: "Best of CityLAB Berlin 2022",
       },
       de: [
         "Die Technologiestiftung hat sich in den letzten Jahren zu einer wichtigen Partnerin im Bereich der digitalen Transformation in Berlin entwickelt. Für das Kuratorium entsteht aus dieser sehr erfreulichen Entwicklung die Aufgabe, die stetig wachsende Organisation zu begleiten und zum einen sicherzustellen, dass die Strukturen mitwachsen und die weitere dynamische Entwicklung unterstützen können. Zum anderen geht es für das Kuratorium darum, die grundsätzliche Ausrichtung zu begleiten.",
