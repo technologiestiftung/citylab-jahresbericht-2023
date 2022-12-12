@@ -1,7 +1,22 @@
 const content = {
+  header: {
+    headline: {
+      de: "CityLAB Jahresbericht 2022",
+      en: "CityLAB review 2022",
+    },
+    img: {
+      src: "assets/images/1_CityLAB Team.jpg",
+      alt: "Das Team des CityLab Berlin beim diesjährigen Sommerfest.",
+      copyright: "© Photo by Stefan Wieland / CityLAB",
+    },
+  },
   foreword: {
+    title: {
+      de: "Liebe CityLAB Community,",
+      en: "EMPTY",
+    },
     text: {
-      de: "Süßer die Glocken nie klangen – aber irgendwann ist auch mal gut. Nach der verdienten Dosis Besinnlichkeit können wir es kaum erwarten, mit Getöse ins neue Jahr zu starten. Wir grüßen Dich, 2023, Du wunderschönes, unbeschriebenes Blatt! Mach bitte weniger Blödsinn als dein Vorgänger. Bevor wir uns endgültig der Zukunft widmen, laden wir euch aber ein, ein letztes Mal inne zu halten und mit uns gemeinsam das Jahr 2022 Revue passieren zu lassen. Willkommen beim rappelvollen CityLAB-Jahresrückblick!</br></br> Für unser kleines Innovationslabor war es ein Jahr voller Abenteuer und Höhepunkte: Wir haben gemeinsam mit der ganzen Stadt an einer neuen Smart City-Strategie für Berlin gefeilt, mit Open Data-Prototypen die Zukunft der Stadt erlebbar werden lassen und sind tiefer denn je in die Welt der öffentlichen Verwaltung eingetaucht. Und das alles endlich wieder live und in Farbe. Nach zwei Jahren Zoom-Kachel-Memory war es unser ganz persönliches Highlight, mit mehr als 600 von euch ein großes Outdoor-Sommerfest auf dem Tempelhofer Flugfeld zu feiern. Schön, dass es euch gibt, liebe CityLAB-Community! Und nun viel Spaß mit unserem Jahresrückblick 2022.",
+      de: "Süßer die Glocken nie klangen – aber irgendwann ist auch mal gut. Nach der verdienten Dosis Besinnlichkeit können wir es kaum erwarten, mit Getöse ins neue Jahr zu starten. Wir grüßen Dich, 2023, Du wunderschönes, unbeschriebenes Blatt! Mach bitte weniger Blödsinn als dein Vorgänger. Bevor wir uns endgültig der Zukunft widmen, laden wir euch aber ein, ein letztes Mal inne zu halten und mit uns gemeinsam das Jahr 2022 Revue passieren zu lassen. Willkommen beim rappelvollen CityLAB-Jahresrückblick!</br></br> Für unser kleines Innovationslabor war es ein Jahr voller Abenteuer und Höhepunkte: Wir haben gemeinsam mit der ganzen Stadt an einer neuen Smart City-Strategie für Berlin gefeilt, mit Open Data-Prototypen die Zukunft der Stadt erlebbar werden lassen und sind tiefer denn je in die Welt der öffentlichen Verwaltung eingetaucht. Und das alles endlich wieder live und in Farbe. Nach zwei Jahren Zoom-Kachel-Memory war es unser ganz persönliches Highlight, mit mehr als 650 von euch ein großes Outdoor-Sommerfest auf dem Tempelhofer Flugfeld zu feiern. Schön, dass es euch gibt, liebe CityLAB-Community! Und nun viel Spaß mit unserem Jahresrückblick 2022.<br/><br/><strong>Das CityLAB in Zahlen</strong><br/>Bevor wir tiefer in die Inhalte eintauchen, möchten wir hier noch ein paar Zahlen mit euch teilen, die uns dieses Jahr besonders stolz gemacht haben.",
       en: "EMPTY",
     },
     blocks: {
@@ -30,8 +45,8 @@ const content = {
   smartCity: {
     id: "1.0",
     topic: {
-      de: "Smart City",
-      en: "Smart City",
+      de: "Strategie Gemeinsam Digital: Berlin",
+      en: "EMPTY",
     },
     blocks: {
       intro: {
@@ -40,7 +55,7 @@ const content = {
           en: "EMPTY",
         },
         text: {
-          de: "Mit der Verabschiedung der Strategie Gemeinsam Digital: Berlin hat das CityLAB in Zusammenarbeit mit der Senatskanzlei Berlin und vielen Akteur:innen der Stadtgesellschaft einen weiteren Meilenstein in der Umsetzung des Modellprojekts Smart City Berlin erreicht. Dabei blicken wir zurück auf einen fast zweijährigen Strategieprozess, bei dem wir im Austausch mit zentralen Akteur:innen und vor allem über 2.000 Berliner:innen Ideen gewälzt, Werte formuliert und vor allem viel Neues dazugelernt haben. Mit dem Abschluss des Strategieprozesses beginnt zugleich auch die Umsetzung von fünf Pilotprojekten und weiteren ersten Maßnahmen, bei denen das CityLAB und die Technologiestiftung tragende Rollen spielen werden.",
+          de: "Die Strategie Gemeinsam Digital: Berlin ist eine Fusion aus der Berliner Digitalstrategie und der Smart City-Strategie. Damit ist sie das Umbauprogramm hin zu einem smarten Berlin. Das zentrale Ziel: Die Transformation Berlins nachhaltig, gemeinwohlorientiert, kooperativ und resilient zu gestalten. Da darf natürlich auch das CityLAB nicht fehlen!",
           en: `EMPTY`,
         },
       },
@@ -69,8 +84,8 @@ const content = {
         },
         img: {
           src: "assets/images/2_Strategie Gemeinsam Digital.webp",
-          alt: "EMPTY",
-          copyright: "© CityLAB",
+          alt: "Hauptvisual der Strategie Gemeinsam Digital: Berlin",
+          copyright: "© Larissa Hoff, aufsiemitgebrüll",
         },
       },
     ],
@@ -670,17 +685,6 @@ const content = {
   outtro: {
     de: "Das war’s mit unserem Rückblick 2021! Wir schauen auf ein abwechslungsreiches Jahr zurück, das genauso vielfältig war wie Berlin selbst! Nun freuen wir uns auf 2022 und viele gemeinsame Projekte mit der Berliner Verwaltung und der Stadtgesellschaft. <br/> <br/>Euer CityLAB Berlin der Herzen",
     en: `And with that, we close out our look back on a year that was just as thrilling and diverse as Berlin itself! Now we are looking forward to 2022 and all of the collaborative projects with Berlin's city administration and the city society the year will have in store for us.<br/><br/>Your CityLAB Berlin`,
-  },
-  header: {
-    headline: {
-      de: "CityLAB Jahresbericht 2022",
-      en: "CityLAB review 2022",
-    },
-    img: {
-      src: "assets/images/1_CityLAB Team.jpg",
-      alt: "image tag",
-      copyright: "Photo by © CityLAB",
-    },
   },
   footer: {
     copyright: "© 2022 Technologiestiftung Berlin",

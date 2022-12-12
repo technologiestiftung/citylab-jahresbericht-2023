@@ -1,12 +1,14 @@
 import cn from "./Foreword.module.scss";
 import cx from "classnames";
 
+import Headline from "../../components/Headline";
 import Paragraph from "../../components/Paragraph";
 
 function Foreword({ content, lang }) {
   return (
     <section>
       <div className={cx(cn.wrapper, cn.layoutWrapper)}>
+        <Headline lang={lang} content={content.title} />
         <Paragraph lang={lang} content={content.text} />
       </div>
       <div className={cn.contentWrapper}>
