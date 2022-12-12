@@ -5,12 +5,10 @@ import LanguageSwitch from "../LanguageSwitch";
 
 import cn from "./Navbar.module.scss";
 
-import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
 import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
-import { ReactComponent as ActivitiesIcon } from "../../icons/Nav-Icon-Activities.svg";
 
 const icons = {
   smartCity: {
@@ -23,25 +21,15 @@ const icons = {
     width: 30,
     offset: 50,
   },
-  unterwegs: {
-    icon: <UnterwegsIcon />,
-    width: 30,
-    offset: 100,
-  },
-  bildung: {
-    icon: <BildungIcon />,
-    width: 30,
-    offset: 150,
-  },
   prototyping: {
     icon: <PrototypingIcon />,
     width: 30,
     offset: 200,
   },
-  activities: {
-    icon: <ActivitiesIcon />,
+  unterwegs: {
+    icon: <UnterwegsIcon />,
     width: 30,
-    offset: 250,
+    offset: 100,
   },
 };
 
@@ -49,7 +37,6 @@ const activeTopicSelector = s => s.activeTopic;
 
 const hideNav = sections => {
   const positions = getScrollPositionsOfSections(sections);
-
   return positions.firstSectionPosition < 0 && positions.footerPosition > 0;
 };
 
@@ -57,7 +44,7 @@ const getScrollPositionsOfSections = sections => {
   const firstSection = document.getElementById(
     `section-${sections[0].scrollId}`
   );
-  const firstSectionAfterProjects = document.getElementById("team");
+  const firstSectionAfterProjects = document.getElementById("unterwegs");
 
   const firstSectionPosition = firstSection.getBoundingClientRect().top;
   const footerPosition = firstSectionAfterProjects.getBoundingClientRect().top;
