@@ -2,7 +2,7 @@ import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg"
 import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
-import { ReactComponent as KulturIcon } from "../../icons/Nav-Icon-Kultur.svg";
+import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 
 const slideWidth = 317;
 const iconWidthPlusGap = 64.5;
@@ -11,7 +11,7 @@ export const departmentList = [
   "smartCity",
   "verwaltung",
   "bildung",
-  "kultur",
+  "unterwegs",
   "prototyping",
 ];
 
@@ -93,18 +93,18 @@ export const departments = {
       2021: ["Offene Werkstatt im CityLAB Berlin", "Hacking Box", "EduTechMap"],
     },
   },
-  kultur: {
-    component: <KulturIcon />,
-    label: "Kultur",
+  unterwegs: {
+    component: <UnterwegsIcon />,
+    label: "Unterwegs",
     navOffset: iconWidthPlusGap * 3,
     slideOffset: -slideWidth * 3,
     years: [2017, 2018, 2019, 2020, 2021],
     projectsPerYear: {
       2017: [],
       2018: [],
-      2019: ["kulturBdigital"],
-      2020: ["kulturdaten.berlin", "kulturBdigital"],
-      2021: ["kulturdaten.berlin", "kulturBdigital"],
+      2019: ["unterwegsBdigital"],
+      2020: ["unterwegsdaten.berlin", "unterwegsBdigital"],
+      2021: ["unterwegsdaten.berlin", "unterwegsBdigital"],
     },
   },
   prototyping: {

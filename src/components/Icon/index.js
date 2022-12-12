@@ -4,7 +4,7 @@ import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg"
 import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
-import { ReactComponent as KulturIcon } from "../../icons/Nav-Icon-Kultur.svg";
+import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 import { ReactComponent as ActivitiesIcon } from "../../icons/Nav-Icon-Activities.svg";
 import { ReactComponent as TeamIcon } from "../../icons/Nav-Icon-Team.svg";
 import { ReactComponent as EntwicklungIcon } from "../../icons/Nav-Icon-Entwicklung.svg";
@@ -17,7 +17,7 @@ function Icon({ type }) {
       {type === "smartCity" && <SmartCityIcon />}
       {type === "prototyping" && <PrototypingIcon />}
       {type === "verwaltung" && <VerwaltungIcon />}
-      {type === "kultur" && <KulturIcon />}
+      {type === "unterwegs" && <UnterwegsIcon />}
       {type === "activities" && <ActivitiesIcon />}
       {type === "team" && <TeamIcon />}
       {type === "entwicklung" && <EntwicklungIcon />}

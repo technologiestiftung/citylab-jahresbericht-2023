@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 import Foreword from "./sections/Foreword";
 import SmartCity from "./sections/SmartCity";
 import Verwaltung from "./sections/Verwaltung";
-import Kultur from "./sections/Kultur";
+import Unterwegs from "./sections/Unterwegs";
 import Bildung from "./sections/Bildung";
 import Prototyping from "./sections/Prototyping";
 import Activities from "./sections/Activities";
@@ -22,7 +22,7 @@ const getNavItems = () => {
   const keys = [
     "smartCity",
     "verwaltung",
-    "kultur",
+    "unterwegs",
     "bildung",
     "prototyping",
     "activities",
@@ -51,13 +51,13 @@ function App() {
       <SmartCity lang={lang} content={content.smartCity} ui={content.ui} />
       <Verwaltung lang={lang} content={content.verwaltung} ui={content.ui} />
       <Prototyping lang={lang} content={content.prototyping} ui={content.ui} />
-      <Kultur lang={lang} content={content.kultur} ui={content.ui} />
-      <Bildung lang={lang} content={content.bildung} ui={content.ui} />
+      <Unterwegs lang={lang} content={content.unterwegs} ui={content.ui} />
+      {/* <Bildung lang={lang} content={content.bildung} ui={content.ui} />
       <Activities lang={lang} content={content.activities} ui={content.ui} />
       {lang === "de" && (
         <Chronologie lang={lang} content={content.chronologie} />
       )}
-      <Team lang={lang} content={content.team} ui={content.ui} />
+      <Team lang={lang} content={content.team} ui={content.ui} /> */}
       <Outro lang={lang} content={content.outro} />
       <Footer content={content.footer} lang={lang} />
     </div>

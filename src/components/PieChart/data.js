@@ -1,7 +1,7 @@
 export const labels = [
   "Senatsverwaltung für Wirtschaft, Energie und Betriebe",
   "Senatskanzlei",
-  "Senatsverwaltung für Kultur und Europa",
+  "Senatsverwaltung für Unterwegs und Europa",
   "Bundesforschungs- ministerium",
   "Erlöse aus Leistungen Smart City",
   "Weitere Erlöse/sonstige Erträge",

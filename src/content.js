@@ -323,7 +323,7 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/qtrees.jpg",
+          src: "assets/images/9_QTrees.jpg",
           alt: "EMPTY",
           copyright: "EMPTY",
         },
@@ -485,6 +485,188 @@ const content = {
       },
     ],
   },
+  unterwegs: {
+    id: "4.0",
+    topic: {
+      de: "CityLAB unterwegs",
+      en: "EMPTY",
+    },
+    blocks: {
+      intro: {
+        title: {
+          de: "Stadtlabor mit internationalem Flair",
+          en: "EMPTY",
+        },
+        text: {
+          de: "Beim Anblick der vielen Delegationen, die wir bei uns im CityLAB begrüßen dürfen, könnte man meinen, der ehemalige Flughafen Tempelhof wäre noch in Betrieb: So viel internationalen Austausch hatten wir noch nie! Der stetige Blick über den Berliner Tellerrand hält uns fit und ist genau die Kost, die wir brauchen, um uns zu neuen Höhenflügen inspirieren zu lassen. Gleichzeitig waren auch wir viel unterwegs, um uns auf Messen und Veranstaltungen zu inspirieren und auszutauschen. Unser Highlight: Die vielen Gespräche und das große Interesse an Themen wie Digitalisierung, Smart City-Ansätzen und das Innovationspotenzial Berlins.",
+          en: "EMPTY",
+        },
+      },
+    },
+    items: [
+      {
+        id: "4.1",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "EMPTY",
+              href: "https://citylab-berlin.org/de/blog/republica-2022-berliner-smart-city-pilotprojekte-vorgestellt/",
+            },
+          ],
+          title: {
+            de: "Re:publica",
+            en: "Re:publica",
+          },
+          paragraph: {
+            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica in diesem Jahr endlich wieder vor Ort statt und da durfte das CityLAB natürlich nicht fehlen! Zusammen mit der Senatskanzlei Berlin nutzten wir die Chance, der Öffentlichkeit die Strategie Gemeinsam Digital: Berlin sowie das Team dahinter zu präsentieren. Neben unserem Abendevent zum Networking bot unser Sensor-Workshop ein weiteres Highlight auf der re:publica, bei dem unser Prototyping-Team zeigte, wie man mithilfe von Sensoren Daten erfassen, teilen und visualisieren kann, um seine Stadt besser zu verstehen.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/15_Republica.jpeg",
+          alt: "image tag",
+          copyright: "TODO",
+        },
+      },
+      {
+        id: "4.2",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Mehr Infos",
+              en: "EMPTY",
+              href: `https://citylab-berlin.org/de/events/smart-country-convention-sccon-2022/`,
+            },
+          ],
+          title: {
+            de: "Smart Country Convention (SCCON)",
+            en: "Smart Country Convention (SCCON)",
+          },
+          paragraph: {
+            de: "Im Oktober öffnete die Smart Country Convention wieder ihre Türen und brachte sowohl Menschen als auch Ideen aus Verwaltung, Politik, Wissenschaft und Digitalwirtschaft zum Thema E-Government und Smart City zusammen. Gemeinsam mit der Senatskanzlei präsentierte das CityLAB dabei auf dem Berliner Gemeinschaftsstand die neuesten Entwicklungen aus der Smart City-Strategie für Berlin und bot mit weiteren Berliner Organisator:innen unter dem Motto Gemeinsam Digital: Berlin ein vielfältiges Standprogramm an. Abgerundet wurde das erfolgreiche Event mit einem Standbesuch der Regierenden Bürgermeisterin Franziska Giffey und CDO Dr. Ralf Kleindiek.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/16_Smart Country Convention.jpg",
+          alt: "image tag",
+          copyright: "TODO",
+        },
+      },
+      {
+        id: "4.3",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Programm",
+              en: "EMPTY",
+              href: `https://citylab-berlin.org/de/events/smart-city-expo-world-congress-2022/`,
+            },
+            {
+              de: "Mehr Eindrücke",
+              en: "EMPTY",
+              href: `https://flic.kr/s/aHBqjAiu6W`,
+            },
+          ],
+          title: {
+            de: "Smart City Expo World Congress (SCEWC) Barcelona",
+            en: "Smart City Expo World Congress (SCEWC) Barcelona",
+          },
+          paragraph: {
+            de: "Auch in diesem Jahr war das CityLAB gemeinsam mit der Senatskanzlei Berlin wieder prominent auf dem SCEWC vom 15. bis 17. November in Barcelona vertreten. Auf dem Programm standen neben einem Roundtable zur Vorstellung der Highlights und Erfahrungen aus dem Berliner Smart City-Strategieprozesses die Vorstellung des Projekts QTrees sowie das erste internationale LabCamp, das von CDO Dr. Ralf Kleindiek und CTO von Barcelona, Michael Donaldson, eröffnet wurde. Das Netzwerkformat bot drei gelungenen Beispielen von Innovationslaboren eine Plattform zum Austausch zu gemeinsamen Ansätzen und Herausforderungen. Als Co-Hosts von Berlin Partner lud das CityLAB zudem zur Berlin Smart City Night ein, wo ein Expert:innen-Austausch zu Themen wie Innovation, Kooperation und Digitalisierung in gemütlicher Atmosphäre stattfand.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/17_BerlinSmartCityNight_Luli Puccio.jpg",
+          alt: "image tag",
+          copyright: "TODO",
+        },
+      },
+      {
+        id: "4.4",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [],
+          title: {
+            de: "Delegationsbesuche im CityLAB",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Von Paris bis Seoul, Pristina oder Jakarta – die Liste unserer diesjährigen Besucher:innen im CityLAB ist lang und kannte vor allem keine Ländergrenzen! Nachdem der Besucher:innenbetrieb im Jahr zuvor pandemiebedingt doch sehr eingeschränkt war, freuten wir uns umso mehr über die zahlreichen Besuche aus dem Ausland und den gemeinsamen Austausch vor Ort im CityLAB. Eines von vielen Highlights: das große Interesse und Überlegungen zur Adaption von Gieß den Kiez in Paris und Los Angeles!",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/18_Delegationen.jpg",
+          alt: "image tag",
+          copyright: "TODO",
+        },
+      },
+      {
+        id: "4.5",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Mehr Infos",
+              en: "EMPTY",
+              href: `https://berlinscienceweek.com/event/die-zukunft-ist-offen/`,
+            },
+          ],
+          title: {
+            de: "Berlin Science Week",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Zürich trifft Berlin: Auf der Berlin Science Week trat das CityLAB mit der Schweizer Metropole in einen Dialog über gemeinsame Ziele und Herausforderungen zu Themen wie Klimaneutralität, Mobilitätswende, bezahlbarer Wohnraum, Chancengleichheit und Inklusion. Diese Themen stehen auch im Fokus unserer Projekte wie dem Haushaltsdatentool und der Berliner Erfrischungskarte, die in Zusammenarbeit mit der ODIS entwickelt und auf der Berlin Science Week vorgestellt wurden.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/19_Berlin Science Week.jpg",
+          alt: "image tag",
+          copyright: "TODO",
+        },
+      },
+      {
+        id: "4.6",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "EMPTY",
+              href: `https://citylab-berlin.org/de/blog/unser-besuch-in-der-partnerstadt-jakarta/`,
+            },
+          ],
+          title: {
+            de: "Smart Change Delegationsreise nach Jakarta",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Jakarta und Berlin verbindet eine ganze Menge: Als eine von 17 Städten weltweit gehört die Hauptstadt Indonesiens seit 1994 zu Berlins Partnerstädten. Im Juni 2022 durfte das CityLAB Berlin eine Delegation aus Jakarta und Bangkok im Rahmen des EuropeAid-Projekts Smart Change begrüßen. Zwei Monate später stand der Gegenbesuch in Jakarta an. Die spannendsten Einblicke und Erkenntnisse unserer Reise haben wir für euch festgehalten.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/20_Jakarta.jpg",
+          alt: "image tag",
+          copyright: "TODO",
+        },
+      },
+    ],
+  },
   outtro: {
     de: "Das war’s mit unserem Rückblick 2021! Wir schauen auf ein abwechslungsreiches Jahr zurück, das genauso vielfältig war wie Berlin selbst! Nun freuen wir uns auf 2022 und viele gemeinsame Projekte mit der Berliner Verwaltung und der Stadtgesellschaft. <br/> <br/>Euer CityLAB Berlin der Herzen",
     en: `And with that, we close out our look back on a year that was just as thrilling and diverse as Berlin itself! Now we are looking forward to 2022 and all of the collaborative projects with Berlin's city administration and the city society the year will have in store for us.<br/><br/>Your CityLAB Berlin`,
@@ -562,55 +744,6 @@ const content = {
       de: "Weitere Links:",
       en: "More links:",
     },
-  },
-  kultur: {
-    id: "3.0",
-    topic: {
-      de: "Kultur",
-      en: "Culture",
-    },
-    blocks: {
-      intro: {
-        title: {
-          de: "Kultur",
-          en: "Culture",
-        },
-        text: {
-          de: "<strong>Wir unterstützen den digitalen Wandel des Berliner Kulturbereichs </strong></br>Kulturschaffende nutzen digitale Technologien für neue Produktionen, präsentieren ihre Sammlungen im Netz, können neue Zielgruppen erreichen und mit Interessierten ins Gespräch kommen. Und natürlich können sie auch selbst ihre Arbeit effizienter gestalten.  Deshalb gilt es, schnell neue Kompetenzen aufzubauen, um die Bandbreite der digitalen Möglichkeiten bewerten und zielgerichtet für ihre Arbeit einsetzen zu können.",
-          en: "<strong>We support the digital transformation of Berlin’s cultural sector </strong></br>Cultural professionals use digital technologies for a variety of purposes ranging from new productions to the presentation of their collections on the web or the activation of target groups. With these tools, they are able to work more efficiently. This is why it is essenatial to quickly develop new skills and broaden the range of digital possibilities..",
-        },
-      },
-    },
-    items: [
-      {
-        id: "3.1",
-        theme: "light",
-        align: "left",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Webseite kulturBdigital",
-              href: "https://kultur-b-digital.de",
-            },
-          ],
-          title: {
-            de: "kulturBdigital",
-            en: "kulturBdigital",
-          },
-          paragraph: {
-            de: "Im Projekt kulturBdigital vermittelt die Technologiestiftung Praxiswissen zum Einsatz digitaler Technologien im Kulturbereich, zeigt Good Practice-Beispiele und vernetzt die Kulturschaffenden spartenübergreifend.</br></br>2021 wurde eine Befragung zu digitaler Infrastruktur durchgeführt. Die Ergebnisse sind auch eine wichtige Grundlage für die bedarfsgerechte Ausrichtung von Förderprogrammen zur digitalen Entwicklung des Kulturbereichs.</br></br>Ein Beispiel für gemeinsame digitale Infrastruktur ist die von der Senatsverwaltung für Kultur geförderte offene Plattform kulturdaten.berlin. Diese befindet sich im geschlossenen Beta-Betrieb und wird zurzeit für den Live-Betrieb vorbereitet.",
-            en: "In the project kulturBdigital, the Technologiestiftung imparts practical knowledge on the use of digital technologies in the cultural sector, shares examples of good practice, and networks cultural professionals on a cross-disciplinary basis.</br></br>A survey was conducted on digital infrastructure in 2021. The results also provided an important basis for the needs-based alignment of funding programs aimed at the digital development of the cultural sector.</br></br>One example of shared digital infrastructure is the open platform kulturdaten.berlin, funded by the Senate Department for Culture and Europe. Currently, the platform is in its beta phase and being prepared for its public launch.",
-          },
-        },
-        img: {
-          src: "assets/images/kultur_bdigital.png",
-          alt: "image tag",
-          copyright: "TODO",
-          fit: "contain",
-        },
-      },
-    ],
   },
   bildung: {
     id: "4.0",
@@ -770,7 +903,7 @@ const content = {
       {
         month: "01",
         text: {
-          de: `Die Technologiestiftung legt die Studie <a href="https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2021/270127_Studie_Digitales-Ehrenamt.pdf" target="_blanc">digital im Verein</a> vor, die zeigt, dass der ehrenamtliche Bereich Nachholbedarf bei der Digitalisierung hat und wie man ihn unterstützen kann. <br/><br/>Das Projekt <a href="https://kultur-b-digital.de/" target="_blanc">kulturBdigital</a> übernimmt die Begleitung der sieben von der Jury ausgewählten Projekte im Förderprogramm digitale Entwicklung im Kulturbereich der Senats­verwaltung für Kultur und Europa.`,
+          de: `Die Technologiestiftung legt die Studie <a href="https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2021/270127_Studie_Digitales-Ehrenamt.pdf" target="_blanc">digital im Verein</a> vor, die zeigt, dass der ehrenamtliche Bereich Nachholbedarf bei der Digitalisierung hat und wie man ihn unterstützen kann. <br/><br/>Das Projekt <a href="https://unterwegs-b-digital.de/" target="_blanc">unterwegsBdigital</a> übernimmt die Begleitung der sieben von der Jury ausgewählten Projekte im Förderprogramm digitale Entwicklung im Unterwegsbereich der Senats­verwaltung für Unterwegs und Europa.`,
           en: "EMPTY",
         },
       },
@@ -826,7 +959,7 @@ const content = {
       {
         month: "11",
         text: {
-          de: `Nach der bedarfsgerechten, technischen Entwicklung des Eingabeinterfaces befindet sich die zentrale, offene Plattform kulturdaten.berlin im geschlossenen Betabetrieb und geht in den Probe- und Livebetrieb über. <br/><br/>Die Technologiestiftung hat ihre Webseite überarbeitet, um neuen technische Möglichkeiten und veränderten Nutzer:innengewohnheiten gerecht zu werden. Der Relaunch geht online.`,
+          de: `Nach der bedarfsgerechten, technischen Entwicklung des Eingabeinterfaces befindet sich die zentrale, offene Plattform unterwegsdaten.berlin im geschlossenen Betabetrieb und geht in den Probe- und Livebetrieb über. <br/><br/>Die Technologiestiftung hat ihre Webseite überarbeitet, um neuen technische Möglichkeiten und veränderten Nutzer:innengewohnheiten gerecht zu werden. Der Relaunch geht online.`,
           en: "EMPTY",
         },
       },

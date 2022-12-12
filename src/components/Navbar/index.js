@@ -9,7 +9,7 @@ import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg"
 import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
-import { ReactComponent as KulturIcon } from "../../icons/Nav-Icon-Kultur.svg";
+import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 import { ReactComponent as ActivitiesIcon } from "../../icons/Nav-Icon-Activities.svg";
 
 const icons = {
@@ -23,8 +23,8 @@ const icons = {
     width: 30,
     offset: 50,
   },
-  kultur: {
-    icon: <KulturIcon />,
+  unterwegs: {
+    icon: <UnterwegsIcon />,
     width: 30,
     offset: 100,
   },
