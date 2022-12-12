@@ -5,7 +5,7 @@ function Intro({ content, lang }) {
   return (
     <>
       <div className={cn.textContainer} id='intro'>
-        <img src='assets/logos/tsb-logo.svg' alt='' />
+        <img src='assets/logos/citylab-logo.svg' alt='' />
         <h2
           className={cn.headline}
           dangerouslySetInnerHTML={{ __html: headline[lang] }}

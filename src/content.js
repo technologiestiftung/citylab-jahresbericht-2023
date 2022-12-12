@@ -65,14 +65,13 @@ const content = {
   },
   header: {
     headline: {
-      de: "Jahresbericht 2021",
-      en: "Annual review 2021",
+      de: "Jahresbericht 2022",
+      en: "Annual review 2022",
     },
     img: {
-      src: "assets/images/hero.jpg",
+      src: "assets/images/1_CityLAB Team.jpg",
       alt: "image tag",
-      copyright:
-        'Photo by <a href="https://unsplash.com/@florianwehde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Wehde</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>',
+      copyright: "Photo by © CityLAB",
     },
   },
   intro: {
