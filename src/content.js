@@ -706,15 +706,7 @@ const content = {
           href: "#section-1.0",
         },
         {
-          label: "Chronologie",
-          href: "#chronologie",
-        },
-        {
-          label: "Das sind wir",
-          href: "#team",
-        },
-        {
-          label: "Jahresabschluss",
+          label: "Schluswort",
           href: "#numbers",
         },
       ],

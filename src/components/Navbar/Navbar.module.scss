@@ -1,11 +1,10 @@
 @import "../../styles/base.scss";
 :local {
   .navbar {
-    padding: 8px 6px;
+    padding: 8px 12px 8px 6px;
     position: fixed;
     bottom: 30px;
     height: 40px;
-    width: 324px;
     background-color: $white;
     border-radius: 0px;
     @include box-shadow;
@@ -61,7 +60,7 @@
     .verwaltung {
       display: block;
     }
-    .unterwegs {
+    .kultur {
       display: block;
     }
   }
