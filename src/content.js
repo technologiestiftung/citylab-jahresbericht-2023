@@ -73,31 +73,172 @@ const content = {
           copyright: "© CityLAB",
         },
       },
+    ],
+  },
+  verwaltung: {
+    id: "2.0",
+    topic: {
+      de: "CityLAB im Austausch mit Verwaltungen",
+      en: "EMPTY",
+    },
+    blocks: {
+      intro: {
+        title: {
+          de: "Auf Augenhöhe mit der Verwaltung",
+          en: "EMPTY",
+        },
+        text: {
+          de: "Wir stoßen Innovationsprozesse für und mit der Berliner Verwaltung an – und das immer auf Augenhöhe. Dafür nutzen wir all unsere Sinne: Wir hören zu, beraten zu digitalen Vorhaben und sind viel unterwegs, oft direkt vor Ort und stets im persönlichen Austausch mit den Mitarbeitenden.",
+          en: "EMPTY",
+        },
+      },
+    },
+    items: [
       {
-        id: "1.2",
+        id: "2.1",
         theme: "dark",
         align: "left",
         text: {
           links: [
             {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://odis-berlin.de",
+              de: "Zum Blogbeitrag",
+              en: "Blog post",
+              href: "https://citylab-berlin.org/de/blog/das-burgeramt-der-zukunft-teil-1/",
             },
           ],
           title: {
-            de: "Open Data Informationsstelle Berlin (ODIS)",
-            en: "Open Data Information Service Berlin (ODIS)",
+            de: "Bürgeramt der Zukunft",
+            en: "EMPTY",
           },
           paragraph: {
-            de: `Berlin bekennt sich zu einer Open Data-Strategie. Nicht geheime Daten der Verwaltungen sollen offengelegt und zur Weiternutzung zur Verfügung gestellt werden. Obwohl die Akzeptanz dafür in den letzten Jahren deutlich gestiegen ist, ist das Ziel noch nicht erreicht, weil beispielsweise die Relevanz der Daten nicht erkannt wird oder es an technischer Kompetenz fehlt. </br></br>Die Open Data Informationsstelle, die bei der Technologiestiftung angesiedelt ist, berät bei der Datenaufbereitung und baut gemeinsam mit den Verwaltungen <a href="https://www.technologiestiftung-berlin.de/blog/odis-stellt-digitalen-prototypen-fuer-die-optimierung-von-wahlbezirken-vor" target="_blanc">digitale Tools</a>, die das Potenzial von Verwaltungsdaten zeigen. 2021 wurden außerdem <a  href="https://www.youtube.com/playlist?list=PLRIKlbncTSl-BGkz761lQf7sRcLPBN-YU" target="_blanc">Online-Tutorials</a> produziert, die im Netz abrufbar sind.`,
-            en: `Berlin is committed to an open data strategy. Non-secret data held by administrations is to be disclosed and made available for further use. Although acceptance of this has increased significantly in recent years, the goal has not yet been achieved, not least because the relevance of the data is not recognized, for example, or there is a lack of technical expertise. </br></br>The Open Data Information Service, based at the Technologiestiftung, advises on data preparation and works with administrations to build <a href="https://www.technologiestiftung-berlin.de/blog/odis-stellt-digitalen-prototypen-fuer-die-optimierung-von-wahlbezirken-vor" target="_blanc">digitale Tools</a>, that show the potential of administrative data. In 2021, <a  href="https://www.youtube.com/playlist?list=PLRIKlbncTSl-BGkz761lQf7sRcLPBN-YU" target="_blanc">Online-Tutorials</a> were also produced that are available for access.`,
+            de: "Wie könnten Berliner Bürger:innen schneller Termine in Bürgerämtern bekommen? Wie sieht ein Arbeitsplatz in einem Bürgeramt der Zukunft aus? Welche Arbeitsabläufe im Ausbildungsbürgeramt können optimiert werden und dazu beitragen, dass das 14-Tage-Ziel, also die Möglichkeit, innerhalb von 14 Tagen einen Termin beim Bürgeramt zu ergattern, in Berlin besser erreicht werden kann? In unserem Projekt Bürgeramt der Zukunft haben wir uns dieser Frage angenommen und gemeinsam mit dem Ausbildungsbürgeramt Friedrichshain-Kreuzberg einen Prototypen vor Ort getestet. Ziel der Testphase war die Überprüfung der Hypothese, dass ein Vor-Ort-Check-In dem Ausbildungsbürgeramt hilft, nicht zu Terminen erschienene Personen (sog. “Nichtkommer”) schneller und besser zu identifizieren und dadurch eine flexiblere Termingestaltung zu ermöglichen. Parallel zu den sehr erfolgreichen Testtagen wurde eine quantitative und qualitative Befragung durchgeführt. Die Ergebnisse werden im nächsten Schritt ausgewertet und der Amtsleitung der Bürgerdienster Friedrichshain-Kreuzberg zur Verfügung gestellt.",
+            en: "EMPTY",
           },
         },
         img: {
-          src: "assets/images/smart-city_ODIS.png",
+          src: "assets/images/3_Bürgeramt der Zukunft.jpg",
           alt: "image tag",
-          copyright: "© CityLAB Berlin",
+          copyright: "© 2022 CityLAB Berlin",
+          fit: "contain",
+          maxWidth: "600px",
+          position: "center right",
+        },
+      },
+      {
+        id: "2.2",
+        theme: "light",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Mehr Infos",
+              en: "Find out more",
+              href: "https://citylab-berlin.org/de/blog/ein-blick-in-berlins-geldbeutel/",
+            },
+          ],
+          title: {
+            de: "Haushaltsdatenprojekt",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Pro Jahr stehen der Berliner Politik und Verwaltung über 35 Milliarden Euro zur Umsetzung ihrer Ziele zur Verfügung. Doch wie viel Geld fließt konkret wohin? Zusammen mit dem Team der  Open Data Informationsstelle (ODIS) und der Senatsverwaltung für Finanzen hat das CityLAB in einem einwöchigen Sprint die offenen Haushaltsdaten für Berlin visualisiert und interaktiv aufbereitet. Das Ergebnis ist eine Website, die es Nutzer:innen erlaubt, Einnahmen und Ausgaben der Senatsverwaltungen und Bezirke sowie Funktionen und Themenbereiche anhand von interaktiven Diagrammen sowie einer Textsuche zu erkunden und zu vergleichen. Konzipiert ist die Open-Source-Anwendung als ein niedrigschwelliges Angebot, das sich an die breite Öffentlichkeit richtet. Die hinterlegten Daten und der Quellcode der Website sind frei verfügbar.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/4_Haushaltsdatentool.png",
+          alt: "image tag",
+          copyright: "© 2022 CityLAB Berlin",
+          fit: "contain",
+        },
+      },
+      {
+        id: "2.3",
+        theme: "light",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zu den Videos",
+              en: "EMPTY",
+              href: "https://www.youtube.com/playlist?list=PLRIKlbncTSl8xCXudSjAO77vHpwE9HdDX",
+            },
+            {
+              de: "Zu den Fotos",
+              en: "EMPTY",
+              href: "https://www.flickr.com/photos/182217318@N05/albums/72177720300348470",
+            },
+          ],
+          title: {
+            de: "Sommerfest",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Zum dritten Geburtstag feierte das CityLAB der Technologiestiftung Berlin sein großes Sommerfest im ehemaligen Flughafen Tempelhof. Zusammen mit rund 650 Gästen blicken wir zurück auf einen Tag voller Highlights – vom Besuch unserer Regierenden Bürgermeisterin Franziska Giffey und unseres Chief Digital Officer Dr. Ralf Kleindiek bis hin zu musikalischen Performances von Mouse on Mars, DJ Femalemacho und Byrke Lou. Durch interaktive und unterhaltsame Lern- und Diskussionsformate bot das Sommerfest Akteur:innen aus den Bereichen partizipative Stadtentwicklung, Verwaltungsinnovation, Digitalisierung und Smart City ein Forum zum Zuhören, Lernen, Präsentieren und Diskutieren und trug dazu bei, den Diskurs rund um die partizipative Stadtentwicklung zu stärken.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/5_Sommerfest CityLAB 2022.jpg",
+          alt: "image tag",
+          copyright: "© 2022 CityLAB Berlin",
+        },
+      },
+      {
+        id: "2.4",
+        theme: "light",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Mehr Infos",
+              en: "EMPTY",
+              href: "https://citylab-berlin.org/de/projects/citylab-roadshow/",
+            },
+          ],
+          title: {
+            de: "CityLAB Roadshow",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Im Rahmen unserer neuen Veranstaltungsreihe Roadshow besuchte das CityLAB  verschiedene Verwaltungen, um ein tieferes Verständnis für die Herausforderungen der Digitalisierung im Alltag der Verwaltung zu erlangen und mögliche Anknüpfungspunkte für gemeinsame Projekte zu identifizieren. Den Auftakt für die Hausbesuche machten die Senatsverwaltung für Inneres, Digitalisierung und Sport sowie das Bezirksamt Pankow, viele weitere folgten Nach einer Vorstellung unseres Labs sowie aktueller und realisierter Projekte wurde die Zeit vor Ort für ein individuelles Coaching, Diskussionen und Einblicke in agile Arbeitsweisen genutzt.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/6_Roadshow.jpg",
+          alt: "image tag",
+          copyright: "© 2022 CityLAB Berlin",
+        },
+      },
+      {
+        id: "2.5",
+        theme: "light",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zur Website",
+              en: "EMPTY",
+              href: "https://service-agentinnen.citylab-berlin.org/",
+            },
+          ],
+          title: {
+            de: "Service-Agent:innen Website-Launch",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: `Mit dem Launch der neuen Website <a href="https://service-agentinnen.citylab-berlin.org/ " target="_blanc">Service-Agent:innen</a> wurde für Mitarbeiter:innen der Verwaltung ein neues Informationsangebot geschaffen, das insgesamt acht Module zum Thema agile Behördenarbeit enthält. Im Zentrum steht die bürgerzentrierte Entwicklung von Verwaltungsleistungen. Verschiedene Methoden aus unserem Service Design-Werkzeugkasten werden hier anschaulich erklärt und laden zum Selbstlernen ein. Auch für Nicht-Verwaltungsangestellte lesenswert!`,
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/7_service agentinnen.png",
+          alt: "image tag",
+          copyright: "© 2022 CityLAB Berlin",
+          fit: "contain",
+          maxWidth: "600px",
+          position: "center right",
         },
       },
     ],
@@ -179,87 +320,6 @@ const content = {
       de: "Weitere Links:",
       en: "More links:",
     },
-  },
-  neueTechnologien: {
-    id: "2.0",
-    topic: {
-      de: "Neue Technologien",
-      en: "New technologies",
-    },
-    blocks: {
-      intro: {
-        title: {
-          de: "Neue Technologien",
-          en: "New technologies",
-        },
-        text: {
-          de: "Berlin ist ein erfolgreicher Innovationsstandort. In der Stadt ist exzellente Forschung zuhause – universitär und außeruniversitär. Der Stadt gelingt es immer wieder, Trends und Entwicklungen, die hier entstehen, vor Ort in die Anwendung zu bringen. Voraussetzung für den Erfolg ist, dass neueste technologische Entwicklungen frühzeitig identifiziert und strategisch gefördert werden.",
-          en: "Berlin is a successful innovation base. The city is home to excellent research – both academic and non-academic. The municipal authorities are constantly supporting the development of ideas in Berlin. This requires to identify promising technological innovations at an early stage and promote them strategically.",
-        },
-      },
-    },
-    items: [
-      {
-        id: "2.1",
-        theme: "dark",
-        align: "left",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2021/210312_Technologiestiftung-Berlin_Datenoekonomie_Report_web.pdf",
-            },
-          ],
-          title: {
-            de: "Studie Datenökonomie",
-            en: "Study on data economy",
-          },
-          paragraph: {
-            de: "Selbstfahrende Autos, bildgebende Medizingeräte, intelligente Stromzähler: Wie gut ein Produkt ist, entscheidet sich immer stärker daran, wie schnell und effektiv es Daten verarbeiten und mit weiteren Daten verknüpfen kann. Das ist eine große Herausforderung für traditionelle kleine und mittlere Unternehmen (KMU), die ihr Know-how meist seit Jahrzehnten entwickelt haben und nun zusätzlich Datenkompetenz aufbauen müssen. Sie gehen das Thema nur zögernd an, auch in Berlin. Dabei bietet die Stadt grundsätzlich ein sehr gutes Umfeld für die Entwicklung. Die Studie zeigt, wo die Chancen für die KMU liegen, was sie tun sollten und welche Rahmenbedingungen sie bei der Entwicklung unterstützen können.",
-            en: "Self-driving cars, medical imaging devices, smart electricity meters: how good a product is perceived will be increasingly determined by how quickly and effectively it can process data and link it to other data. This is a major challenge facing traditional small and medium-sized enterprises (SMEs), most of which have developed their know-how over decades and now have to build up additional data expertise. They are reluctant to address the issue – this applies in Berlin, too. The city essentially offers a very good environment for development. The study shows where opportunities lie for SMEs, what they should do and which framework conditions can support them in their development.",
-          },
-        },
-        img: {
-          src: "assets/images/neue-technologien_datenoekonomie-cropped.png",
-          alt: "image tag",
-          copyright: "© 2022 Technologiestiftung Berlin",
-          fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
-        },
-      },
-      {
-        id: "2.2",
-        theme: "light",
-        align: "right",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2021/210623_TSB_Innovationserhebung_2020_Web.pdf",
-            },
-          ],
-          title: {
-            de: "Innovationserhebung",
-            en: "Innovation Survey",
-          },
-          paragraph: {
-            de: "Die Technologiestiftung stockt jedes Jahr die Berliner Stichprobe der Umfrage des ZEWs– Leibniz Zentrum für Europäische Wirtschaftsforschung auf, die das Innovationsgeschehen bundesweit beobachtet. Die Aufstockung ermöglicht es, branchenspezifische Aussagen für Berlin zu machen und innovationsstrategische Entscheidungen auf einer guten Datengrundlage zu treffen. Für die Innovationserhebung 2020 wurden über 4.000 Unternehmen befragt. Da die Befragung teilweise in die Zeit der ersten Pandemiewelle fiel, konnten auch erste, beruhigende Aussagen zu den Auswirkungen gemacht werden: Es wurde deutlich, dass langfristig angelegte Innovationsgeschehen kaum von den ersten Pandemiewelle betroffen wurde.",
-            en: "Every year, the Technologiestiftung composes the Berlin sample for the survey conducted by the ZEW (Leibniz Centre for European Economic Research). The survey monitors innovation activity throughout Germany. This enables sector-specific statements for Berlin, thereby providing a sound data basis for decisions regarding innovation strategy. More than 4,000 companies took part in the Innovation Survey 2020. As the survey was partly conducted during the first wave of the pandemic, it was also possible to make initial, reassuring statements about the impact: it emerged that long-term innovation was barely affected by the first wave of the pandemic.",
-          },
-        },
-        img: {
-          src: "assets/images/neue-technologien_innovation-cropped.png",
-          alt: "image tag",
-          copyright: "TODO",
-          fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
-        },
-      },
-    ],
   },
   kultur: {
     id: "3.0",

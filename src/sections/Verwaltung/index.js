@@ -10,11 +10,11 @@ import Icon from "../../components/Icon";
 
 import cx from "classnames";
 
-import cn from "./NeueTechnologien.module.scss";
+import cn from "./Verwaltung.module.scss";
 
 const setActiveTopicSelector = s => s.setActiveTopic;
 
-function NeueTechnologien({ content, ui, lang }) {
+function Verwaltung({ content, ui, lang }) {
   const elementRef = useRef(null);
   const isOnScreen = useOnScreen(elementRef);
   const setActiveTopic = useStore(setActiveTopicSelector);
@@ -32,7 +32,7 @@ function NeueTechnologien({ content, ui, lang }) {
         id={`section-${content.id}`}
       >
         <div className='anchor' ref={elementRef} id={`anchor-${content.id}`} />
-        <Icon type='neueTechnologien' />
+        <Icon type='verwaltung' />
         <Headline lang={lang} content={content.blocks.intro.title} />
         <Paragraph lang={lang} content={content.blocks.intro.text} />
       </div>
@@ -41,4 +41,4 @@ function NeueTechnologien({ content, ui, lang }) {
   );
 }
 
-export default NeueTechnologien;
+export default Verwaltung;

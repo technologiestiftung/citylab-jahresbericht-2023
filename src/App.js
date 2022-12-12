@@ -6,7 +6,7 @@ import Intro from "./components/Intro";
 import Navbar from "./components/Navbar";
 import Foreword from "./sections/Foreword";
 import SmartCity from "./sections/SmartCity";
-import NeueTechnologien from "./sections/NeueTechnologien";
+import Verwaltung from "./sections/Verwaltung";
 import Kultur from "./sections/Kultur";
 import Bildung from "./sections/Bildung";
 import Reallabor from "./sections/Reallabor";
@@ -21,7 +21,7 @@ const langSelector = s => s.lang;
 const getNavItems = () => {
   const keys = [
     "smartCity",
-    "neueTechnologien",
+    "verwaltung",
     "kultur",
     "bildung",
     "reallabor",
@@ -49,11 +49,7 @@ function App() {
       {/* <Accordions accordionItems={content.accordions} lang={lang} /> */}
       <Foreword lang={lang} content={content.foreword} />
       <SmartCity lang={lang} content={content.smartCity} ui={content.ui} />
-      <NeueTechnologien
-        lang={lang}
-        content={content.neueTechnologien}
-        ui={content.ui}
-      />
+      <Verwaltung lang={lang} content={content.verwaltung} ui={content.ui} />
       <Kultur lang={lang} content={content.kultur} ui={content.ui} />
       <Bildung lang={lang} content={content.bildung} ui={content.ui} />
       <Reallabor lang={lang} content={content.reallabor} ui={content.ui} />

@@ -1,7 +1,7 @@
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
 import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
 import { ReactComponent as ReallaborIcon } from "../../icons/Nav-Icon-Reallabor.svg";
-import { ReactComponent as NeueTechnologienIcon } from "../../icons/Nav-Icon-NeueTechnologien.svg";
+import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as KulturIcon } from "../../icons/Nav-Icon-Kultur.svg";
 
 const slideWidth = 317;
@@ -9,7 +9,7 @@ const iconWidthPlusGap = 64.5;
 
 export const departmentList = [
   "smartCity",
-  "neueTechnologien",
+  "verwaltung",
   "bildung",
   "kultur",
   "reallabor",
@@ -47,8 +47,8 @@ export const departments = {
       ],
     },
   },
-  neueTechnologien: {
-    component: <NeueTechnologienIcon />,
+  verwaltung: {
+    component: <VerwaltungIcon />,
     label: "Neue Technologien",
     navOffset: iconWidthPlusGap,
     slideOffset: -slideWidth,
