@@ -9,7 +9,7 @@ import SmartCity from "./sections/SmartCity";
 import Verwaltung from "./sections/Verwaltung";
 import Kultur from "./sections/Kultur";
 import Bildung from "./sections/Bildung";
-import Reallabor from "./sections/Reallabor";
+import Prototyping from "./sections/Prototyping";
 import Activities from "./sections/Activities";
 import Chronologie from "./sections/Chronologie";
 import Team from "./sections/Team";
@@ -24,7 +24,7 @@ const getNavItems = () => {
     "verwaltung",
     "kultur",
     "bildung",
-    "reallabor",
+    "prototyping",
     "activities",
   ];
   return keys.map(d => ({
@@ -50,9 +50,9 @@ function App() {
       <Foreword lang={lang} content={content.foreword} />
       <SmartCity lang={lang} content={content.smartCity} ui={content.ui} />
       <Verwaltung lang={lang} content={content.verwaltung} ui={content.ui} />
+      <Prototyping lang={lang} content={content.prototyping} ui={content.ui} />
       <Kultur lang={lang} content={content.kultur} ui={content.ui} />
       <Bildung lang={lang} content={content.bildung} ui={content.ui} />
-      <Reallabor lang={lang} content={content.reallabor} ui={content.ui} />
       <Activities lang={lang} content={content.activities} ui={content.ui} />
       {lang === "de" && (
         <Chronologie lang={lang} content={content.chronologie} />

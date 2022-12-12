@@ -1,6 +1,6 @@
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
 import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
-import { ReactComponent as ReallaborIcon } from "../../icons/Nav-Icon-Reallabor.svg";
+import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as KulturIcon } from "../../icons/Nav-Icon-Kultur.svg";
 
@@ -12,7 +12,7 @@ export const departmentList = [
   "verwaltung",
   "bildung",
   "kultur",
-  "reallabor",
+  "prototyping",
 ];
 
 export const departments = {
@@ -107,8 +107,8 @@ export const departments = {
       2021: ["kulturdaten.berlin", "kulturBdigital"],
     },
   },
-  reallabor: {
-    component: <ReallaborIcon />,
+  prototyping: {
+    component: <PrototypingIcon />,
     label: "Prototyping",
     navOffset: iconWidthPlusGap * 4,
     slideOffset: -slideWidth * 4,

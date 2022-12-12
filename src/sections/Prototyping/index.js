@@ -8,13 +8,13 @@ import Paragraph from "../../components/Paragraph";
 import Headline from "../../components/Headline";
 import Icon from "../../components/Icon";
 
-import cn from "./Reallabor.module.scss";
+import cn from "./Prototyping.module.scss";
 
 import cx from "classnames";
 
 const setActiveTopicSelector = s => s.setActiveTopic;
 
-function Reallabor({ content, ui, lang }) {
+function Prototyping({ content, ui, lang }) {
   const elementRef = useRef(null);
   const isOnScreen = useOnScreen(elementRef);
   const setActiveTopic = useStore(setActiveTopicSelector);
@@ -32,7 +32,7 @@ function Reallabor({ content, ui, lang }) {
         id={`section-${content.id}`}
       >
         <div className='anchor' ref={elementRef} id={`anchor-${content.id}`} />
-        <Icon type='reallabor' />
+        <Icon type='prototyping' />
         <Headline lang={lang} content={content.blocks.intro.title} />
         <Paragraph lang={lang} content={content.blocks.intro.text} />
       </div>
@@ -41,4 +41,4 @@ function Reallabor({ content, ui, lang }) {
   );
 }
 
-export default Reallabor;
+export default Prototyping;

@@ -243,6 +243,248 @@ const content = {
       },
     ],
   },
+  prototyping: {
+    id: "3.0",
+    topic: {
+      de: "Prototyping für die Stadt der Zukunft",
+      en: "EMPTY",
+    },
+    blocks: {
+      intro: {
+        title: {
+          de: "Die Stadt und wir",
+          en: "EMPTY",
+        },
+        text: {
+          de: "Ob Mobilität, Bäume oder Weihnachtsmärkte – als Stadtlabor sehen wir unseren Auftrag darin, Berlin ein Stück weit effizienter, sicherer, grüner oder auch einfach nur erlebbarer zu machen. Dafür nutzen wir offene Daten oder sammeln eigene Daten, um deren Potenzial für die Stadt in unseren Projekten aufzuzeigen. Unser Motto: Mitmachen und Ausprobieren ist strengstens erwünscht!",
+          en: "EMPTY",
+        },
+      },
+    },
+    items: [
+      {
+        id: "3.1",
+        theme: "dark",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Mehr Infos",
+              en: "More info",
+              href: "https://www.freemove.space/erhebung/",
+            },
+            {
+              de: "Mehr Infos",
+              en: "More info",
+              href: "https://www.freemove.space/ ",
+            },
+          ],
+          title: {
+            de: "Datensammlung im Mobilitätsdaten-Projekt freemove",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Wie können wir Bewegungsdaten so verarbeiten, dass die Privatsphäre geschützt bleibt und wir deren Innovationspotenziale nutzen können? Antworten hierauf suchen wir im Rahmen des vom Bundesministerium für Bildung und Forschunggeförderten Projekts freemove und sind in diesem Jahr in eine weitere partizipative Phase gegangen. Zusammen mit Berliner Studierenden und dem Deutschen Zentrum für Luft- und Raumfahrt  sammelten wir über dessen Smartphone-App MovingLab zwei Wochen lang einen GPS-Datensatz. Dank dieser Daten konnten wir neben verkehrswissenschaftlichen Untersuchungen wichtige Erkenntnisse rund um Bedürfnisse zum Thema Privatsphäre ziehen. Mithilfe zusätzlicher Fragebögen fanden wir heraus, was die Studierenden zur Datenspende bewegt hat, was sie beim Spenden empfinden, und was ihnen dabei wichtig ist. Nächster Schritt: eine gründliche Auswertung der Ergebnisse zusammen mit den Uni-Partner:innen!",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/8_freemove.jpg",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+          position: "center right",
+          fit: "contain",
+        },
+      },
+      {
+        id: "3.2",
+        theme: "dark",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zur Website",
+              en: "Website",
+              href: "https://qtrees.ai",
+            },
+            {
+              de: "Zum Blogbeitrag",
+              en: "Blog post",
+              href: "EMPTY",
+            },
+          ],
+          title: {
+            de: "QTrees Prototyp",
+            en: "QTrees Prototype",
+          },
+          paragraph: {
+            de: "In dem Forschungsprojekt QuantifiedTrees (kurz: QTrees) der Technologiestiftung Berlin beschäftigten wir uns zusammen mit Birds on Mars und dem Grünflächenamt Berlin Mitte auch in diesem Jahr mit der Frage, wie man ein KI-gestütztes Vorhersagemodell nutzen kann, um die Bewässerung von Stadtbäumen effizienter zu gestalten. Herausgekommen ist dabei ein erster Prototyp namens Baumblick. Die App erlaubt der Zivilgesellschaft wichtige Einblicke in verschiedene Parameter (Alter, Größe, Stammumfang, aktuelle Wasserversorgung etc.) am Standort eines jeden Baumes und lädt schließlich dazu ein, sich für Stadtbäume zu engagieren. Nach einem erfolgreichen Launch des Prototypen auf zahlreichen Konferenzen, Messen und Meetups können wir es kaum erwarten, die finale Version der App im Frühjahr zu veröffentlichen. Doch auch danach bleibt es spannend, denn im zweiten Halbjahr wollen wir uns der Entwicklung eines Dashboards für die Straßen- und Grünflächenämter widmen, das datengestützte Entscheidungshilfen bieten soll.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/qtrees.jpg",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+        },
+      },
+      {
+        id: "3.3",
+        theme: "dark",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zur Anwendung",
+              en: "EMPTY",
+              href: "https://weihnachtsmaerkte.odis-berlin.de",
+            },
+            {
+              de: "Zum Interview mit den Entwickler:innen",
+              en: "EMPTY",
+              href: "https://citylab-berlin.org/de/blog/interview-odis-berliner-weihnachtsmarkt-finder/",
+            },
+          ],
+          title: {
+            de: "Berliner Weihnachtsmarkt-Finder",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Zum Jahresende sind wir nochmal in Höchstform aufgelaufen und haben uns zusammen mit der ODIS überlegt, wie wir Berliner:innen mittels offener Daten die Vorweihnachtszeit verschönern können. Herausgekommen ist der Berliner Weihnachtsmarkt-Finder: Mit der interaktiven Karte lassen sich über 60 Weihnachtsmärkte in Berlin erkunden, deren Daten von der Senatsverwaltung für Wirtschaft, Energie und Betriebe jährlich veröffentlicht werden. Neben einer Standortsuche und der ÖPNV-Anbindung lassen sich die Weihnachtsmärkte mithilfe einer Filterfunktion auch nach Wunschdatum, Öffnungszeiten, besonderen Angeboten oder Eintrittspreisen sortieren. Entwickelt wurde die Anwendung – von der Idee bis zum Release – in gerade einmal zwei Wochen und zählt bereits jetzt zum perfekten Begleiter durch den Berliner Winter!",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/10_xmas-Finder.jpg",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+          fit: "contain",
+        },
+      },
+      {
+        id: "3.4",
+        theme: "dark",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zur Website",
+              en: "EMPTY",
+              href: "https://www.giessdenkiez.de/",
+            },
+            {
+              de: "Zum Blogbeitrag",
+              en: "EMPTY",
+              href: "https://citylab-berlin.org/de/blog/herbstputz-bei-giess-den-kiez/",
+            },
+          ],
+          title: {
+            de: "Gieß den Kiez-Herbstputz",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Der Sommer 2022 gehört nach vorläufigen Berechnungen zu den vier wärmsten Sommern seit Beginn der Wetteraufzeichnung 1881 – und war mit einem Niederschlag von rund 145 Litern zugleich auch der sechsttrockenste Sommer, der bisher gemessen wurde. Zum Glück gibt es unsere Plattform Gieß den Kiez, wo sich eine sehr engagierte Community für die Bewässerung der Berliner Bäume koordiniert. Um uns bei den fleißigen Gießer:innen in diesem Jahr zu bedanken, haben wir uns das Feedback in unserem Slack-Kanal zu Herzen genommen und unter dem Motto “Herbstputz” in einem einwöchigen Entwicklungs-Sprint neue Features und Verbesserungen eingebaut.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/11_gdk.png",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+          position: "center left",
+        },
+      },
+      {
+        id: "3.5",
+        theme: "dark",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zur Folge",
+              en: "EMPTY",
+              href: "https://radiocitylab.podigee.io/6-klick",
+            },
+            {
+              de: "Zum Blogbeitrag",
+              en: "EMPTY",
+              href: "https://radiocitylab.podigee.io",
+            },
+          ],
+          title: {
+            de: "Podcast “Radio CityLAB Berlin”",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: "Wo entscheiden Algorithmen besser als der Mensch, wo aber nicht? Wie gelangen wir in der digitalen Welt zu den richtigen Entscheidungen und welche Hilfsmittel gibt es beim Umgang mit der Künstlichen Intelligenz? Mit dem renommierten Risiko-Forscher Prof. Dr. Gerd Gigerenzer des Max-Planck-Instituts für Bildungsforschung diskutierte unser Leiter Benjamin Seibel und über 170 Teilnehmende über digitale (Selbst)kontrolle. Der Vortrag wurde als Teil unseres Podcast-Formats Radio CityLAB Berlin aufgenommen, das in diesem Jahr mit fünf spannenden Episoden weiter ausgebaut wurde.",
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/12_RadioCityLABWebseite.jpg",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+          fit: "contain",
+          maxWidth: "600px",
+          position: "center right",
+        },
+      },
+      {
+        id: "3.6",
+        theme: "dark",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zur Stadtpuls-Story",
+              en: "EMPTY",
+              href: "https://stories.stadtpuls.com/molekuel-auf-der-spur",
+            },
+          ],
+          title: {
+            de: "Berliner Sensorgeschichten",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: `Ende 2021 präsentierte das CityLAB die neue IoT-Plattform <a href="https://stadtpuls.com/" target="_blanc">Stadtplus</a> zum ersten Mal der Öffentlichkeit. Seither ist Stadtpuls mit zahlreichen neuen Features sowie spannenden bis hin zu romantischen Data Stories durchgestartet – wie etwa mit der Liebesgeschichte zwischen Molekülen und Sensoren. Im Rahmen des COMo-Projekts wurden von der Technologiestiftung Berlin CO2-Sensoren in öffentlich zugänglichen Räumen verteilt, um die Kohlendioxidkonzentration in der Raumluft zu ermitteln. Als offene Plattform unterstützte Stadtpuls bei der Erfassung und Visualisierung der Sensordaten und deren Bereitstellung für weitere Datenauswertungen und ebnete damit den Weg für einen ersten Schritt in Richtung smarte vernetzte Stadt.`,
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/13_2_stadtpuls.png",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+        },
+      },
+      {
+        id: "3.7",
+        theme: "dark",
+        align: "right",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "EMPTY",
+              href: "https://citylab-berlin.org/de/blog/summer-school-kottiflow/",
+            },
+          ],
+          title: {
+            de: "Summer School",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: `Zum vierten Mal in Folge fand auch dieses Jahr wieder die Summer School im CityLAB statt – diesmal unter dem Motto „Open Source meets Grüne Welle“. Mit viel Forschergeist haben sich die Studierenden der Hochschule für Technik und Wirtschaft Berlin (HTW) Berlin mit der -Infrastruktur der Radwege entlang der Teststrecke des Reallabors Radbahn befasst, um gemeinsam den Grüne Welle-Assistent Kottiflow zu entwickeln. Ziel der Challenge war es, Verkehrsteilnehmende zu unterstützen, flüssiger und sicherer an ihr Ziel zu gelangen. Innerhalb von knapp zwei Wochen wurden bereits praktische Ideen und erste Prototypen entwickelt, die u.a. auch in der neuen CityLAB-Ausstellung gezeigt werden sollen.`,
+            en: "EMPTY",
+          },
+        },
+        img: {
+          src: "assets/images/14_summer school.jpg",
+          alt: "EMPTY",
+          copyright: "EMPTY",
+        },
+      },
+    ],
+  },
   outtro: {
     de: "Das war’s mit unserem Rückblick 2021! Wir schauen auf ein abwechslungsreiches Jahr zurück, das genauso vielfältig war wie Berlin selbst! Nun freuen wir uns auf 2022 und viele gemeinsame Projekte mit der Berliner Verwaltung und der Stadtgesellschaft. <br/> <br/>Euer CityLAB Berlin der Herzen",
     en: `And with that, we close out our look back on a year that was just as thrilling and diverse as Berlin itself! Now we are looking forward to 2022 and all of the collaborative projects with Berlin's city administration and the city society the year will have in store for us.<br/><br/>Your CityLAB Berlin`,
@@ -442,82 +684,6 @@ const content = {
           src: "assets/images/offene-werkstatt.jpg",
           alt: "Teilnehmer:innen bei einem Workshop in der Offenen Werkstatt der Technologiestiftung..",
           copyright: "© Archiv Technologiestiftung Berlin",
-        },
-      },
-    ],
-  },
-  reallabor: {
-    id: "5.0",
-    topic: {
-      de: "Prototyping",
-      en: "EMPTY",
-    },
-    blocks: {
-      intro: {
-        title: {
-          de: "Prototyping",
-          en: "EMPTY",
-        },
-        text: {
-          de: "Das Leben in Berlin spiegelt sich in den Daten, die anfallen. Zunehmend stellen die Verwaltung, aber auch die Versorgungsbetriebe und viele Unternehmen diese Daten als Open Data für die weitere Nutzung zur Verfügung. Die Datenanalysen und Datenvisualisierungen, die daraus entstehen, machen das Geschehen in der Stadt transparent und ermöglichen neue Services.",
-          en: "Life in Berlin is reflected in the data. Increasingly, the administrationas well as the public utilities and numerous companies are providing this data as open data for further use. The data analyses and visualizations that are emerging reveal what is happening in the city, also enabling new services to be provided.",
-        },
-      },
-    },
-    items: [
-      {
-        id: "5.1",
-        theme: "dark",
-        align: "left",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://como-berlin.de/",
-            },
-          ],
-          title: {
-            de: "COMo - CO2-Monitoring in Innenräumen",
-            en: "COMo – indoor CO2 monitoring",
-          },
-          paragraph: {
-            de: "COMo hilft Betreiber:innen öffentlicher Räume, die Luftqualität in den Räumen zu verfolgen und die Öffentlichkeit darüber zu informieren. Dazu verleihen wir <span>CO<sub>2</sub>-Sensoren</span>, die über das Berliner LoRa-Netzwerk Daten auf einen zentralen Server senden und so für Betreiber:innen und potenzielle Besucher:innen zugänglich und sichtbar machen. Neben der Möglichkeit, die Belastung der Raumluft mit Aerosolen zu überwachen (und damit Hinweise auf das COVID-Ansteckungsrisiko zu erhalten), wird damit auch die Abdeckungsqualität des Community - betriebenen LoRa-Netzwerks sichtbar.</br></br>Wir führen COMo gemeinsam mit der Hochschule für Technik und Wirtschaft Berlin und der KOING GmbH durch.",
-            en: "COMo helps operators of public spaces to track the air quality in these spaces and provide the public with the relevant information. For this purpose, we supply CO2 sensors that send data to a central server via the Berlin LoRa network, making it accessible and visible to operators and potential visitors. In addition to the possibility of monitoring the aerosol load in interiors (and obtaining indications of any risk of COVID infection), it shows the coverage quality of the community-operated LoRa network.</br></br>We run COMo in collaboration with the Berlin University of Applied Sciences and KOING GmbH.",
-          },
-        },
-        img: {
-          src: "assets/images/como.png",
-          alt: "Die Homepage von COMo Berlin.",
-          copyright: " ",
-          fit: "contain",
-        },
-      },
-      {
-        id: "5.2",
-        theme: "dark",
-        align: "right",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://qtrees.ai",
-            },
-          ],
-          title: {
-            de: "QTrees: KI für den Erhalt der Stadtbäume",
-            en: "QTrees: AI for the preservation of urban trees",
-          },
-          paragraph: {
-            de: "Stadtbäume sind wichtig für die Lebensqualität in der Stadt: Sie reinigen und kühlen die Luft. In ihrer Nähe hält man sich gerne auf. Doch der Klimawandel mit Extremwetterereignissen und zunehmender Trockenheit gefährdet die Bäume. </br></br>Im Projekt QTrees, das die Technologiestiftung zusammen mit Birds on Mars konzipiert hat und jetzt durchführt und für das auch das Grünflächenamt Mitte als Partner gewonnen werden konnte, soll ein durch Künstliche Intelligenz gestütztes Vorhersagetool entwickelt werden, das akut von der Trockenheit gefährdete Stadtbäume identifiziert und eine gezielte Hilfe für diese Bäume ermöglicht.",
-            en: "Urban trees are crucial in terms of urban quality of life: they clean and cool the air. People like to spend time near them. But climate change in the form of extreme weather events and increasing drought is putting trees at risk.</br></br>The QTrees project, which was conceived and is now being carried out by the Technologiestiftung together with Birds on Mars aims to develop a prediction tool supported by artificial intelligence that identifies urban trees threatened by drought, thereby enabling targeted assistance to be provided for them. As a partner, the parks commission for central Berlin has been recruited.",
-          },
-        },
-        img: {
-          src: "assets/images/qtrees.jpg",
-          alt: "Berliner Fernsehturm mit Stadtbäumen.",
-          copyright: "© Mateusz Raczynski / unsplash",
         },
       },
     ],
