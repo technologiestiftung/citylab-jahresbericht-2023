@@ -27,6 +27,81 @@ const content = {
       },
     },
   },
+  smartCity: {
+    id: "1.0",
+    topic: {
+      de: "Smart City",
+      en: "Smart City",
+    },
+    blocks: {
+      intro: {
+        title: {
+          de: "Strategie Gemeinsam Digital: Berlin",
+          en: "EMPTY",
+        },
+        text: {
+          de: "Mit der Verabschiedung der Strategie Gemeinsam Digital: Berlin hat das CityLAB in Zusammenarbeit mit der Senatskanzlei Berlin und vielen Akteur:innen der Stadtgesellschaft einen weiteren Meilenstein in der Umsetzung des Modellprojekts Smart City Berlin erreicht. Dabei blicken wir zurück auf einen fast zweijährigen Strategieprozess, bei dem wir im Austausch mit zentralen Akteur:innen und vor allem über 2.000 Berliner:innen Ideen gewälzt, Werte formuliert und vor allem viel Neues dazugelernt haben. Mit dem Abschluss des Strategieprozesses beginnt zugleich auch die Umsetzung von fünf Pilotprojekten und weiteren ersten Maßnahmen, bei denen das CityLAB und die Technologiestiftung tragende Rollen spielen werden.",
+          en: `EMPTY`,
+        },
+      },
+    },
+    items: [
+      {
+        id: "1.1",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zur Strategie",
+              en: "EMPTY",
+              href: "https://gemeinsamdigital.berlin.de/de/",
+            },
+          ],
+          title: {
+            de: "Strategie Gemeinsam Digital: Berlin",
+            en: "EMPTY",
+          },
+          paragraph: {
+            de: `Mit der Verabschiedung der Strategie Gemeinsam Digital: Berlin hat das CityLAB in Zusammenarbeit mit der Senatskanzlei Berlin und vielen Akteur:innen der Stadtgesellschaft einen weiteren Meilenstein in der Umsetzung des Modellprojekts Smart City Berlin erreicht. Dabei blicken wir zurück auf einen fast zweijährigen Strategieprozess, bei dem wir im Austausch mit zentralen Akteur:innen und vor allem über 2.000 Berliner:innen Ideen gewälzt, Werte formuliert und vor allem viel Neues dazugelernt haben. Mit dem Abschluss des Strategieprozesses beginnt zugleich auch die Umsetzung von fünf Pilotprojekten und weiteren ersten Maßnahmen, bei denen das CityLAB und die Technologiestiftung tragende Rollen spielen werden.`,
+            en: `EMPTY`,
+          },
+        },
+        img: {
+          src: "assets/images/2_Strategie Gemeinsam Digital.webp",
+          alt: "EMPTY",
+          copyright: "© CityLAB",
+        },
+      },
+      {
+        id: "1.2",
+        theme: "dark",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Mehr erfahren",
+              en: "Find out more",
+              href: "https://odis-berlin.de",
+            },
+          ],
+          title: {
+            de: "Open Data Informationsstelle Berlin (ODIS)",
+            en: "Open Data Information Service Berlin (ODIS)",
+          },
+          paragraph: {
+            de: `Berlin bekennt sich zu einer Open Data-Strategie. Nicht geheime Daten der Verwaltungen sollen offengelegt und zur Weiternutzung zur Verfügung gestellt werden. Obwohl die Akzeptanz dafür in den letzten Jahren deutlich gestiegen ist, ist das Ziel noch nicht erreicht, weil beispielsweise die Relevanz der Daten nicht erkannt wird oder es an technischer Kompetenz fehlt. </br></br>Die Open Data Informationsstelle, die bei der Technologiestiftung angesiedelt ist, berät bei der Datenaufbereitung und baut gemeinsam mit den Verwaltungen <a href="https://www.technologiestiftung-berlin.de/blog/odis-stellt-digitalen-prototypen-fuer-die-optimierung-von-wahlbezirken-vor" target="_blanc">digitale Tools</a>, die das Potenzial von Verwaltungsdaten zeigen. 2021 wurden außerdem <a  href="https://www.youtube.com/playlist?list=PLRIKlbncTSl-BGkz761lQf7sRcLPBN-YU" target="_blanc">Online-Tutorials</a> produziert, die im Netz abrufbar sind.`,
+            en: `Berlin is committed to an open data strategy. Non-secret data held by administrations is to be disclosed and made available for further use. Although acceptance of this has increased significantly in recent years, the goal has not yet been achieved, not least because the relevance of the data is not recognized, for example, or there is a lack of technical expertise. </br></br>The Open Data Information Service, based at the Technologiestiftung, advises on data preparation and works with administrations to build <a href="https://www.technologiestiftung-berlin.de/blog/odis-stellt-digitalen-prototypen-fuer-die-optimierung-von-wahlbezirken-vor" target="_blanc">digitale Tools</a>, that show the potential of administrative data. In 2021, <a  href="https://www.youtube.com/playlist?list=PLRIKlbncTSl-BGkz761lQf7sRcLPBN-YU" target="_blanc">Online-Tutorials</a> were also produced that are available for access.`,
+          },
+        },
+        img: {
+          src: "assets/images/smart-city_ODIS.png",
+          alt: "image tag",
+          copyright: "© CityLAB Berlin",
+        },
+      },
+    ],
+  },
   outtro: {
     de: "Das war’s mit unserem Rückblick 2021! Wir schauen auf ein abwechslungsreiches Jahr zurück, das genauso vielfältig war wie Berlin selbst! Nun freuen wir uns auf 2022 und viele gemeinsame Projekte mit der Berliner Verwaltung und der Stadtgesellschaft. <br/> <br/>Euer CityLAB Berlin der Herzen",
     en: `And with that, we close out our look back on a year that was just as thrilling and diverse as Berlin itself! Now we are looking forward to 2022 and all of the collaborative projects with Berlin's city administration and the city society the year will have in store for us.<br/><br/>Your CityLAB Berlin`,
@@ -104,83 +179,6 @@ const content = {
       de: "Weitere Links:",
       en: "More links:",
     },
-  },
-  smartCity: {
-    id: "1.0",
-    topic: {
-      de: "Smart City",
-      en: "Smart City",
-    },
-    blocks: {
-      intro: {
-        title: {
-          de: "Smart City",
-          en: "Smart City",
-        },
-        text: {
-          de: "Die smarte Stadt von morgen wird mehr Lebensqualität bieten, denn sie wird grüner und sauberer sein und effizient mit Ressourcen umgehen. Um das zu erreichen, muss die digitale Infrastruktur von der Strom­- und Wasserversorgung bis zum Verkehr strategisch weiterentwickelt und ­vernetzt werden. Auch die Verwaltung muss die Möglichkeiten der Digitalisierung noch stärker nutzen, um schneller und serviceorientiert zu arbeiten.",
-          en: `Tomorrow’s smart city will enhance our quality of life because it will be greener and cleaner and use resources efficiently. In order to achieve this, the digital infrastructure for electricity and water supplies as well as for transportation – must be strategically developed and networked. The administration also needs to make even greater use of the possibilities offered by digital infrastructures so as to be able to work faster and be more service-oriented.`,
-        },
-      },
-    },
-    items: [
-      {
-        id: "1.1",
-        theme: "light",
-        align: "left",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://citylab-berlin.org/",
-            },
-          ],
-          title: {
-            de: "CityLAB Berlin",
-            en: "CityLAB Berlin",
-          },
-          paragraph: {
-            de: `Das CityLAB Berlin am Platz der Luftbrücke ist ein Ort, an dem sich Verwaltung und Stadtgesellschaft treffen können, um die digitale Transformation zu diskutieren und bis zum Prototypen zu gestalten. Der Begegnungsort war auch 2021 sehr gefragt, analog genauso wie online.
-            </br></br>Mit eigenen Projekten gibt das CityLAB auch Impulse für die Entwicklung einer offenen, gemeinnützigen digitalen Infrastruktur. Besonders bekannt ist mittlerweile <a href="https://giessdenkiez.de/" target="_blanc">Gieß den Kiez</a>, eine Seite, die die Pflege der Berliner Straßenbäume thematisiert. 2021 kamen mit <a href="https://www.digital-vereint.berlin" target="_blanc">Digital vereint</a>, <a  href="https://berlinopensource.de/" target="_blanc">Berlin Open Source</a> und <a  href="https://stadtpuls.com/" target="_blanc">Stadtplus</a> weitere Plattformen dazu, die Transparenz schaffen und das Miteinander in der Stadtgesellschaft fördern.`,
-            en: `CityLAB Berlin at Platz der Luftbrücke is a place where public administration and urban society can come together to discuss the digital transformation and shape it with participatory processes during the prototypingstage. It was in high demand as a meeting place in 2021, too -both analog and online.
-            </br></br>Through its own projects, CityLAB also provides an impetus for the development of an open, non-profit digital infrastructure. One project that has become particularly well-known is <a href="https://giessdenkiez.de/" target="_blanc">Gieß den Kiez</a>, a website that focuses on providing care of the trees in Berlin’s streets. <a href="https://www.digital-vereint.berlin" target="_blanc">Digital vereint</a>, <a href="https://berlinopensource.de/" target="_blanc">Berlin Open Source</a> and <a href="https://stadtpuls.com/" target="_blanc">Stadtplus</a> were other platforms added in 2021 that create transparency and promote togetherness in urban society.`,
-          },
-        },
-        img: {
-          src: "assets/images/smart-city_citylab.jpg",
-          alt: "Die Eröffnung des CityLABs im Juni 2019",
-          copyright: "© Florian Reimann / CityLAB",
-        },
-      },
-      {
-        id: "1.2",
-        theme: "dark",
-        align: "left",
-        text: {
-          links: [
-            {
-              de: "Mehr erfahren",
-              en: "Find out more",
-              href: "https://odis-berlin.de",
-            },
-          ],
-          title: {
-            de: "Open Data Informationsstelle Berlin (ODIS)",
-            en: "Open Data Information Service Berlin (ODIS)",
-          },
-          paragraph: {
-            de: `Berlin bekennt sich zu einer Open Data-Strategie. Nicht geheime Daten der Verwaltungen sollen offengelegt und zur Weiternutzung zur Verfügung gestellt werden. Obwohl die Akzeptanz dafür in den letzten Jahren deutlich gestiegen ist, ist das Ziel noch nicht erreicht, weil beispielsweise die Relevanz der Daten nicht erkannt wird oder es an technischer Kompetenz fehlt. </br></br>Die Open Data Informationsstelle, die bei der Technologiestiftung angesiedelt ist, berät bei der Datenaufbereitung und baut gemeinsam mit den Verwaltungen <a href="https://www.technologiestiftung-berlin.de/blog/odis-stellt-digitalen-prototypen-fuer-die-optimierung-von-wahlbezirken-vor" target="_blanc">digitale Tools</a>, die das Potenzial von Verwaltungsdaten zeigen. 2021 wurden außerdem <a  href="https://www.youtube.com/playlist?list=PLRIKlbncTSl-BGkz761lQf7sRcLPBN-YU" target="_blanc">Online-Tutorials</a> produziert, die im Netz abrufbar sind.`,
-            en: `Berlin is committed to an open data strategy. Non-secret data held by administrations is to be disclosed and made available for further use. Although acceptance of this has increased significantly in recent years, the goal has not yet been achieved, not least because the relevance of the data is not recognized, for example, or there is a lack of technical expertise. </br></br>The Open Data Information Service, based at the Technologiestiftung, advises on data preparation and works with administrations to build <a href="https://www.technologiestiftung-berlin.de/blog/odis-stellt-digitalen-prototypen-fuer-die-optimierung-von-wahlbezirken-vor" target="_blanc">digitale Tools</a>, that show the potential of administrative data. In 2021, <a  href="https://www.youtube.com/playlist?list=PLRIKlbncTSl-BGkz761lQf7sRcLPBN-YU" target="_blanc">Online-Tutorials</a> were also produced that are available for access.`,
-          },
-        },
-        img: {
-          src: "assets/images/smart-city_ODIS.png",
-          alt: "image tag",
-          copyright: "© CityLAB Berlin",
-        },
-      },
-    ],
   },
   neueTechnologien: {
     id: "2.0",
