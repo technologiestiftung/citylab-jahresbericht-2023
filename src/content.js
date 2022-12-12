@@ -1,87 +1,45 @@
 const content = {
-  accordions: [
-    {
-      title: {
-        de: "Bericht des Kuratoriumsvorsitzenden Matthias Patz",
-        en: "Report by the Chair of the Board of Trustees – Matthias Patz",
-      },
-      de: [
-        "Die Technologiestiftung hat sich in den letzten Jahren zu einer wichtigen Partnerin im Bereich der digitalen Transformation in Berlin entwickelt. Für das Kuratorium entsteht aus dieser sehr erfreulichen Entwicklung die Aufgabe, die stetig wachsende Organisation zu begleiten und zum einen sicherzustellen, dass die Strukturen mitwachsen und die weitere dynamische Entwicklung unterstützen können. Zum anderen geht es für das Kuratorium darum, die grundsätzliche Ausrichtung zu begleiten.",
-        "Zu den wichtigsten Aufgaben des Kuratoriums gehört die Befassung mit dem Haushalt. Wir konnten uns davon überzeugen, dass eine solide Planung und ein professionelles Controlling der Technologiestiftung auch in unruhigen Zeiten stabile Rahmenbedinungen bieten. Zudem sind Zahl und Umfang von Zuwendungen sowohl auf Landes- als auch auf Bundesebene in den letzten Jahren kontinuierlich gewachsen, was nicht nur eine schöne Bestätigung ist, sondern neue Projekte ermöglicht. Wir planen weitere Verabredungen mit den Fördergeber:innen, beispielsweise über die Vereinbarung definierter Meilensteine, die die Zusammenarbeit mit den Fördergeber:innen weiter optimieren.",
-        "Um die wachsende Stiftung gut aufzustellen, haben wir außerdem Anfang des Jahres 2021 das Thema Compliance aufgegriffen. Schnell zeigte sich, dass die Stiftung bereits sehr gut aufgestellt ist und die Einhaltung der gesetzlichen Regelungen sowie die Beachtung von Betriebsvereinbarungen zu Themen wie Gleichstellung und Arbeitssicherheit sorgfältig überprüft und begleitet wird. Zur Sicherung der hohen Standards werden die bestehenden Maßnahmen nun mit einem externen Dienstleister überprüft und Kriterien für ein Ampelsystem erarbeitet.",
-        "Zur Unterstützung der Kuratoriumsarbeit wurden zwei Arbeitsgruppen zu Finanz- bzw. Strategiethemen ins Leben gerufen. Durch die Zusammenarbeit mit der operativen Ebene der Technologiestiftung konnten so bereits im Vorfeld der Kuratoriumssitzungen wesentliche Fragen zu den entsprechenden Themen abgeklärt werden. Dies ermöglichte dem Kuratorium, sich in der begrenzten Zeit der Kuratoriumssitzungen auf inhaltliche Themen wie die Strategieentwicklung zu konzentrieren. Als besonders positiv hat das Kuratorium dabei empfunden, dass es sich für die Beschäftigung mit der Strategie auf das im CityLAB erarbeitete Handbuch „Öffentliches Gestalten“ stützen konnte. Insgesamt muss an dieser Stelle herausgestellt werden, wie positiv sich die Zusammenarbeit jederzeit gestaltete. Dafür möchte ich mich im Namen des gesamten Kuratoriums beim Vorstand und den Mitarbeiter:innen der Stiftung herzlich bedanken.",
-        "Die Entscheidung der Technologiestiftung, sich vor dem Hintergrund der in alle Bereiche vordringenden Digitalisierung auf Themen und Projekte aus dem Bereich der Informations- und Kommunikationstechnologien zu konzentrieren, ist richtig. Mit ihren Plattformen und Forschungsprojekten beispielsweise zu Mobilitätsdaten kommt die Technologiestiftung ihrem satzungsgemäßen Auftrag, Berlin zu einem bedeutenden Innovationsstandort zu entwickeln, überzeugend nach.",
-        "Der Koalitionsvertrag, den der neue Senat im Dezember 2021 vorstellte, nennt die Technologiestiftung an prominenter Stelle und weist ihr die Rolle einer „Schaltstelle für die Umsetzung der wesentlichen Elemente der Digitalpolitik“ zu. Das zeigt, dass die Technologiestiftung weit über das Kuratorium hinaus mit ihrer Arbeit und ihren Projekten überzeugen konnte.",
-        "Das Kuratorium ist sich sicher, dass die Stiftung darüber hinaus dem Berliner Innovationsbereich zwischen Wissenschaft und Wirtschaft mit dem erprobten Lab-Ansatz besondere Impulse geben kann. Das Kuratorium wird die spannenden Entwicklungen, die anstehen, nach Kräften unterstützen und wünscht den Mitarbeiter:innen und dem  Vorstand der Technologiestiftung für die Zukunft viel Erfolg.",
-        "<strong>Matthias Patz</strong></br>Kuratoriumsvorsitzender",
-      ],
-      en: [
-        "In recent years, Technologiestiftung Berlin has become an important partner in the field of digital transformation in Berlin. For the Board of Trustees, this very gratifying development gives rise to the task of overseeing the ongoing growth of the organization: on the one hand ensuring that its structures grow along with it and are capable of supporting further dynamic development, on the other hand supporting the Foundation’s fundamental strategic orientation.",
-        "One of the most important tasks of the Board of Trustees is to oversee the budget. We are pleased that the solid planning and professional controlling provide the Technologiestiftung with a stable framework despite turbulent times. In addition, the number and scope of subsidies at both state and federal level have grown steadily in recent years: this is not only a welcome affirmation of our work, it also enables new projects to be initiated. We are planning to conclude further agreements with the funding bodies with the aim of further cooperation with the respective institutions. ",
-        "In order to position the Technologiestiftung effectively as it continues to grow, we also addressed the issue of compliance at the beginning of 2021. It quickly became apparent that the Foundation is very well established. Additionally, compliance with legal regulations and the observance of collective bargaining agreements in areas such as equality and occupational safety are carefully monitored and supported. In order to guarantee these high standards, the existing measures are now being reviewed with the help of an external service provider. ",
-        "To support the Board of Trustees, two working groups were set up to focus on financial and strategic questions. In close collaboration with the operational level of the Technologiestiftung, these focus groups identified key questions in preparation of the meetings with the Board of Trustees. Thereby, the Board of Trustees was able to focus on substantive strategy development. The Board of Trustees valued the fact that it was able to draw on the handbook entitled Öffentliches Gestalten developed at CityLAB during the strategy development process. All in all, we should stress the positive impression of this collaborative process. On behalf of the entire Board of Trustees, I would like to express my sincere thanks to the Management Board and the employees of the Technologiestiftung.",
-        "In light of the fact that digitization is advancing in all areas, the intuition to focus on topics and projects in the field of information and communication technologies has proved right. With its platforms and research projects on mobility data, for example, the Technologiestiftung is successfully realizing its statutory mission to develop Berlin into a major innovation hub.",
-        "In the coalition agreement presented by the new Senate in December 2021, the Technologiestiftung was not only mentioned prominently, but also dedicated as the “interface for the implementation of the essential elements of digital policy”. This shows that the work and projects pursued by the Technologiestiftung are impactful for the whole city of Berlin.",
-        "The Board of Trustees is certain that with its thoroughly established lab approach, the Technologiestiftung will be able to boost Berlin’s innovation sector and strengthen the connections to research and business hubs. The Board of Trustees will do its utmost to support the exciting developments that lie ahead and wishes the staff and the Management Board of the Technologiestiftung all the very best for the future.",
-        "<strong>Matthias Patz</strong></br>Chairman of the Board of Trustees",
-      ],
+  foreword: {
+    text: {
+      de: "Süßer die Glocken nie klangen – aber irgendwann ist auch mal gut. Nach der verdienten Dosis Besinnlichkeit können wir es kaum erwarten, mit Getöse ins neue Jahr zu starten. Wir grüßen Dich, 2023, Du wunderschönes, unbeschriebenes Blatt! Mach bitte weniger Blödsinn als dein Vorgänger. Bevor wir uns endgültig der Zukunft widmen, laden wir euch aber ein, ein letztes Mal inne zu halten und mit uns gemeinsam das Jahr 2022 Revue passieren zu lassen. Willkommen beim rappelvollen CityLAB-Jahresrückblick!</br></br> Für unser kleines Innovationslabor war es ein Jahr voller Abenteuer und Höhepunkte: Wir haben gemeinsam mit der ganzen Stadt an einer neuen Smart City-Strategie für Berlin gefeilt, mit Open Data-Prototypen die Zukunft der Stadt erlebbar werden lassen und sind tiefer denn je in die Welt der öffentlichen Verwaltung eingetaucht. Und das alles endlich wieder live und in Farbe. Nach zwei Jahren Zoom-Kachel-Memory war es unser ganz persönliches Highlight, mit mehr als 600 von euch ein großes Outdoor-Sommerfest auf dem Tempelhofer Flugfeld zu feiern. Schön, dass es euch gibt, liebe CityLAB-Community! Und nun viel Spaß mit unserem Jahresrückblick 2022.",
+      en: "EMPTY",
     },
-    {
-      title: {
-        de: "Vorwort des Vorstandsvorsitzenden Nicolas Zimmer",
-        en: "Foreword by the Chair of the Management Board – Nicolas Zimmer",
+    blocks: {
+      entwicklung: {
+        title: {
+          de: "Unsere Entwicklung",
+          en: "EMPTY",
+        },
+        paragraph: {
+          de: "Seit einigen Jahren konzentriert sich die Technologiestiftung, deren Aufgabe die Entwicklung Berlins zu einem exzellenten Innovationsstandort ist, auf die Digitalisierung als der Treiberin der technologischen Entwicklung. Mit der immer umfassend wirkenden digitalen Transformation in der Stadt haben sich auch neue Themen und Projekte entwickelt.",
+          en: "EMPTY",
+        },
       },
-      de: [
-        "Die über das gesamte Jahr 2021 anhaltende Pandemie hat uns den großen Modernisierungsbedarf vor Augen geführt, dem wir uns gegen­übersehen. Egal ob es um die Bürgerämter, den Schulbetrieb oder den Katastrophenschutz ging: In zu vielen Bereichen zeigte sich, dass die öffentliche Infrastruktur nicht so leistungsfähig ist, wie es sinnvoll und möglich wäre.",
-        "Die Technologiestiftung hat auf diese Herausforderungen reagiert. Sie konzentriert sich schon seit einigen Jahren ihrem satzungsgemäßen Auftrag gemäß, die Region Berlin-­Brandenburg zu einem bedeutenden Standort in ausgewählten Technologiefeldern mitzuentwickeln, erfolg­reich auf die Mitgestaltung einer nutzer:innenorientierten, offenen Digitalisierung. Dahinter steht die Überzeugung, dass wir den Heraus­forderungen, denen wir uns gegenübersehen, nur mit digitalen Werk­zeugen begegnen können, deren Innovationskraft der ganzen Stadt­gesellschaft zugutekommen.",
-        "Auch im vergangenen Jahr haben wir uns als gefragte Gesprächs­- und Kooperationspartnerin im digitalen Ökosystem Berlin bewiesen und neben zahlreichen erfolgreichen Projekten unser eigenes Profil geschärft. Damit sind wir nicht nur den anhaltenden Herausforderungen der Pandemie begegnet, sondern haben uns zugleich im Zuge eines internen Strategieprozesses für die neue Rolle der Stiftung als Schaltstelle der wesentlichen Elemente der Digitalisierungspolitik vorbereitet, die der Berliner Koalitionsvertrag vorsieht.",
-        "<strong>Offenheit und Transparenz sind Grundprinzipien der Stiftungsarbeit</strong> </br>Wie eine offene und transparente Arbeit für das Gemeinwohl aussehen kann, zeigt das CityLAB Berlin, das wir am Platz der Luftbrücke mit einer Förderung der Senatskanzlei betreiben. Hier entwickelten Service­designer:innen, Softwareentwickler:innen und Public Service Coaches im Austausch mit Stakeholdern aus dem Vereins­- und Stiftungswesen in der Hochphase des Winter­lockdowns 2021 eine Plattform, auf der die ehrenamtlichen digitale Tools für ihre Arbeit herunterladen und sich über Digitalisierungsthemen austauschen können. Während die Vereine auf diese Weise wertvolle Unterstützung erhielten, die auch ausgiebig genutzt wurde, konnten wir die auf der Plattform angebotene offene Software in der Praxis testen und Erfahrungen sammeln.",
-        "Später im Jahr kamen mit Berlin Open Source und Stadtpuls weitere Platt­formangebote hinzu, die offene Software und Open Data befördern. Denn wir sind überzeugt, dass die Chancen der Digitalisierung für mehr Partizipation und eine Erhöhung der Lebensqualität sich nur verwirklichen lassen, wenn das Wissen und die Kreativität aller durch Partizipation und Transparenz in den Entwicklungsprozess digitaler Lösungen mit einfließen können.",
-        "<strong>Technologiestiftung wirkt an der öffentlichen digitalen Infrastruktur mit</strong> </br>Auch die bei uns angesiedelte Open Data Informationsstelle (ODIS) trägt zur Entwicklung einer digitalen öffentlichen Infrastruktur bei. ODIS wird von der Senatsverwaltung für Wirtschaft, Energie und Betriebe gefördert und berät die Berliner Verwaltungen dabei, ihre offenen Daten durch übergeordnete Verweise an einer zentralen Stelle zur Verfügung zu stellen. So können Interessierte offene Datensätze entdecken und neue Tools und darauf basierend Angebote entwickeln.",
-        "Auch im Rahmen des Projekts kulturBdigital fördern wir in Kooperation mit der Senatsverwaltung für Kultur und Europa die Digitalisierung des Berliner Kulturbetriebes. Seit 2021 arbeitet kulturBdigital an der Errich­tung einer offenen Kulturdatenplattform für Berlin, die Kulturschaffende von der freien Szene bis in die großen Berliner Kultureinrichtungen dabei unterstützt, ihre Arbeit effizienter zu erledigen, und gleichzeitig die Sichtbarkeit von Berlins vielfältiger Kulturlandschaft im Netz erhöht.",
-        "Mit Forschungsprojekten wie Freemove, in dem es um einen sicheren Umgang mit Mobilitätsdaten geht, sowie Arbeiten zu Datenökonomie und Gebäudedigitalisierung beschäftigen wir uns überdies immer wieder mit den Voraussetzungen und Rahmenbedingungen der Digitalisierung. Außerdem bieten wir Veranstaltungsreihen für unterschiedliche Zielgruppen an: Während man sich in der Offene Werkstatt praktisch­ spielerisch zu den technischen Grundlagen digitaler Kommunikationstechnologien weiter­bilden kann, informieren wir gemeinsam mit unserem Partner rbbinforadio24 über gesellschaftliche Aspekte neuer technologischer Trends und innovative Entwicklungen.",
-        "<strong>Mit neuen Projekten und wachsendem Team ins Jahr 2022</strong> </br>Im Dezember 2020 wurde die Technologiestiftung mit dem CityLAB ausdrücklich als „Schaltstelle für die Umsetzung der wesentlichen Elemente der Digitalpolitik“ im Koalitionsvertrag der Berliner Landes­regierung genannt. Dies ist eine eindrückliche Bestätigung dafür, dass wir mit unserer Arbeit die richtigen Themen anpacken und mit dem Ansatz eines Innovationslabors für das digitale Berlin konstruktive Beiträge zur Stadtentwicklung leisten. Für uns bedeutet die positive Resonanz, dass wir 2022 weitere Projekte für die gemeinwohlorientierte und offene Digitalisierung in Berlin initiieren und durchführen werden. Auch werden wir auf die veränderten Rahmenbedinungen für die Digi­talisierung reagieren und uns mit Themen wie Kritischer Infrastruktur und Cybersicherheit beschäftigen. Dafür werden wir den bereits 2021 begonnenen Wachstumsprozess inhaltlich und personell fortsetzen.",
-        "Gemeinsam mit dem wachsenden Team der Technologiestiftung Berlin freue ich mich auf die Herausforderungen, die uns im kommenden Jahr erwarten.",
-        "<strong>Nicolas Zimmer</strong></br>Vorstandsvorsitzender </br>Technologiestiftung Berlin",
-      ],
-      en: [
-        "Throughout the whole year of 2021, the pandemic illustrated the great need for digitization. Be it citizen service centers, schools or disaster control – in too many areas, it has become apparent that the public infrastructure was not as well equipped as it should have been.",
-        "The Technologiestiftung has responded to these challenges. In accordance with its statutory mission to help develop the Berlin-Brandenburg region into a key hub in selected fields of technology, it has successfully focused on helping to shape open, user-oriented digitalization for several years. This is founded on the conviction that the challenges we face can only be met by means of digital tools whose innovative strength benefits all of urban society.",
-        "In the past year, we have again proved to be a sought-after discussion leader and cooperation partner in the digital ecosystem of Berlin. In addition to pursuing numerous successful projects in collaboration with external partners, we have enhanced our own profile. In doing so, we not only tackled the ongoing challenges of the pandemic, but at the same time embarked on an internal strategy process to prepare for the Foundation’s new role as a hub for the key elements of digitalization policy as envisaged in the Berlin coalition agreement.",
-        "<strong>Openness and transparency are fundamental principles of the Foundation’s work </strong> </br> The CityLAB Berlin is located at Platz der Luftbrücke and partly funded by the Senate Chancellery. In this open space, we demonstrate our efforts for open and transparent tools for the common good. Service designers, software developers, and public service coaches interacted with stakeholders from the association and foundation sector at the height of the 2021 winter shutdown to develop a platform where volunteers could download digital tools for their work and share ideas on digitalization topics. While this programme supported the non-profic sector substantially, it also enabled us to test the open software offered on the platform in practice and gain experience.",
-        "Later in the year, the platforms Berlin Open Source and Stadtpuls were added additionally to promote open software and open data. Both tools are founded on our strong belief into the potentials offered by digitization to foster more participation and increase the quality of life. These can only be realized if everyone’s knowledge and creativity can feed into the development process for digital solutions through participation and transparency.",
-        "<strong>The Technologiestiftung contributes to the public digital infrastructure</strong> </br>The Open Data Information Service (ODIS)is affiliated to the Technologiestiftung and promotes the  development of an open  digital public infrastructure. ODIS is funded by the Senate Department for Economics, Energy and Public Enterprises and advises Berlin administrations on how to make their open data available at a central location of high-level references. This allows interested individuals or institutions  to discover open data sets and develop new tools and offers based on them.",
-        "Additionally, we are promoting the digitization of Berlin’s cultural sector through the kulturBdigital project in cooperation with the Senate Department for Culture and Europe. Since 2021, kulturBdigital has worked towards an open data platform for Berlin’s cultural data that will help professionals in this sector – both in the independent scene as well as in the citie’s major cultural institutions – to do their work more efficiently while at the same time raising the visibility of Berlin’s diverse cultural landscape online.",
-        "Furthermore, we are constantly looking at the prerequisites and framework conditions for digitization. An example for this ongoing research interest is the  multi-stakeholder project Freemove which is concerned with the secure handling of mobility data. Additional research projects are concerned with economics and the digitiziation of urban buildings. Further, we provide event series for different target groups, such as  the Offene Werkstatt where we offer practical, hands-on training on the fundamentals of digital communication technologies. In a collaboration with our partner rbbinforadio24, we will provide information about social aspects of new technological trends and innovative developments.",
-        "<strong>New projects and a growing team for 2022</strong> </br>In December 2021, the Berlin state government’s coalition agreement explicitly designated Technologiestiftung and CityLAB as the “interface for the implementation of key elements of digital policy”. This confirms our ongoing committment to tackle pressing issues in our work and to contribute constructively to Berlin’s urban development based on our approach of an innovation lab for a digital city. This positive response encourages us in our continued efforts to initiate and carry out projects for community-oriented and open digitalization in Berlin even further in the coming year. We will continuously respond to the changing framework conditions in the digital city by addressing issues such as critical infrastructure and cybersecurity. ",
-        "Together with the growing team at Technologiestiftung Berlin I very much look forward to taking on the challenges that await us in the coming year.",
-        "<strong>Nicolas Zimmer</strong></br>Chair of the Management Board</br>Technologiestiftung Berlin",
-      ],
+      mittel: {
+        title: {
+          de: "Unsere Mittelherkunft",
+          en: "EMPTY",
+        },
+        paragraph: {
+          de: "Für ihre Arbeit stehen der Technologiestiftung Erträge aus dem Stiftungskapital zur Verfügung. Darüber hinaus führt sie viele ihrer Projekte mit Mitteln verschiedener Fördergeber durch.",
+          en: "EMPTY",
+        },
+      },
     },
-  ],
+  },
   outtro: {
     de: "Das war’s mit unserem Rückblick 2021! Wir schauen auf ein abwechslungsreiches Jahr zurück, das genauso vielfältig war wie Berlin selbst! Nun freuen wir uns auf 2022 und viele gemeinsame Projekte mit der Berliner Verwaltung und der Stadtgesellschaft. <br/> <br/>Euer CityLAB Berlin der Herzen",
     en: `And with that, we close out our look back on a year that was just as thrilling and diverse as Berlin itself! Now we are looking forward to 2022 and all of the collaborative projects with Berlin's city administration and the city society the year will have in store for us.<br/><br/>Your CityLAB Berlin`,
   },
   header: {
     headline: {
-      de: "Jahresbericht 2022",
-      en: "Annual review 2022",
+      de: "CityLAB Jahresbericht 2022",
+      en: "CityLAB review 2022",
     },
     img: {
       src: "assets/images/1_CityLAB Team.jpg",
       alt: "image tag",
       copyright: "Photo by © CityLAB",
-    },
-  },
-  intro: {
-    headline: {
-      de: "Liebe Community,",
-      en: "Dear community,",
-    },
-    text: {
-      de: "Liebe CityLAB Community,<br/><br/>2021 liegt hinter uns. Wir blicken zurück auf ein hybrides Jahr, in dem wir off- als auch online viele Projekte, Veranstaltungen und Ideen umgesetzt, einiges dazugelernt und Berlin einen digitalen Booster verpasst haben.<br/><br/>Egal ob es unser Online-Symposium mit über 400 Teilnehmenden war, Workshops zu digitalen Verwaltungsformularen oder neue Projekte wie Stadtpuls oder unsere Prototypenwerkstatt –  mit euch spielten wir die Klaviatur der digitalen Möglichkeiten auf und ab.<br/><br/>Digital ins Gepäck nahmen wir euch auch mit auf unsere Reisen -  auf das Creative Bureaucracy Festival, zu den Digital Days nach Wien oder nach Barcelona auf die Smart City World Expo.<br/><br/>Aber auch zu Hause blieb es spannend  – denn ihr hattet die Qual der Wahl: Ob Ampel, RGR oder Smart City-Beteiligungsprozess: 2021 stand ganz unter dem Motto der Partizipation.<br/><br/>Was bei uns das Jahr über noch so los war zeigen wir euch in unserem Scrollytelling-Jahresrückblick. Denn während viele im Internet trollen, lassen wir euch lieber scrollen! 😉<br/><br/>Viel Spaß bei unserem Jahresrückblick 2021!",
-      en: "Dear community,<br/><br/> 2021 is behind us, and to acknowledge its passing, we'd like to take a moment to look back on a hybrid year in which we implemented various projects, events and ideas — both off and online — learned a lot, and gave Berlin a digital boost(er) of sorts.<br/><br/>Whether it was our online symposium with more than 400 participants, workshops on optimizing digital government forms, or new projects such as Stadtpuls or our prototype workshop, we had the opportunity to explore a world of digital possibilities with you all.<br/><br/>We also were able to sneak you into our suitcase during our travels (both physical and digital) to events like the Creative Bureaucracy Festival, the Digital Days in Vienna and the Smart City World Expo in Barcelona.<br/><br/>Back home here in Berlin, things were just as exciting, because suddenly you were spoiled for choice: between the federal election, the Berlin state election and the smart city participation process, 2021 was all about participation and having your voice heard.<br/><br/>Interested to see just how much we got up to this year (and what you might have missed)? Read up on our year in review in our Scrollytelling story below.<br/><br/>Enjoy our review of the year 2021!",
     },
   },
   footer: {
@@ -574,38 +532,6 @@ const content = {
         },
       },
     ],
-  },
-  offenheit: {
-    title: {
-      de: "Wir schaffen Offenheit",
-      en: "EMPTY",
-    },
-    text: {
-      de: "Wir engagieren uns für eine gemeinwohlorientierte Entwicklung Berlins und eine transparente Stadtgesellschaft, in der alle Gruppen Zugang zu den Daten haben, die die Stadt erhebt und mit denen sie das Zusammen­leben steuert. <br><br>Mit unseren digitalen Instrumenten und Lösungen tragen wir aktiv dazu bei, dass Berlin offen, nachhaltig und effizient wird. Mit unseren Studien und Reports stellen wir sicher, dass neueste technologische Entwicklungen frühzeitig identifiziert und für den Transformationsprozess genutzt werden. Mit unseren digitalen Bildungsangeboten sorgen wir dafür, dass alle am Wandel teilhaben und dessen Vorteile genießen können .",
-      en: "EMPTY",
-    },
-    blocks: {
-      entwicklung: {
-        title: {
-          de: "Unsere Entwicklung",
-          en: "EMPTY",
-        },
-        paragraph: {
-          de: "Seit einigen Jahren konzentriert sich die Technologiestiftung, deren Aufgabe die Entwicklung Berlins zu einem exzellenten Innovationsstandort ist, auf die Digitalisierung als der Treiberin der technologischen Entwicklung. Mit der immer umfassend wirkenden digitalen Transformation in der Stadt haben sich auch neue Themen und Projekte entwickelt.",
-          en: "EMPTY",
-        },
-      },
-      mittel: {
-        title: {
-          de: "Unsere Mittelherkunft",
-          en: "EMPTY",
-        },
-        paragraph: {
-          de: "Für ihre Arbeit stehen der Technologiestiftung Erträge aus dem Stiftungskapital zur Verfügung. Darüber hinaus führt sie viele ihrer Projekte mit Mitteln verschiedener Fördergeber durch.",
-          en: "EMPTY",
-        },
-      },
-    },
   },
   chronologie: {
     blocks: {

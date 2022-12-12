@@ -4,8 +4,7 @@ import content from "./content";
 
 import Intro from "./components/Intro";
 import Navbar from "./components/Navbar";
-import Accordions from "./sections/Accordions";
-import Offenheit from "./sections/Offenheit";
+import Foreword from "./sections/Foreword";
 import SmartCity from "./sections/SmartCity";
 import NeueTechnologien from "./sections/NeueTechnologien";
 import Kultur from "./sections/Kultur";
@@ -47,8 +46,8 @@ function App() {
     <div className={cn.app}>
       <Intro content={content.header} lang={lang} />
       <Navbar items={navItems} lang={lang} />
-      <Accordions accordionItems={content.accordions} lang={lang} />
-      {lang === "de" && <Offenheit lang={lang} content={content.offenheit} />}
+      {/* <Accordions accordionItems={content.accordions} lang={lang} /> */}
+      <Foreword lang={lang} content={content.foreword} />
       <SmartCity lang={lang} content={content.smartCity} ui={content.ui} />
       <NeueTechnologien
         lang={lang}

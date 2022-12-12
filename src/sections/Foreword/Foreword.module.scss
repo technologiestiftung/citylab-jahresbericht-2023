@@ -19,16 +19,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-direction: column-reverse;
+    flex-direction: column;
     gap: 57px 0;
+    overflow: hidden;
+
     @media screen and (min-width: $large-content-width) {
       flex-direction: row;
     }
-  }
-  
-  .mittelWrapper {
-    @media screen and (min-width: $large-content-width) {
-      flex-direction: row-reverse;
+    
+    img {
+      position: relative;
+      width: calc(50% - 28px);
     }
   }
+
 }
