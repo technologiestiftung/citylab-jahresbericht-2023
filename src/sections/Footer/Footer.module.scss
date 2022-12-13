@@ -55,8 +55,8 @@
       flex-direction: column;
       justify-content: space-between;
       align-items: center;
-      background-color: $blue-dark;
-      color: $white;
+      background-color: $white;
+      color: #404040;
       line-height: 24px;
       
       .left {
@@ -83,7 +83,7 @@
       }
 
       .link {
-        color: $white;
+        color: #404040;
         font-size: 14px;
       }
 
