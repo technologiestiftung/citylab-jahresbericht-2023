@@ -308,7 +308,6 @@ const content = {
           alt: "EMPTY",
           copyright: "EMPTY",
           position: "center right",
-          fit: "contain",
         },
       },
       {
@@ -370,10 +369,9 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/10_xmas-Finder.jpg",
+          src: "assets/images/10_xmas-Finder.png",
           alt: "EMPTY",
           copyright: "EMPTY",
-          fit: "contain",
         },
       },
       {
@@ -406,7 +404,6 @@ const content = {
           src: "assets/images/11_gdk.png",
           alt: "EMPTY",
           copyright: "EMPTY",
-          position: "center left",
         },
       },
       {
@@ -651,6 +648,7 @@ const content = {
           src: "assets/images/19_Berlin Science Week.jpg",
           alt: "image tag",
           copyright: "TODO",
+          position: "center right",
         },
       },
       {
