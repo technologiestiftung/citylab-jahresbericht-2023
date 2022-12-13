@@ -37,14 +37,14 @@ const activeTopicSelector = s => s.activeTopic;
 
 const hideNav = sections => {
   const positions = getScrollPositionsOfSections(sections);
-  return positions.firstSectionPosition < 0 && positions.footerPosition > 0;
+  return positions.firstSectionPosition < 0 && positions.footerPosition > 1000;
 };
 
 const getScrollPositionsOfSections = sections => {
   const firstSection = document.getElementById(
     `section-${sections[0].scrollId}`
   );
-  const firstSectionAfterProjects = document.getElementById("unterwegs");
+  const firstSectionAfterProjects = document.getElementById("numbers");
 
   const firstSectionPosition = firstSection.getBoundingClientRect().top;
   const footerPosition = firstSectionAfterProjects.getBoundingClientRect().top;

@@ -132,8 +132,8 @@ const content = {
         },
         img: {
           src: "assets/images/3_Bürgeramt der Zukunft.jpg",
-          alt: "image tag",
-          copyright: "© 2022 CityLAB Berlin",
+          alt: "Laptop, der den Prototypen des Bürgeramts der Zukunft vom CityLAB Berlin zeigt",
+          copyright: "© CityLAB Berlin",
           fit: "contain",
           maxWidth: "600px",
           position: "center right",
@@ -152,7 +152,7 @@ const content = {
             },
           ],
           title: {
-            de: "Haushaltsdatenprojekt",
+            de: "Visualisierung des Berliner Landeshaushalts",
             en: "EMPTY",
           },
           paragraph: {
@@ -162,8 +162,8 @@ const content = {
         },
         img: {
           src: "assets/images/4_Haushaltsdatentool.png",
-          alt: "image tag",
-          copyright: "© 2022 CityLAB Berlin",
+          alt: "Visualisierung des Berliner Landeshaushalts vom CityLAB Berlin",
+          copyright: "© CityLAB Berlin",
           fit: "contain",
         },
       },
@@ -195,8 +195,8 @@ const content = {
         },
         img: {
           src: "assets/images/5_Sommerfest CityLAB 2022.jpg",
-          alt: "image tag",
-          copyright: "© 2022 CityLAB Berlin",
+          alt: "Sommerfest 2022 des CityLAB Berlin",
+          copyright: "© Stefan Wieland",
         },
       },
       {
@@ -222,8 +222,8 @@ const content = {
         },
         img: {
           src: "assets/images/6_Roadshow.jpg",
-          alt: "image tag",
-          copyright: "© 2022 CityLAB Berlin",
+          alt: "Eine Berliner Behörde, vor der das Banner der CityLAB Roadshow steht",
+          copyright: "© CityLAB Berlin",
         },
       },
       {
@@ -243,14 +243,14 @@ const content = {
             en: "EMPTY",
           },
           paragraph: {
-            de: `Mit dem Launch der neuen Website <a href="https://service-agentinnen.citylab-berlin.org/ " target="_blanc">Service-Agent:innen</a> wurde für Mitarbeiter:innen der Verwaltung ein neues Informationsangebot geschaffen, das insgesamt acht Module zum Thema agile Behördenarbeit enthält. Im Zentrum steht die bürgerzentrierte Entwicklung von Verwaltungsleistungen. Verschiedene Methoden aus unserem Service Design-Werkzeugkasten werden hier anschaulich erklärt und laden zum Selbstlernen ein. Auch für Nicht-Verwaltungsangestellte lesenswert!`,
+            de: `Mit dem Launch der neuen Website Service-Agent:innen wurde für Mitarbeiter:innen der Verwaltung ein neues Informationsangebot geschaffen, das insgesamt acht Module zum Thema agile Behördenarbeit enthält. Im Zentrum steht die bürgerzentrierte Entwicklung von Verwaltungsleistungen. Verschiedene Methoden aus unserem Service Design-Werkzeugkasten werden hier anschaulich erklärt und laden zum Selbstlernen ein. Auch für Nicht-Verwaltungsangestellte lesenswert!`,
             en: "EMPTY",
           },
         },
         img: {
           src: "assets/images/7_service agentinnen.png",
-          alt: "image tag",
-          copyright: "© 2022 CityLAB Berlin",
+          alt: "Grafik der Service Agent:innen Schulung des CityLAB Berlin für Mitarbeitende der Berliner Verwaltung",
+          copyright: "© CityLAB Berlin",
           fit: "contain",
           maxWidth: "600px",
           position: "center right",
@@ -286,11 +286,6 @@ const content = {
             {
               de: "Mehr Infos",
               en: "More info",
-              href: "https://www.freemove.space/erhebung/",
-            },
-            {
-              de: "Mehr Infos",
-              en: "More info",
               href: "https://www.freemove.space/ ",
             },
           ],
@@ -299,14 +294,14 @@ const content = {
             en: "EMPTY",
           },
           paragraph: {
-            de: "Wie können wir Bewegungsdaten so verarbeiten, dass die Privatsphäre geschützt bleibt und wir deren Innovationspotenziale nutzen können? Antworten hierauf suchen wir im Rahmen des vom Bundesministerium für Bildung und Forschunggeförderten Projekts freemove und sind in diesem Jahr in eine weitere partizipative Phase gegangen. Zusammen mit Berliner Studierenden und dem Deutschen Zentrum für Luft- und Raumfahrt  sammelten wir über dessen Smartphone-App MovingLab zwei Wochen lang einen GPS-Datensatz. Dank dieser Daten konnten wir neben verkehrswissenschaftlichen Untersuchungen wichtige Erkenntnisse rund um Bedürfnisse zum Thema Privatsphäre ziehen. Mithilfe zusätzlicher Fragebögen fanden wir heraus, was die Studierenden zur Datenspende bewegt hat, was sie beim Spenden empfinden, und was ihnen dabei wichtig ist. Nächster Schritt: eine gründliche Auswertung der Ergebnisse zusammen mit den Uni-Partner:innen!",
+            de: "Wie können wir Bewegungsdaten so verarbeiten, dass die Privatsphäre geschützt bleibt und wir deren Innovationspotenziale nutzen können? Antworten hierauf suchen wir im Rahmen des vom Bundesministerium für Bildung und Forschung geförderten Projekts freemove und sind in diesem Jahr in eine weitere partizipative Phase gegangen. Zusammen mit Berliner Studierenden und dem Deutschen Zentrum für Luft- und Raumfahrt  sammelten wir über dessen Smartphone-App MovingLab zwei Wochen lang einen GPS-Datensatz. Dank dieser Daten konnten wir neben verkehrswissenschaftlichen Untersuchungen wichtige Erkenntnisse rund um Bedürfnisse zum Thema Privatsphäre ziehen. Mithilfe zusätzlicher Fragebögen fanden wir heraus, was die Studierenden zur Datenspende bewegt hat, was sie beim Spenden empfinden, und was ihnen dabei wichtig ist. Nächster Schritt: eine gründliche Auswertung der Ergebnisse zusammen mit den Uni-Partner:innen!",
             en: "EMPTY",
           },
         },
         img: {
           src: "assets/images/8_freemove.jpg",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "Urbane Szene in Berlin",
+          copyright: "© Unsplash",
           position: "center right",
         },
       },
@@ -338,8 +333,8 @@ const content = {
         },
         img: {
           src: "assets/images/9_QTrees.jpg",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "Eine Hand, die ein Smartphone hält, auf der die App Baumblick zum Schutz von Stadtbäumen geöffnet ist",
+          copyright: "© Technologiestiftung Berlin",
         },
       },
       {
@@ -370,8 +365,8 @@ const content = {
         },
         img: {
           src: "assets/images/10_xmas-Finder.png",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "Anwendung Berliner Weihnachtsmarkt-Finder",
+          copyright: "© Open Data Informationstelle",
         },
       },
       {
@@ -402,8 +397,8 @@ const content = {
         },
         img: {
           src: "assets/images/11_gdk.png",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "drei Personen, die vor dem CityLAB Berlin Bäume gießen",
+          copyright: "© CityLAB Berlin",
         },
       },
       {
@@ -418,7 +413,7 @@ const content = {
               href: "https://radiocitylab.podigee.io/6-klick",
             },
             {
-              de: "Zum Blogbeitrag",
+              de: "Zum Podcast",
               en: "EMPTY",
               href: "https://radiocitylab.podigee.io",
             },
@@ -434,8 +429,8 @@ const content = {
         },
         img: {
           src: "assets/images/12_RadioCityLABWebseite.jpg",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "Logo des Podcasts Radio CityLAB Berlin",
+          copyright: "© CityLAB Berlin",
           fit: "contain",
           maxWidth: "600px",
           position: "center right",
@@ -458,14 +453,14 @@ const content = {
             en: "EMPTY",
           },
           paragraph: {
-            de: `Ende 2021 präsentierte das CityLAB die neue IoT-Plattform <a href="https://stadtpuls.com/" target="_blanc">Stadtplus</a> zum ersten Mal der Öffentlichkeit. Seither ist Stadtpuls mit zahlreichen neuen Features sowie spannenden bis hin zu romantischen Data Stories durchgestartet – wie etwa mit der Liebesgeschichte zwischen Molekülen und Sensoren. Im Rahmen des COMo-Projekts wurden von der Technologiestiftung Berlin CO2-Sensoren in öffentlich zugänglichen Räumen verteilt, um die Kohlendioxidkonzentration in der Raumluft zu ermitteln. Als offene Plattform unterstützte Stadtpuls bei der Erfassung und Visualisierung der Sensordaten und deren Bereitstellung für weitere Datenauswertungen und ebnete damit den Weg für einen ersten Schritt in Richtung smarte vernetzte Stadt.`,
+            de: `Ende 2021 präsentierte das CityLAB die neue IoT-Plattform Stadtplus zum ersten Mal der Öffentlichkeit. Seither ist Stadtpuls mit zahlreichen neuen Features sowie spannenden bis hin zu romantischen Data Stories durchgestartet – wie etwa mit der Liebesgeschichte zwischen Molekülen und Sensoren. Im Rahmen des COMo-Projekts wurden von der Technologiestiftung Berlin CO2-Sensoren in öffentlich zugänglichen Räumen verteilt, um die Kohlendioxidkonzentration in der Raumluft zu ermitteln. Als offene Plattform unterstützte Stadtpuls bei der Erfassung und Visualisierung der Sensordaten und deren Bereitstellung für weitere Datenauswertungen und ebnete damit den Weg für einen ersten Schritt in Richtung smarte vernetzte Stadt.`,
             en: "EMPTY",
           },
         },
         img: {
           src: "assets/images/13_2_stadtpuls.png",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "Grafik mit Molekülen",
+          copyright: "© Stadtpuls",
         },
       },
       {
@@ -491,8 +486,8 @@ const content = {
         },
         img: {
           src: "assets/images/14_summer school.jpg",
-          alt: "EMPTY",
-          copyright: "EMPTY",
+          alt: "Ein Fahrrad inmitten einer Großstadt",
+          copyright: "© Unsplash",
         },
       },
     ],
@@ -539,8 +534,8 @@ const content = {
         },
         img: {
           src: "assets/images/15_Republica.jpeg",
-          alt: "image tag",
-          copyright: "TODO",
+          alt: "das CityLAB Prototyping-Team ihrem Sensor-Workshop auf der re:publica",
+          copyright: "© CityLAB Berlin",
         },
       },
       {
@@ -550,7 +545,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Mehr Infos",
+              de: "Zum Event",
               en: "EMPTY",
               href: `https://citylab-berlin.org/de/events/smart-country-convention-sccon-2022/`,
             },
@@ -566,8 +561,8 @@ const content = {
         },
         img: {
           src: "assets/images/16_Smart Country Convention.jpg",
-          alt: "image tag",
-          copyright: "TODO",
+          alt: "Stand des Smart City Netzwerks auf der Smart Country Convention beim Besuch von der regierenden Bürgermeisterin Franziska Giffey und CDO Dr. Ralf Kleindiek",
+          copyright: "© CityLAB Berlin",
         },
       },
       {
@@ -598,8 +593,8 @@ const content = {
         },
         img: {
           src: "assets/images/17_BerlinSmartCityNight_Luli Puccio.jpg",
-          alt: "image tag",
-          copyright: "TODO",
+          alt: "Eine Rede bei der Berlin Smart City Night 2022, die das CitylAB Berlin mitorganisiert hat",
+          copyright: "© Luli Puccio",
         },
       },
       {
@@ -619,8 +614,8 @@ const content = {
         },
         img: {
           src: "assets/images/18_Delegationen.jpg",
-          alt: "image tag",
-          copyright: "TODO",
+          alt: "Eine Delegation steht vor dem CityLAB Berlin",
+          copyright: "© CityLAB Berlin",
         },
       },
       {
@@ -646,9 +641,9 @@ const content = {
         },
         img: {
           src: "assets/images/19_Berlin Science Week.jpg",
-          alt: "image tag",
+          alt: "Eine Rede auf der Berlin Science Week",
           copyright: "TODO",
-          position: "center right",
+          position: "© Falling Walls Foundation",
         },
       },
       {
@@ -674,8 +669,8 @@ const content = {
         },
         img: {
           src: "assets/images/20_Jakarta.jpg",
-          alt: "image tag",
-          copyright: "TODO",
+          alt: "Skyline von Jakarta",
+          copyright: "© Sebastian Strobel",
         },
       },
     ],
@@ -697,34 +692,51 @@ const content = {
       de: "Datenschutz",
       en: "Privacy",
     },
-    sitemap: {
-      links: [
-        {
-          label: "Einleitung",
-          href: "#intro",
-        },
-        {
-          label: "Themen & Projekte",
-          href: "#section-1.0",
-        },
-        {
-          label: "Schluswort",
-          href: "#numbers",
-        },
-      ],
+    projects: {
+      de: "Unsere Projekte",
+      en: "Impressum",
+      href: "https://citylab-berlin.org/de/projects/",
+    },
+    mainPage: {
+      href: "https://citylab-berlin.org/de/start/",
+      de: "Zur CityLAB Website",
+      en: "Privacy",
     },
     logos: [
       {
+        className: "citylab",
+        label: " ",
+        alt: "City Lab Berlin Logo",
+        href: "https://citylab-berlin.org/",
+        src: {
+          de: "assets/logos/citylab-logo.svg",
+          en: "assets/logos/citylab-logo.svg",
+        },
+      },
+      {
         className: "tsb",
+        label: {
+          de: "Ein Projekt der:",
+          en: "A project of:",
+        },
         alt: "Technologiestiftung Berlin Logo",
         href: "https://technologiestiftung-berlin.de/",
         src: {
-          de: "assets/logos/berlin-logo.svg",
-          en: "assets/logos/berlin-logo.svg",
+          de: "assets/logos/tsb-logo.svg",
+          en: "assets/logos/tsb-logo.svg",
         },
-        subtitle: {
-          de: "Viele unserer Projekte werden vom Land Berlin gefördert",
-          en: "Many of our projects are actively supported by the state of Berlin",
+      },
+      {
+        className: "skzl",
+        label: {
+          de: "Gefördert durch:",
+          en: "Funded by:",
+        },
+        alt: "Senatskanzlei Berlin Logo",
+        href: "https://www.berlin.de/rbmskzl/",
+        src: {
+          de: "assets/logos/berlin-skzl-logo-de.jpg",
+          en: "assets/logos/berlin-skzl-logo-en.jpg",
         },
       },
     ],
@@ -751,69 +763,25 @@ const content = {
           en: "Concluding remark",
         },
         text: {
-          de: "Viele unserer Projekte werden von unseren Förderpartner:innen tatkräftig unterstützt. Dafür möchten wir uns an dieser Stellen recht herzlich bedanken, insbesondere bei:",
-          en: "Many of our projects are actively supported by our funding partners. We would like to take this opportunity to express our sincere thanks, in particular to:",
+          de: "Für diejenigen, die es bis hier geschafft haben: Danke, dass ihr nicht nur beim Scrollen durchgehalten habt, sondern uns auch über die letzten 12 Monate hinweg begleitet habt! Denn was wäre das CityLAB ohne euch – ein Experiment ohne Experimentierende, ein Labor ohne Versuchsanordnung, ein Werkzeug ohne…? Wir freuen uns in jedem Fall darauf, auch das neue Jahr mit euch gemeinsam zu füllen – ob mit spannenden Inhalten, lustigen Gesprächen oder inspirierenden Veranstaltungen!",
+          en: "EMPTY",
         },
       },
-    },
-    partners: {
-      berlin: [
-        {
-          logo: "assets/logos/Partner-Logo-113.png",
-          logoHeight: 48,
-        },
-        {
-          logo: "assets/logos/Partner-Logo-114.png",
-          logoHeight: 48,
-        },
-        {
-          logo: "assets/logos/Partner-Logo-115.png",
-          logoHeight: 48,
-        },
-      ],
-      bund: [
-        {
-          logo: "assets/logos/Partner-Logo-117.png",
-          logoHeight: 112,
-        },
-        {
-          logo: "assets/logos/Partner-Logo-116.png",
-          logoHeight: 64,
-        },
-      ],
     },
     paragraphs: [
       {
+        title: {
+          de: "Newsletter",
+          en: "Newsletter",
+        },
         text: {
-          de: "Zu ihrer Arbeit stellt die Technologiestiftung Berlin jährlich einen Jahresabschluss auf, der von einer vom Kuratorium benannten Wirtschaftsprüfungsgesellschaft geprüft wird.",
-          en: "Technologiestiftung Berlin prepares annual financial statements on its work which are audited by an auditing firm appointed by the Board of Trustees. ",
-        },
-        link: {
-          de: "Zum Jahresabschluss (PDF)",
-          en: "Annual financial statements (PDF)",
-          href: "./assets/downloads/Jahresabschluss_2021_web.pdf",
-        },
-      },
-      {
-        text: {
-          de: "Außerdem publiziert die Technologiestiftung den Bericht zu ihrer Arbeit und den Jahresabschluss auch als Broschüre.",
-          en: "In addition, the Technologiestiftung publishes the report on its work and the annual financial statements as a brochure.",
-        },
-        link: {
-          de: "Zum Download (PDF)",
-          en: "Download (PDF)",
-          href: "https://www.technologiestiftung-berlin.de/fileadmin/Redaktion/PDFs/Bibliothek/Studien/2022/Jahresbericht_2021_web.pdf",
-        },
-      },
-      {
-        text: {
-          de: "Das Jahr 2021 war für die Technologiestiftung ein spannendes Jahr, in dem sie viele Projekte erfolgreich durchführen konnte. Gleichzeitig entwickelten sich neue Aufgaben und Projekte, die im Jahr 2022 realisiert werden. Über die laufende Arbeit informiert der monatlich erscheinende Newsletter, der allen Abonennt:innen kostenfrei zugeschickt wird.",
-          en: "2021 has been an exciting year for the Technologiestiftung in which we were able to successfully implement numerous projects. At the same time, new tasks and projects have been developed which we will tackle in 2022. The monthly newsletter is sent to all subscribers free of charge and provides information about ongoing activities.",
+          de: "Wie freuen uns, wenn ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir euch brandheiße Neuigkeiten aus dem CityLAB, direkt in euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt ihr stets informiert.",
+          en: "EMPTY",
         },
         link: {
           de: "Newsletter abonnieren",
-          en: "Subscribe to newsletter",
-          href: "https://www.technologiestiftung-berlin.de/newsletter",
+          en: "EMPTY",
+          href: "https://citylab-berlin.org/de/start#n2g_form",
         },
       },
     ],

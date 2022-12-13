@@ -6,7 +6,13 @@ import { ReactComponent as ArrowIcon } from "../../icons/arrow-circle-right.svg"
 function Link({ content, lang, theme }) {
   const href = content.href[lang] ? content.href[lang] : content.href;
   return (
-    <a className={cx(cn.link, cn[theme])} href={href} alt='' target='blank'>
+    <a
+      className={cx(cn.link, cn[theme])}
+      href={href}
+      alt=''
+      rel='noreferrer'
+      target='_blank'
+    >
       {content[lang]}
       <div className={cn.iconWrapper}>
         <ArrowIcon fill='white' />
