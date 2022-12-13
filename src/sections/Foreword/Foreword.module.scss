@@ -21,16 +21,19 @@
     align-items: center;
     flex-direction: column;
     gap: 57px 0;
-    overflow: hidden;
 
-    @media screen and (min-width: $large-content-width) {
-      flex-direction: row;
-    }
-    
     img {
       position: relative;
-      width: calc(50% - 28px);
+      width: calc(100% - 28px);
     }
+    
+    @media screen and (min-width: $large-content-width) {
+      flex-direction: row;
+      img {
+        width: calc(50% - 28px);
+      }
+    }
+    
   }
 
 }
