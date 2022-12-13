@@ -312,7 +312,7 @@ const content = {
             {
               de: "Zum Blogbeitrag",
               en: "Go to blog post",
-              href: "EMPTY",
+              href: "https://www.technologiestiftung-berlin.de/blog/ein-jahr-qtrees-learnings-ueber-kuenstliche-intelligenz-und-stadtbaeume",
             },
           ],
           title: {
@@ -320,7 +320,7 @@ const content = {
             en: "QTrees prototype",
           },
           paragraph: {
-            de: "In dem Forschungsprojekt QuantifiedTrees (kurz: QTrees) der Technologiestiftung Berlin beschäftigten wir uns zusammen mit Birds on Mars und dem Grünflächenamt Berlin Mitte auch in diesem Jahr mit der Frage, wie man ein KI-gestütztes Vorhersagemodell nutzen kann, um die Bewässerung von Stadtbäumen effizienter zu gestalten. Herausgekommen ist dabei ein erster Prototyp namens Baumblick. Die App erlaubt der Zivilgesellschaft wichtige Einblicke in verschiedene Parameter (Alter, Größe, Stammumfang, aktuelle Wasserversorgung etc.) am Standort eines jeden Baumes und lädt schließlich dazu ein, sich für Stadtbäume zu engagieren. Nach einem erfolgreichen Launch des Prototypen auf zahlreichen Konferenzen, Messen und Meetups können wir es kaum erwarten, die finale Version der App im Frühjahr zu veröffentlichen. Doch auch danach bleibt es spannend, denn im zweiten Halbjahr wollen wir uns der Entwicklung eines Dashboards für die Straßen- und Grünflächenämter widmen, das datengestützte Entscheidungshilfen bieten soll.",
+            de: "In dem Forschungsprojekt QuantifiedTrees (kurz: QTrees), durchgeführt von der Technologiestiftung Berlin, beschäftigten wir uns zusammen mit Birds on Mars und dem Grünflächenamt Berlin Mitte seit Ende 2021 mit der Frage, wie ein KI-gestütztes Vorhersagemodell bei der Bewässerung von Stadtbäumen helfen kann. Herausgekommen ist in diesem Jahr, neben dem KI-Modell,i ein erster Prototyp namens Baumblick. Die Web-App gibt dabei spannende Einblicke in verschiedene Parameter (Alter, Größe, Stammumfang, Verschattung etc.) am Standort eines jeden Baumes und trifft schließlich eine Aussage über die aktuelle Wasserversorgung. Nachzahlreichen Projektvorstellungen auf Konferenzen, Messen und Meetups können wir es kaum erwarten, die App im Frühjahr zu veröffentlichen. Doch auch danach bleibt es spannend, denn im zweiten Halbjahr wollen wir uns der Entwicklung eines Dashboards für die Grünflächenämter widmen, das noch vor Ende des Jahres 2023 im Zuge des Projektabschlusses gelauncht werden soll.",
             en: "In the research project QuantifiedTrees (or QTrees for short), Technologiestiftung Berlin joined force with Birds on Mars and the Berlin Mitte Green Spaces Department to once again address the question of how to use an AI-based predictive model to make the irrigation of urban trees more efficient. The result is an initial prototype called Baumblick. This app allows members of civil society to gain important insights into various parameters (age, size, trunk circumference, current water supply, etc.) at each tree's location, ultimately encouraging people to get involved with trees in the city. After a successful launch of the prototype at numerous conferences, trade shows and meetups, we can’t wait to release the final version of the app this spring. But there’s plenty to look forward to after that, too: we plan to devote the second half of the year to developing a dashboard for road administration and green space departments that will provide data-driven decision support.",
           },
         },
