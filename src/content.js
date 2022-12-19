@@ -707,7 +707,7 @@ const content = {
           en: "Newsletter",
         },
         text: {
-          de: "Wie freuen uns, wenn ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir euch brandheiße Neuigkeiten aus dem CityLAB, direkt in euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt ihr stets informiert.",
+          de: "Wir freuen uns, wenn ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir euch brandheiße Neuigkeiten aus dem CityLAB, direkt in euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt ihr stets informiert.",
           en: "You would like some more of this? Once a month, we'll deliver fresh news from CityLAB directly to your email inbox. Whether events, projects or background information – with our newsletter you will always be informed.",
         },
         link: {
