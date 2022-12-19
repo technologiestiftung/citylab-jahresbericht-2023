@@ -1,7 +1,7 @@
 const content = {
   header: {
     headline: {
-      de: "CityLAB Jahresbericht 2022",
+      de: "CityLAB Jahresrückblick 2022",
       en: "CityLAB annual review 2022",
     },
     img: {
