@@ -14,12 +14,24 @@ function Foreword({ content, lang }) {
       {lang === "de" && (
         <>
           <div className={cn.contentWrapper}>
-            <img src='assets/images/Zahl_Grafik_1.jpg' alt='' />
-            <img src='assets/images/Zahl_Grafik_2.jpg' alt='' />
+            <img
+              src='assets/images/Zahl_Grafik_1.jpg'
+              alt='Mitarbeiter im Citylab 2022'
+            />
+            <img
+              src='assets/images/Zahl_Grafik_2.jpg'
+              alt='Veranstaltungen im Citylab 2022'
+            />
           </div>
           <div className={cx(cn.contentWrapper, cn.mittelWrapper)}>
-            <img src='assets/images/Zahl_Grafik_3.jpg' alt='' />
-            <img src='assets/images/Zahl_Grafik_4.jpg' alt='' />
+            <img
+              src='assets/images/Zahl_Grafik_3.jpg'
+              alt='Gaeste im Citylab 2022'
+            />
+            <img
+              src='assets/images/Zahl_Grafik_4.jpg'
+              alt='Social Media Follower Citylab 2022'
+            />
           </div>
         </>
       )}
