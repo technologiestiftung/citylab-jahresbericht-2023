@@ -11,14 +11,18 @@ function Foreword({ content, lang }) {
         <Headline lang={lang} content={content.title} />
         <Paragraph lang={lang} content={content.text} />
       </div>
-      <div className={cn.contentWrapper}>
-        <img src='assets/images/Zahl_Grafik_1.jpg' alt='' />
-        <img src='assets/images/Zahl_Grafik_2.jpg' alt='' />
-      </div>
-      <div className={cx(cn.contentWrapper, cn.mittelWrapper)}>
-        <img src='assets/images/Zahl_Grafik_3.jpg' alt='' />
-        <img src='assets/images/Zahl_Grafik_4.jpg' alt='' />
-      </div>
+      {lang === "de" && (
+        <>
+          <div className={cn.contentWrapper}>
+            <img src='assets/images/Zahl_Grafik_1.jpg' alt='' />
+            <img src='assets/images/Zahl_Grafik_2.jpg' alt='' />
+          </div>
+          <div className={cx(cn.contentWrapper, cn.mittelWrapper)}>
+            <img src='assets/images/Zahl_Grafik_3.jpg' alt='' />
+            <img src='assets/images/Zahl_Grafik_4.jpg' alt='' />
+          </div>
+        </>
+      )}
     </section>
   );
 }
