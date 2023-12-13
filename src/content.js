@@ -46,7 +46,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Blogbeitrag",
+              de: "Zum Blogbeitrag",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
@@ -76,7 +76,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Blogbeitrag",
+              de: "Zum Blogbeitrag",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
@@ -106,7 +106,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Blogbeitrag",
+              de: "Zum Blogbeitrag",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/blog/klima-in-der-stadt-kiezlabor-tempelhofer-feld/",
@@ -137,7 +137,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Blogbeitrag",
+              de: "Zum Blogbeitrag",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/blog/platz-in-der-stadt-unser-kiezlabor-im-graefekiez/",
@@ -168,7 +168,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Blogbeitrag",
+              de: "Zum Blogbeitrag",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/blog/macht-platz-hier-kommt-das-kiezlabor/",
@@ -199,7 +199,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Kiezlabor",
+              de: "Zum Kiezlabor",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/projects/kiezlabor/",
@@ -251,7 +251,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Blogbeitrag",
+              de: "Zum Blogbeitrag",
               en: "Go to blog post",
               href: {
                 de: "https://citylab-berlin.org/de/blog/jahreskonferenz-gemeinsam-digital-berlin-2023/",
@@ -282,7 +282,7 @@ const content = {
         text: {
           links: [
             {
-              de: "Mehr Infos",
+              de: "Zum Blogbeitrag",
               en: "Further details",
               href: {
                 de: "https://citylab-berlin.org/de/blog/so-unterstuetzen-wir-die-massnahmen-teams-bei-der-umsetzung-der-strategie-gemeinsam-digital-berlin/",
@@ -313,13 +313,13 @@ const content = {
         text: {
           links: [
             {
-              de: "Link zum Dashboard",
+              de: "Zum Dashboard",
               en: "Go to videos",
               href: "https://dashboard.hiig.de/",
             },
           ],
           title: {
-            de: "Maßnahmenwerkstatt: Bessere Luft durch Verkehrswende?",
+            de: "Maßnahmenwerkstatt: Bessere Luft durch Verkehrswende? ",
             en: "Summer party",
           },
           paragraph: {
@@ -328,28 +328,28 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/Bessere Luft durch Verkehrswende_maßnahmenwerkstatt citylab 2023.png",
-          alt: "Sommerfest 2022 des CityLAB Berlin",
+          src: "assets/images/CityLab Berlin_Service Design_Formular_2023_Credit Sabine Zoltnere_web.jpg",
+          alt: "Screenshot des Data-Governance-Modells",
           copyright: "© CityLab",
           fit: "contain",
         },
       },
     ],
   },
-  prototyping: {
+  verwaltung: {
     id: "3.0",
     topic: {
-      de: "Prototyping für die Stadt der Zukunft",
+      de: "Auf Augenhöhe mit der Verwaltung",
       en: "Prototyping for the city of the future",
     },
     blocks: {
       intro: {
         title: {
-          de: "Die Stadt und wir",
+          de: "Auf Augenhöhe mit der Verwaltung",
           en: "The city and us",
         },
         text: {
-          de: "Ob Mobilität, Bäume oder Weihnachtsmärkte – als Stadtlabor sehen wir unseren Auftrag darin, Berlin ein Stück weit effizienter, sicherer, grüner oder auch einfach nur erlebbarer zu machen. Dafür nutzen wir offene Daten oder sammeln eigene Daten, um deren Potenzial für die Stadt in unseren Projekten aufzuzeigen. Unser Motto: Mitmachen und Ausprobieren ist strengstens erwünscht!",
+          de: "Wir stoßen Innovationsprozesse für und mit der Berliner Verwaltung an – und das immer auf Augenhöhe. Von der Problemanalyse über die Ideenfindung bis zum digitalen Prototyping nehmen wir Verwaltungsteams mit auf eine kreative Designreise, an deren Ende immer konkrete Ergebnisse, Erkenntnisse und Lösungen stehen. Dabei vermitteln wir zugleich Methodenkompetenz und lassen agile und kollaborative Formen der Zusammenarbeit erlebbar werden. ",
           en: "Whether mobility, trees or Christmas markets – as an urban laboratory, we see our mission as making Berlin that little bit more efficient, safer and greener – and not least to enable people to be more proactive in connecting with what’s going on. To do this, we use open data or collect our own data and run projects that demonstrate the potential this data offers the urban community. Our motto: participation and trial and error are strictly encouraged!",
         },
       },
@@ -362,25 +362,24 @@ const content = {
         text: {
           links: [
             {
-              de: "Mehr Infos",
+              de: "Zur Anwendung",
               en: "Further details",
-              href: "https://www.freemove.space/ ",
+              href: "https://www.hilf-mir.berlin/",
             },
           ],
           title: {
-            de: "Datensammlung im Mobilitätsdaten-Projekt freemove",
+            de: "Hilf-Mir.Berlin",
             en: "Data collection in the mobility data project freemove",
           },
           paragraph: {
-            de: "Wie können wir Bewegungsdaten so verarbeiten, dass die Privatsphäre geschützt bleibt und wir deren Innovationspotenziale nutzen können? Antworten hierauf suchen wir im Rahmen des vom Bundesministerium für Bildung und Forschung geförderten Projekts freemove und sind in diesem Jahr in eine weitere partizipative Phase gegangen. Zusammen mit Berliner Studierenden und dem Deutschen Zentrum für Luft- und Raumfahrt  sammelten wir über dessen Smartphone-App MovingLab zwei Wochen lang einen GPS-Datensatz. Dank dieser Daten konnten wir neben verkehrswissenschaftlichen Untersuchungen wichtige Erkenntnisse rund um Bedürfnisse zum Thema Privatsphäre ziehen. Mithilfe zusätzlicher Fragebögen fanden wir heraus, was die Studierenden zur Datenspende bewegt hat, was sie beim Spenden empfinden, und was ihnen dabei wichtig ist. Nächster Schritt: eine gründliche Auswertung der Ergebnisse zusammen mit den Uni-Partner:innen!",
+            de: "In Zusammenarbeit mit der Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (SenWGP) entwickelte das CityLAB in diesem Jahr eine digitale Plattform mit dem Ziel, Menschen in problematischen Lebenssituationen mit so wenig Klicks wie nötig zu helfen, passende Ansprechpartner:innen zu finden. Entstanden ist der digitale Wegweiser Hilf-Mir.Berlin der erstmals eine barrierearme und übersichtliche Darstellung von über 230 Beratungseinrichtungen bietet und sich nach verschiedenen Themen-Schlagworten filtern lässt. Wir finden: ein gelungenes Beispiel, das zeigt, dass die Digitalisierung auch wichtige Themen wie die psychosoziale Gesundheit in unserer Gesellschaft nicht ausklammert!",
             en: "How can we process movement data in a way that ensures privacy is protected but still allows us to exploit innovation potential? In order to look for answers to this question we’re running the project freemove funded by the German Federal Ministry of Education and Research, and this year we entered another participatory phase. Together with students based in Berlin and at the German Aerospace Center (DLR), we collected a GPS data set for two weeks via the DLR’s smartphone app MovingLab. As well as allowing us to carry out scientific investigations into transportation, this data also enabled us to draw key conclusions relating to privacy needs. With the help of additional questionnaires, we found out what motivated students to share data, how they felt about it, and what was important to them in the process. Next step: a thorough analysis of the results together with our university partners!",
           },
         },
         img: {
-          src: "assets/images/8_freemove.jpg",
-          alt: "Urbane Szene in Berlin",
-          copyright: "© Unsplash",
-          position: "center right",
+          src: "assets/images/CityLab Berlin_Ausstellung_2023_Credit Sabine Zoltnere_web_17.jpg",
+          alt: "Exponat in der Ausstellung des CityLab",
+          copyright: "© Sabine Zoltnere",
         },
       },
       {
@@ -390,64 +389,54 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Website",
+              de: "Zum Blogbeitrag",
               en: "Go to website",
               href: {
-                de: "https://qtrees.ai",
+                de: "https://citylab-berlin.org/de/blog/das-burgeramt-der-zukunft-teil-2/",
                 en: "https://qtrees.ai/en/",
               },
             },
-            {
-              de: "Zum Blogbeitrag",
-              en: "Go to blog post",
-              href: "https://www.technologiestiftung-berlin.de/blog/ein-jahr-qtrees-learnings-ueber-kuenstliche-intelligenz-und-stadtbaeume",
-            },
           ],
           title: {
-            de: "QTrees Prototyp",
+            de: "Bürgeramt der Zukunft",
             en: "QTrees prototype",
           },
           paragraph: {
-            de: "In dem Forschungsprojekt Quantified Trees (kurz: QTrees), durchgeführt von der Technologiestiftung Berlin, beschäftigten wir uns zusammen mit Birds on Mars und dem Grünflächenamt Berlin Mitte seit Ende 2021 mit der Frage, wie ein KI-gestütztes Vorhersagemodell bei der Bewässerung von Stadtbäumen helfen kann. Herausgekommen ist in diesem Jahr, neben dem KI-Modell, ein erster Prototyp namens Baumblick. Die Web-App gibt dabei spannende Einblicke in verschiedene Parameter (Alter, Größe, Stammumfang, Verschattung etc.) am Standort eines jeden Baumes und trifft schließlich eine Aussage über die aktuelle Wasserversorgung. Nach zahlreichen Projektvorstellungen auf Konferenzen, Messen und Meetups können wir es kaum erwarten, die App im Frühjahr zu veröffentlichen. Doch auch danach bleibt es spannend, denn im zweiten Halbjahr wollen wir uns der Entwicklung eines Dashboards für die Grünflächenämter widmen, das noch vor Ende des Jahres 2023 im Zuge des Projektabschlusses gelauncht werden soll.",
+            de: "Anknüpfend an die gelungene Zusammenarbeit mit dem Bürgeramt Friedrichshain-Kreuzberg in 2022 haben wir auch in diesem Jahr unsere Arbeit im Rahmen des Projekts Bürgeramt der Zukunft fortgesetzt. Die durchgeführten Prototypentests stellten dabei erfolgreich unter Beweis, dass ein effizienterer Ablauf in Bürgerämtern mit dem entwickelten Check-In-System ermöglicht werden konnte. Wir können daher mit Stolz sagen, dass aktuell die technische Machbarkeit einer Integration des Check-In-Systems in die bestehende IT-Infrastruktur der Bürgerämter eruiert wird. Für uns aber noch kein Grund, den Stift fallen zu lassen: aktuell arbeiten wir nämlich daran, auch die Anzahl von abgebrochenen Dienstleistungen in den Bürgerämtern zu reduzieren. Wie es damit weitergeht und welche spannenden Daten wir erhoben haben, erfährt Ihr im kommenden Jahr!",
             en: "In the research project Quantified Trees (or QTrees for short), Technologiestiftung Berlin joined force with Birds on Mars and the Berlin Mitte Green Spaces Department to once again address the question of how to use an AI-based predictive model to make the irrigation of urban trees more efficient. The result is an initial prototype called Baumblick. This app allows members of civil society to gain important insights into various parameters (age, size, trunk circumference, current water supply, etc.) at each tree's location, ultimately encouraging people to get involved with trees in the city. After a successful launch of the prototype at numerous conferences, trade shows and meetups, we can’t wait to release the final version of the app this spring. But there’s plenty to look forward to after that, too: we plan to devote the second half of the year to developing a dashboard for road administration and green space departments that will provide data-driven decision support.",
           },
         },
         img: {
-          src: "assets/images/9_QTrees.jpg",
-          alt: "Eine Hand, die ein Smartphone hält, auf der die App Baumblick zum Schutz von Stadtbäumen geöffnet ist",
-          copyright: "© Technologiestiftung Berlin",
+          src: "assets/images/Check In Buergeramt Yorkstrasse.jpg",
+          alt: "Wartebereich im Bürgeramt",
+          copyright: "© CityLab",
         },
       },
       {
         id: "3.3",
-        theme: "dark",
+        theme: "light",
         align: "right",
         text: {
           links: [
             {
-              de: "Zur Anwendung",
-              en: "The application",
-              href: "https://weihnachtsmaerkte.odis-berlin.de",
-            },
-            {
-              de: "Zum Interview mit den Entwickler:innen",
-              en: "Interview with the developers",
-              href: "https://citylab-berlin.org/de/blog/interview-odis-berliner-weihnachtsmarkt-finder/",
+              de: "Zum Blogbeitrag",
+              en: "Go to videos",
+              href: "https://citylab-berlin.org/de/blog/kooperation-jobcenter-friedrichshain-kreuzberg/",
             },
           ],
           title: {
-            de: "Berliner Weihnachtsmarkt-Finder",
-            en: "Berlin Christmas Market Finder",
+            de: "User Journey im Jobcenter",
+            en: "Summer party",
           },
           paragraph: {
-            de: "Zum Jahresende sind wir nochmal in Höchstform aufgelaufen und haben uns zusammen mit der ODIS überlegt, wie wir Berliner:innen mittels offener Daten die Vorweihnachtszeit verschönern können. Herausgekommen ist der Berliner Weihnachtsmarkt-Finder: Mit der interaktiven Karte lassen sich über 60 Weihnachtsmärkte in Berlin erkunden, deren Daten von der Senatsverwaltung für Wirtschaft, Energie und Betriebe jährlich veröffentlicht werden. Neben einer Standortsuche und der ÖPNV-Anbindung lassen sich die Weihnachtsmärkte mithilfe einer Filterfunktion auch nach Wunschdatum, Öffnungszeiten, besonderen Angeboten oder Eintrittspreisen sortieren. Entwickelt wurde die Anwendung – von der Idee bis zum Release – in gerade einmal zwei Wochen und zählt bereits jetzt zum perfekten Begleiter durch den Berliner Winter!",
-            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
+            de: "Für viele Menschen ist der Erstkontakt mit dem Jobcenter mit zahlreichen Unsicherheiten verbunden und es ist nicht immer leicht, den Überblick über die notwendigen Formulare und Prozessschritte zu behalten. Gleichzeitig stehen die Mitarbeitenden im Jobcenter vor der Herausforderung, die Bearbeitung der Erstanträge so effizient und bürgerfreundlich wie möglich zu gestalten und entsprechende Hilfestellungen zu leisten. Gemeinsam mit dem Jobcenter Friedrichshain-Kreuzberg haben wir uns den Prozess hinter den Kulissen angeschaut und erkundet, wie er sich sowohl für Neukund:innen als auch für Mitarbeitende verbessern lässt. In einer User Journey haben wir bestehende Herausforderungen identifiziert und Hypothesen zur Prozessverbesserung entwickelt. Unsere abschließenden Empfehlungen sollen nun in die Neugestaltung des Prozesses rund um den Erstkontakt mit dem Jobcenter einfließen. Wir wünschen dem Team weiterhin viel Erfolg bei der Umsetzung!",
+            en: "The CityLAB run by Technologiestiftung Berlin put on a big summer party at the former Tempelhof Airport this year to mark its third anniversary. Together with around 650 guests, we enjoyed a day full of highlights, such as a visit by mayor Franziska Giffey and our Chief Digital Officer Dr Ralf Kleindiek – not to mention musical performances by Mouse on Mars, DJ Femalemacho and Byrke Lou. With a range of interactive and entertaining learning and discussion formats, the summer festival offered actors from the fields of participatory urban development, administrative innovation, digitization and smart city a forum for listening, learning, presenting and discussing, thereby contributing to strengthening the discourse around participatory urban development.",
           },
         },
         img: {
-          src: "assets/images/10_xmas-Finder.png",
-          alt: "Anwendung Berliner Weihnachtsmarkt-Finder",
-          copyright: "© Open Data Informationstelle",
+          src: "assets/images/CityLab Berlin_Service Design_Formular_2023_Credit Sabine Zoltnere_web.jpg",
+          alt: "Person füllt ein Onlineformular aus",
+          copyright: "© Sabine Zoltnere",
         },
       },
       {
@@ -457,32 +446,24 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Website",
-              en: "Go to website",
-              href: "https://www.giessdenkiez.de/",
-            },
-            {
-              de: "Zum Blogbeitrag",
-              en: "Go to blog post",
-              href: {
-                de: "https://citylab-berlin.org/de/blog/herbstputz-bei-giess-den-kiez/",
-                en: "https://citylab-berlin.org/en/blog/fall-clean-up-at-giess-den-kiez/",
-              },
+              de: "Zum Wissensspeicher",
+              en: "The application",
+              href: "https://citylab-berlin.org/de/wissensspeicher/",
             },
           ],
           title: {
-            de: "Gieß den Kiez-Herbstputz",
-            en: "Gieß den Kiez fall clean-up",
+            de: "CityLAB-Wissen kompakt im Wissensspeicher",
+            en: "Berlin Christmas Market Finder",
           },
           paragraph: {
-            de: "Der Sommer 2022 gehört nach vorläufigen Berechnungen zu den vier wärmsten Sommern seit Beginn der Wetteraufzeichnung 1881 – und war mit einem Niederschlag von rund 145 Litern zugleich auch der sechsttrockenste Sommer, der bisher gemessen wurde. Zum Glück gibt es unsere Plattform Gieß den Kiez, wo sich eine sehr engagierte Community für die Bewässerung der Berliner Bäume koordiniert. Um uns bei den fleißigen Gießer:innen in diesem Jahr zu bedanken, haben wir uns das Feedback in unserem Slack-Kanal zu Herzen genommen und unter dem Motto “Herbstputz” in einem einwöchigen Entwicklungs-Sprint neue Features und Verbesserungen eingebaut.",
-            en: "Based on preliminary calculations, the summer of 2022 was among the four hottest summers since weather records began in 1881 – and with rainfall of around 145 liters, it was the sixth driest summer on record, too. Fortunately, our platform Gieß den Kiez enables a highly dedicated community to coordinate the watering of Berlin’s trees. As a thank-you to all this past year’s hard-working watering enthusiasts, we took the feedback in our Slack channel to heart and engaged in a one-week development sprint under the motto “Fall clean-up” to add new features and improvements.",
+            de: `Im CityLAB begleiten wir Beschäftigte der Berliner Verwaltung seit über vier Jahren durch strukturierte Innovationsprozesse und erproben mit ihnen in Workshops, Schulungen und gemeinsamen Austausch verschiedene Methoden und Tools, ganz nach dem „Train-the-Trainer“-Ansatz. Unser neuer Online-Wissensspeicher bündelt zahlreiche unserer erprobten Methoden und Erfahrungen an einem zentralen Ort. Als wachsender Speicher wird die digitale Plattform zudem regelmäßig mit neuen Erkenntnissen angereichert und gepflegt. Neben dem Handbuch Öffentliches Gestalten  – das wir aufgrund zahlreicher internationaler Anfragen nun auch <a href="https://www.oeffentliches-gestalten.de/en/" target="_blanc">ins Englische</a> übersetzt haben – und der Methodenbox könnt Ihr verschiedene Leitfäden rund um agiles Arbeiten und Open Source, unseren GD:B-Beteiligungsprozess und noch vieles mehr entdecken.`,
+            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
           },
         },
         img: {
-          src: "assets/images/11_gdk.png",
-          alt: "drei Personen, die vor dem CityLAB Berlin Bäume gießen",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/10_xmas-Finder.png",
+          alt: "Comicartige Interprätation eines Ideenfindugsprozesses",
+          copyright: "© CityLab",
         },
       },
       {
@@ -492,32 +473,25 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Folge",
-              en: "Go to episode",
-              href: "https://radiocitylab.podigee.io/6-klick",
-            },
-            {
-              de: "Zum Podcast",
-              en: "Go to podcast",
-              href: "https://radiocitylab.podigee.io",
+              de: "Zur Methodenbox",
+              en: "The application",
+              href: "https://citylab-berlin.org/de/wissensspeicher-methodenbox/",
             },
           ],
           title: {
-            de: "Podcast “Radio CityLAB Berlin”",
-            en: "Radio CityLAB Berlin podcast",
+            de: "Methoden spielerisch erkunden",
+            en: "Berlin Christmas Market Finder",
           },
           paragraph: {
-            de: "Wo entscheiden Algorithmen besser als der Mensch, wo aber nicht? Wie gelangen wir in der digitalen Welt zu den richtigen Entscheidungen und welche Hilfsmittel gibt es beim Umgang mit der Künstlichen Intelligenz? Mit dem renommierten Risiko-Forscher Prof. Dr. Gerd Gigerenzer des Max-Planck-Instituts für Bildungsforschung diskutierten unser Leiter Benjamin Seibel und über 170 Teilnehmende über digitale (Selbst)kontrolle. Der Vortrag wurde als Teil unseres Podcast-Formats Radio CityLAB Berlin aufgenommen, das in diesem Jahr mit fünf spannenden Episoden weiter ausgebaut wurde.",
-            en: "When do algorithms decide better than humans, and when don’t they? How do we arrive at the right decisions in the digital world, and what tools are available for dealing with artificial intelligence? With the involvement of renowned risk researcher Prof. Dr Gerd Gigerenzer of the Max Planck Institute for Human Development, our director Benjamin Seibel and over 170 participants engaged in a discussion on the subject of digital monitoring and self-monitoring. The talk was recorded as part of our Radio CityLAB Berlin podcast, which continued to expand this year with the addition of five fascinating new episodes.",
+            de: `Stellt Euch vor, Ihr könntet das Handbuch Öffentliches Gestalten durchspielen und hättet alles zur Hand, was Ihr dafür bräuchtet – egal ob passende Methode, Stift oder Papier. Diese Vorstellung muss nicht mehr länger Teil Eurer Fantasie sein, denn wir haben sie für Euch in die Realität umgesetzt! Mit unserer Methodenbox können alle, die in oder mit öffentlichen Verwaltungen und Organisationen arbeiten, die verschiedenen Schritte und Phasen eines Innovationsprozesses spielerisch umsetzen. Die Methodenbox kommt mit ausgewählten Methodenkarten und dazugehörigen Templates aus dem Handbuch Öffentliches Gestalten daher, die sich an den Prinzipien des agilen Arbeitens orientieren. Der modulare Aufbau der Methodenkarten ermöglicht dabei eine flexible Nutzung der Karten in jeder Phase eines Innovationsprozesses und soll dazu befähigen, auch ohne theoretisches Vorwissen die Methoden in der Praxis anzuwenden und eigeninitiativ zu handeln.`,
+            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
           },
         },
         img: {
-          src: "assets/images/12_RadioCityLABWebseite.jpg",
-          alt: "Logo des Podcasts Radio CityLAB Berlin",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/methodenbox citylab berlin.jpg",
+          alt: "Die Methodenbox",
+          copyright: "© CityLab",
           fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
         },
       },
       {
@@ -527,54 +501,25 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Stadtpuls-Story",
-              en: "Go to Stadtpuls story",
-              href: "https://stories.stadtpuls.com/molekuel-auf-der-spur",
-            },
-          ],
-          title: {
-            de: "Berliner Sensorgeschichten",
-            en: "Berlin sensor stories",
-          },
-          paragraph: {
-            de: `Ende 2021 präsentierte das CityLAB die neue IoT-Plattform Stadtplus zum ersten Mal der Öffentlichkeit. Seither ist Stadtpuls mit zahlreichen neuen Features sowie spannenden bis hin zu romantischen Data Stories durchgestartet – wie etwa mit der Liebesgeschichte zwischen Molekülen und Sensoren. Im Rahmen des COMo-Projekts wurden von der Technologiestiftung Berlin CO2-Sensoren in öffentlich zugänglichen Räumen verteilt, um die Kohlendioxidkonzentration in der Raumluft zu ermitteln. Als offene Plattform unterstützte Stadtpuls bei der Erfassung und Visualisierung der Sensordaten und deren Bereitstellung für weitere Datenauswertungen und ebnete damit den Weg für einen ersten Schritt in Richtung smarte vernetzte Stadt.`,
-            en: "At the end of 2021, CityLAB presented the new IoT platform Stadtpuls to the public for the first time. Since then, Stadtpuls has got off to a great start with numerous new features as well as captivating and in some cases even romantic data stories – such as the love story between molecules and sensors. As part of the project COMo, CO2 sensors were distributed by Technologiestiftung Berlin in publicly accessible spaces to determine the carbon dioxide concentration in the ambient air. As an open platform, Stadtpuls supported the collection and visualization of sensor data and its provision for further data analysis, thereby paving the way for a first step towards the smart connected city.",
-          },
-        },
-        img: {
-          src: "assets/images/13_2_stadtpuls.png",
-          alt: "Grafik mit Molekülen",
-          copyright: "© Stadtpuls",
-        },
-      },
-      {
-        id: "3.7",
-        theme: "dark",
-        align: "right",
-        text: {
-          links: [
-            {
               de: "Zum Blogbeitrag",
-              en: "Go to blog post",
-              href: {
-                de: "https://citylab-berlin.org/de/blog/summer-school-kottiflow/",
-                en: "https://citylab-berlin.org/en/blog/summer-school-kottiflow/",
-              },
+              en: "The application",
+              href: "https://citylab-berlin.org/de/blog/die-citylab-roadshow-einblicke-in-unsere-tour-durch-die-berliner-verwaltungen/",
             },
           ],
           title: {
-            de: "Summer School",
-            en: "Summer School",
+            de: "Roadshow: Hausbesuch vom CityLAB",
+            en: "Berlin Christmas Market Finder",
           },
           paragraph: {
-            de: `Zum vierten Mal in Folge fand auch dieses Jahr wieder die Summer School im CityLAB statt – diesmal unter dem Motto "Open Source meets Grüne Welle". Mit viel Forschergeist haben sich die Studierenden der Hochschule für Technik und Wirtschaft Berlin (HTW) Berlin mit der Infrastruktur der Radwege entlang der Teststrecke des Reallabors Radbahn befasst, um gemeinsam den Grüne Welle-Assistent Kottiflow zu entwickeln. Ziel der Challenge war es, Verkehrsteilnehmende zu unterstützen, flüssiger und sicherer an ihr Ziel zu gelangen. Innerhalb von knapp zwei Wochen wurden bereits praktische Ideen und erste Prototypen entwickelt, die u.a. auch in der neuen CityLAB-Ausstellung gezeigt werden sollen.`,
-            en: "The Summer School took place again at CityLAB for the fourth year in succession, this time under the motto “Open Source meets Green Wave”. Fueled by a great spirit of inquiry, students at Berlin University of Applied Sciences (HTW) looked at the infrastructure of the bike lanes along the Reallabor Radbahn test track with the aim of jointly developing the phased traffic-light assistant Kottiflow . The goal of the challenge was to help road users get to their destination more smoothly and safely. Practical ideas and initial prototypes were developed in just under two weeks: these will also be on show as part of the new CityLAB exhibition.",
+            de: `In diesem Jahr war das CityLAB im Rahmen seiner Roadshow-Veranstaltungsreihe zu Gast in der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt, um Einblicke in unseren prototypischen Ansatz zu geben und unsere Erkenntnisse aus bisherigen Kooperationen und Projekten im Bereich Verwaltungsinnovation zu teilen. Auf unseren bisherigen Stationen konnten wir erfreulicherweise nicht nur den Austausch zwischen dem CityLAB und der Berliner Verwaltung, sondern auch zwischen den Verwaltungseinheiten untereinander fördern. Dabei haben wir wertvolle Erkenntnisse gewinnen können, die wir im kommenden Jahr gerne weiter ausbauen und vertiefen möchten. Wir freuen uns darauf, unser Wissen mit Euch zu teilen und die Vernetzung der Berliner Verwaltung weiter zu stärken!`,
+            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
           },
         },
         img: {
-          src: "assets/images/14_summer school.jpg",
-          alt: "Ein Fahrrad inmitten einer Großstadt",
-          copyright: "© Unsplash",
+          src: "assets/images/Roadshow CityLAb Berlin.jpg",
+          alt: "Gebäude der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt",
+          copyright: "© CityLab",
+          fit: "contain",
         },
       },
     ],

@@ -1,6 +1,6 @@
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
 import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
-import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
+import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 
@@ -12,7 +12,7 @@ export const departmentList = [
   "gemeinsamDigital",
   "bildung",
   "unterwegs",
-  "prototyping",
+  "verwaltung",
 ];
 
 export const departments = {
@@ -107,8 +107,8 @@ export const departments = {
       2021: ["unterwegsdaten.berlin", "unterwegsBdigital"],
     },
   },
-  prototyping: {
-    component: <PrototypingIcon />,
+  verwaltung: {
+    component: <VerwaltungIcon />,
     label: "Prototyping",
     navOffset: iconWidthPlusGap * 4,
     slideOffset: -slideWidth * 4,

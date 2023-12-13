@@ -8,14 +8,14 @@ import Foreword from "./sections/Foreword";
 import Kiezlabor from "./sections/Kiezlabor";
 import GemeinsamDigital from "./sections/GemeinsamDigital";
 import Unterwegs from "./sections/Unterwegs";
-import Prototyping from "./sections/Prototyping";
+import Verwaltung from "./sections/Verwaltung";
 import Outro from "./sections/Outro";
 import Footer from "./sections/Footer";
 
 const langSelector = s => s.lang;
 
 const getNavItems = () => {
-  const keys = ["kiezlabor", "gemeinsamDigital", "prototyping", "unterwegs"];
+  const keys = ["kiezlabor", "gemeinsamDigital", "verwaltung", "unterwegs"];
   return keys.map(d => ({
     id: d,
     scrollId: content[d].id,
@@ -42,7 +42,7 @@ function App() {
         content={content.gemeinsamDigital}
         ui={content.ui}
       />
-      <Prototyping lang={lang} content={content.prototyping} ui={content.ui} />
+      <Verwaltung lang={lang} content={content.verwaltung} ui={content.ui} />
       <Unterwegs lang={lang} content={content.unterwegs} ui={content.ui} />
       <Outro lang={lang} content={content.outro} />
       <Footer content={content.footer} lang={lang} />
