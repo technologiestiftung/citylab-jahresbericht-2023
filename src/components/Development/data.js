@@ -1,7 +1,7 @@
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
 import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
-import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
+import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 
 const slideWidth = 317;
@@ -9,7 +9,7 @@ const iconWidthPlusGap = 64.5;
 
 export const departmentList = [
   "kiezlabor",
-  "verwaltung",
+  "gemeinsamDigital",
   "bildung",
   "unterwegs",
   "prototyping",
@@ -47,8 +47,8 @@ export const departments = {
       ],
     },
   },
-  verwaltung: {
-    component: <VerwaltungIcon />,
+  gemeinsamDigital: {
+    component: <GemeinsamDigitalIcon />,
     label: "Neue Technologien",
     navOffset: iconWidthPlusGap,
     slideOffset: -slideWidth,

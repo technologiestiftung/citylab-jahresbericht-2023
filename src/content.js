@@ -127,6 +127,7 @@ const content = {
           src: "assets/images/kiezlabor jahresrückblick tempelhofer feld.jpg",
           alt: "Das Kiezlabor mit Gästen",
           copyright: "© CityLab",
+          fit: "contain",
         },
       },
       {
@@ -157,6 +158,7 @@ const content = {
           src: "assets/images/Kiezlabor Graefekiez.jpg",
           alt: "Das Kiezlabor im Gräfekiez",
           copyright: "© CityLab",
+          fit: "contain",
         },
       },
       {
@@ -187,6 +189,7 @@ const content = {
           src: "assets/images/Kiezlabor Hellersdorf.jpg",
           alt: "Das Kiezlabor am Alice-Salomon-Platz",
           copyright: "© Edgard Berendsen",
+          fit: "contain",
         },
       },
       {
@@ -196,7 +199,7 @@ const content = {
         text: {
           links: [
             {
-              de: "ink zum Kiezlabor",
+              de: "Link zum Kiezlabor",
               en: "Go to strategy",
               href: {
                 de: "https://citylab-berlin.org/de/projects/kiezlabor/",
@@ -217,24 +220,25 @@ const content = {
           src: "assets/images/Kiezlabor_Sommerfes4_Credit_FlorianReimann.jpg",
           alt: "Fassade des Kiezlabors",
           copyright: "© Florian Reimann",
+          fit: "contain",
         },
       },
     ],
   },
-  verwaltung: {
+  gemeinsamDigital: {
     id: "2.0",
     topic: {
-      de: "CityLAB im Austausch mit Verwaltungen",
+      de: "Gemeinsam Digital: Berlin",
       en: "CityLAB in dialogue with the administrations",
     },
     blocks: {
       intro: {
         title: {
-          de: "Auf Augenhöhe mit der Verwaltung",
+          de: "Gemeinsam Digital: Berlin",
           en: "On an equal footing with the administration",
         },
         text: {
-          de: "Wir stoßen Innovationsprozesse für und mit der Berliner Verwaltung an – und das immer auf Augenhöhe. Dafür nutzen wir all unsere Sinne: Wir hören zu, beraten zu digitalen Vorhaben und sind viel unterwegs, oft direkt vor Ort und stets im persönlichen Austausch mit den Mitarbeitenden.",
+          de: "Die Strategie Gemeinsam Digital: Berlin (kurz: GD:B) wurde im September 2022 vom Berliner Senat verabschiedet und ist unser gemeinsames Umbauprogramm hin zu einem smarten Berlin. Das Ziel: Die digitale Transformation Berlins nachhaltig, gemeinwohlorientiert, kooperativ und resilient gestalten, gemeinsam lernen und Neues ausprobieren. Da darf natürlich auch das CityLAB nicht fehlen!",
           en: "We initiate innovation processes for and with the Berlin administration – always on an equal footing. In doing so, we activate all our senses: we listen, advise on digital projects and get out and about a lot, often working directly on site and always in direct dialog with employees.",
         },
       },
@@ -247,30 +251,28 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Blogbeitrag",
+              de: "Link zum Blogbeitrag",
               en: "Go to blog post",
               href: {
-                de: "https://citylab-berlin.org/de/blog/das-burgeramt-der-zukunft-teil-1/",
+                de: "https://citylab-berlin.org/de/blog/jahreskonferenz-gemeinsam-digital-berlin-2023/",
                 en: "https://citylab-berlin.org/en/blog/the-citizen-center-of-the-future-part-1/",
               },
             },
           ],
           title: {
-            de: "Bürgeramt der Zukunft",
+            de: "Jahreskonferenz Gemeinsam Digital: Berlin",
             en: "The Citizen Center of the Future",
           },
           paragraph: {
-            de: "Wie könnten Berliner Bürger:innen schneller Termine in Bürgerämtern bekommen? Wie sieht ein Arbeitsplatz in einem Bürgeramt der Zukunft aus? Welche Arbeitsabläufe im Ausbildungsbürgeramt können optimiert werden und dazu beitragen, dass das 14-Tage-Ziel, also die Möglichkeit, innerhalb von 14 Tagen einen Termin beim Bürgeramt zu ergattern, in Berlin besser erreicht werden kann? In unserem Projekt Bürgeramt der Zukunft haben wir uns diesen Fragen in verschiedenen Phasen angenommen. Dafür haben wir Verwaltungsmitarbeitenden direkt über die Schulter geguckt und sie im Rahmen einer Tagebuch-Studie und eines Shadowing im Behördenalltag begleitet. Die gemeinsam gesammelten Erkenntnisse werden nun in die Praxis umgesetzt: Im Ausbildungsbürgeramt Friedrichshain-Kreuzberg haben wir einen Prototypen vor Ort getestet, um eine flexiblere Termingestaltung zu ermöglichen. So viel können wir schon mal verraten: Die Ergebnisse sind sehr vielversprechend. Mehr zu den ersten Phasen und zu den nächsten Schritten erfahrt ihr hier.",
+            de: "Wie stellt man sicher, dass eine Strategie zur Transformation der Stadt Berlin auch ein oder mehrere Jahre nach Beschluss noch aktuell ist? Unsere Antwort: mit einer lernenden Strategie wie Gemeinsam Digital: Berlin (GD:B). Durch den regelmäßigen Erfahrungsaustausch aus der Strategieumsetzung entsteht ein kollektiver Lernprozess, der sicherstellt, dass auf aktuelle Entwicklungen reagiert werden kann und die Strategie so auch zukünftig noch Bestand hat. Die GD:B-Jahreskonferenz am 29.09. im Roten Rathaus bildete einen wichtigen Auftakt und brachte als Mitmach-Konferenz über 130 Menschen aus Verwaltung, Wissenschaft, Wirtschaft und Zivilgesellschaft zusammen. Die Ergebnisse der Jahreskonferenz werden derzeit ausgewertet und fließen anschließend in die schrittweise Überarbeitung der Strategie ein, um eine kontinuierliche Weiterentwicklung und die Anbindung an die Stadtgesellschaft sicherzustellen.",
             en: `How might it be possible for Berlin residents to get appointments at citizen centers more quickly? What would a workplace at a citizen center of the future look like? Which workflows at the citizen center vocational training department might be optimized so as to get closer to achieving the 14-day target – i.e. enabling people to get an appointment at a Berlin citizen center within 14 days? In our project Bürgeramt der Zukunft, we addressed these questions in various phases. To do this, we looked directly over the shoulders of administrative employees and accompanied them in their everyday work at the authorities as part of a diary study and shadowing. The findings we gathered together are now being put into practice: We tested a prototype on site at the Friedrichshain-Kreuzberg training citizens' office to enable more flexible scheduling. This much we can already reveal: The results are very promising. Read more about the first phases and the next steps here.`,
           },
         },
         img: {
-          src: "assets/images/3_Bürgeramt der Zukunft.jpg",
-          alt: "Laptop, der den Prototypen des Bürgeramts der Zukunft vom CityLAB Berlin zeigt",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/20230929_GemeinsamDigitalBerlin Jahreskonferenz_Credit_Constanze Flamme_185.jpg",
+          alt: "Gruppenfoto der Jahreskonferenz",
+          copyright: "© Constanze Flamme",
           fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
         },
       },
       {
@@ -283,22 +285,22 @@ const content = {
               de: "Mehr Infos",
               en: "Further details",
               href: {
-                de: "https://citylab-berlin.org/de/blog/ein-blick-in-berlins-geldbeutel/",
+                de: "https://citylab-berlin.org/de/blog/so-unterstuetzen-wir-die-massnahmen-teams-bei-der-umsetzung-der-strategie-gemeinsam-digital-berlin/",
                 en: "https://citylab-berlin.org/en/blog/a-look-into-berlins-coffers/",
               },
             },
           ],
           title: {
-            de: "Visualisierung des Berliner Landeshaushalts",
+            de: "Support für Maßnahmenbegleitung",
             en: "Visualization of the Berlin state budget",
           },
           paragraph: {
-            de: "Pro Jahr stehen der Berliner Politik und Verwaltung über 35 Milliarden Euro zur Umsetzung ihrer Ziele zur Verfügung. Doch wie viel Geld fließt konkret wohin? Zusammen mit dem Team der  Open Data Informationsstelle (ODIS) und der Senatsverwaltung für Finanzen hat das CityLAB in einem einwöchigen Sprint die offenen Haushaltsdaten für Berlin visualisiert und interaktiv aufbereitet. Das Ergebnis ist eine Website, die es Nutzer:innen erlaubt, Einnahmen und Ausgaben der Senatsverwaltungen und Bezirke sowie Funktionen und Themenbereiche anhand von interaktiven Diagrammen sowie einer Textsuche zu erkunden und zu vergleichen. Konzipiert ist die Open-Source-Anwendung als ein niedrigschwelliges Angebot, das sich an die breite Öffentlichkeit richtet. Die hinterlegten Daten und der Quellcode der Website sind frei verfügbar.",
+            de: "Seit Beginn der Umsetzungsphase ist das CityLAB fester Bestandteil des GD:B Support-Teams, das Maßnahmen während der Umsetzung begleitet und methodisch unterstützt. Für die unterschiedlichen Maßnahmen-Teams, die sich mit komplexen Fragen der Stadtentwicklung beschäftigen, bieten wir zu den jeweiligen Umsetzungsphasen Methodentraining sowie Ressourcen in Service Design und Prototpying an. In diesem Jahr wurden auf diese Weise fünf Maßnahmen begleitet, darunter die Pilotmaßnahme SMART SPACE Hardenbergplatz und das Projekt DigitalZebra der Öffentlichen Bibliotheken Berlins zur digitalen Inklusion und Teilhabe. Wir danken allen Beteiligten für die gute Zusammenarbeit und wünschen weiterhin viel Erfolg bei der Umsetzung!",
             en: "Every year, Berlin’s policymakers and administrators have more than 35 billion euros at their disposal to pursue their goals. But how much money is actually spent, and on what? Together with the team of the Open Data Information Service (ODIS) and the Senate Department of Finance, CityLAB ran a one-week sprint to visualize the open budget data for Berlin for interactive viewing. The result is a website that allows users to explore and compare revenues, expenditures, functions, and issues relevant to the Senate and district governments based on interactive charts and a text search function. This open-source application is designed as a low-threshold service aimed at the general public. The website data and source code are freely available.",
           },
         },
         img: {
-          src: "assets/images/4_Haushaltsdatentool.png",
+          src: "assets/images/GDB Workshop support Team.jpg",
           alt: "Visualisierung des Berliner Landeshaushalts vom CityLAB Berlin",
           copyright: "© CityLAB Berlin",
           fit: "contain",
@@ -311,89 +313,25 @@ const content = {
         text: {
           links: [
             {
-              de: "Zu den Videos",
+              de: "Link zum Dashboard",
               en: "Go to videos",
-              href: "https://www.youtube.com/playlist?list=PLRIKlbncTSl8xCXudSjAO77vHpwE9HdDX",
-            },
-            {
-              de: "Zu den Fotos",
-              en: "Go to fotos",
-              href: "https://www.flickr.com/photos/182217318@N05/albums/72177720300348470",
+              href: "https://dashboard.hiig.de/",
             },
           ],
           title: {
-            de: "Sommerfest",
+            de: "Maßnahmenwerkstatt: Bessere Luft durch Verkehrswende?",
             en: "Summer party",
           },
           paragraph: {
-            de: "Zum dritten Geburtstag feierte das CityLAB der Technologiestiftung Berlin sein großes Sommerfest im ehemaligen Flughafen Tempelhof. Zusammen mit rund 650 Gästen blicken wir zurück auf einen Tag voller Highlights – vom Besuch unserer Regierenden Bürgermeisterin Franziska Giffey und unseres Chief Digital Officer Dr. Ralf Kleindiek bis hin zu musikalischen Performances von Mouse on Mars, DJ Femalemacho und Byrke Lou. Durch interaktive und unterhaltsame Lern- und Diskussionsformate bot das Sommerfest Akteur:innen aus den Bereichen partizipative Stadtentwicklung, Verwaltungsinnovation, Digitalisierung und Smart City ein Forum zum Zuhören, Lernen, Präsentieren und Diskutieren und trug dazu bei, den Diskurs rund um die partizipative Stadtentwicklung zu stärken.",
+            de: "Als eine von zahlreichen GD:B-Pilotmaßnahmen beschäftigt sich das Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) zusammen mit dem Kompetenzzentrum Wasser Berlin (KWB) mit der Entwicklung eines Data-Governance-Modells. Die Untersuchungsfrage: Wie können öffentliche Verwaltungen, Wirtschaftsakteur:innen und die Zivilgesellschaft beim Thema Datennutzung und -verarbeitung gemeinwohlorientiert und auf Augenhöhe zusammenarbeiten? Hierzu wurden  interessierte Bürger:innen zu einer Maßnahmenwerkstatt ins CityLAB eingeladen, um am praktischen Beispiel von Maßnahmen zur Verbesserung der Stadtluft gemeinsam Ideen für eine ideale Bürger:innen-Beteiligung in Zukunft zu entwickeln. Die Teilnehmenden tauchten dabei in eine immersive Simulation eines Beteiligungsprozesses ein, die sie noch lange danach ins Schwärmen brachte!",
             en: "The CityLAB run by Technologiestiftung Berlin put on a big summer party at the former Tempelhof Airport this year to mark its third anniversary. Together with around 650 guests, we enjoyed a day full of highlights, such as a visit by mayor Franziska Giffey and our Chief Digital Officer Dr Ralf Kleindiek – not to mention musical performances by Mouse on Mars, DJ Femalemacho and Byrke Lou. With a range of interactive and entertaining learning and discussion formats, the summer festival offered actors from the fields of participatory urban development, administrative innovation, digitization and smart city a forum for listening, learning, presenting and discussing, thereby contributing to strengthening the discourse around participatory urban development.",
           },
         },
         img: {
-          src: "assets/images/5_Sommerfest CityLAB 2022.jpg",
+          src: "assets/images/Bessere Luft durch Verkehrswende_maßnahmenwerkstatt citylab 2023.png",
           alt: "Sommerfest 2022 des CityLAB Berlin",
-          copyright: "© Stefan Wieland",
-        },
-      },
-      {
-        id: "2.4",
-        theme: "light",
-        align: "right",
-        text: {
-          links: [
-            {
-              de: "Mehr Infos",
-              en: "Further details",
-              href: {
-                de: "https://citylab-berlin.org/de/projects/citylab-roadshow/",
-                en: "https://citylab-berlin.org/en/projects/citylab-roadshow/",
-              },
-            },
-          ],
-          title: {
-            de: "CityLAB Roadshow",
-            en: "CityLAB Roadshow",
-          },
-          paragraph: {
-            de: "Im Rahmen unserer neuen Veranstaltungsreihe Roadshow besuchte das CityLAB  verschiedene Verwaltungen, um ein tieferes Verständnis für die Herausforderungen der Digitalisierung im Alltag der Verwaltung zu erlangen und mögliche Anknüpfungspunkte für gemeinsame Projekte zu identifizieren. Den Auftakt für die Hausbesuche machten die Senatsverwaltung für Inneres, Digitalisierung und Sport sowie das Bezirksamt Pankow, viele weitere folgten. Nach einer Vorstellung unseres Labs sowie aktueller und realisierter Projekte wurde die Zeit vor Ort für ein individuelles Coaching, Diskussionen und Einblicke in agile Arbeitsweisen genutzt.",
-            en: "With our new Roadshow event series, CityLAB visited various administrations to gain a more in-depth understanding of the challenges involved in the digitalization of everyday administration and identify potential points of departure for joint projects. The series kicked off with visits to the Senate Department for the Interior, Digitalization and Sport and also Pankow District Office, followed by numerous others. After presenting our Lab along with current and past projects, the visits were taken up with individual coaching, discussion and provision of insights into agile ways of working.",
-          },
-        },
-        img: {
-          src: "assets/images/6_Roadshow.jpg",
-          alt: "Eine Berliner Behörde, vor der das Banner der CityLAB Roadshow steht",
-          copyright: "© CityLAB Berlin",
-        },
-      },
-      {
-        id: "2.5",
-        theme: "light",
-        align: "right",
-        text: {
-          links: [
-            {
-              de: "Zur Website",
-              en: "Go to website",
-              href: "https://service-agentinnen.citylab-berlin.org/",
-            },
-          ],
-          title: {
-            de: "Service-Agent:innen Website-Launch",
-            en: "Service-Agent:innen website launch",
-          },
-          paragraph: {
-            de: `Mit dem Launch der neuen Website Service-Agent:innen wurde für Mitarbeiter:innen der Verwaltung ein neues Informationsangebot geschaffen, das insgesamt acht Module zum Thema agile Behördenarbeit enthält. Im Zentrum steht die bürgerzentrierte Entwicklung von Verwaltungsleistungen. Verschiedene Methoden aus unserem Service Design-Werkzeugkasten werden hier anschaulich erklärt und laden zum Selbstlernen ein. Auch für Nicht-Verwaltungsangestellte lesenswert!`,
-            en: "With the launch of the new website ServiceAgent:innen (“Service Agents”), a new information service was created for administration employees containing a total of eight modules on the topic of agile public authority work. The focus here is on the citizen-centered development of administrative services. The website offers a clear explanation of various methods from our service design toolbox and encourages users to engage in independent learning. Definitely a worthwhile source of reference for non-administrators, too!",
-          },
-        },
-        img: {
-          src: "assets/images/7_service agentinnen.png",
-          alt: "Grafik der Service Agent:innen Schulung des CityLAB Berlin für Mitarbeitende der Berliner Verwaltung",
-          copyright: "© CityLAB Berlin",
+          copyright: "© CityLab",
           fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
         },
       },
     ],

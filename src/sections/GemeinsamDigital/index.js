@@ -10,11 +10,11 @@ import Icon from "../../components/Icon";
 
 import cx from "classnames";
 
-import cn from "./Verwaltung.module.scss";
+import cn from "./GemeinsamDigital.module.scss";
 
 const setActiveTopicSelector = s => s.setActiveTopic;
 
-function Verwaltung({ content, ui, lang }) {
+function GemeinsamDigital({ content, ui, lang }) {
   const elementRef = useRef(null);
   const isOnScreen = useOnScreen(elementRef);
   const setActiveTopic = useStore(setActiveTopicSelector);
@@ -32,7 +32,7 @@ function Verwaltung({ content, ui, lang }) {
         id={`section-${content.id}`}
       >
         <div className='anchor' ref={elementRef} id={`anchor-${content.id}`} />
-        <Icon type='verwaltung' />
+        <Icon type='gemeinsamDigital' />
         <Headline lang={lang} content={content.blocks.intro.title} />
         <Paragraph lang={lang} content={content.blocks.intro.text} />
       </div>
@@ -41,4 +41,4 @@ function Verwaltung({ content, ui, lang }) {
   );
 }
 
-export default Verwaltung;
+export default GemeinsamDigital;
