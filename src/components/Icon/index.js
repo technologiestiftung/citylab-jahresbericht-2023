@@ -1,7 +1,7 @@
 import cn from "./Icon.module.scss";
 
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
-import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
+import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
@@ -14,7 +14,7 @@ function Icon({ type }) {
   return (
     <div className={cn.iconWrapper}>
       {type === "bildung" && <BildungIcon />}
-      {type === "smartCity" && <SmartCityIcon />}
+      {type === "kiezlabor" && <KiezlaborIcon />}
       {type === "prototyping" && <PrototypingIcon />}
       {type === "verwaltung" && <VerwaltungIcon />}
       {type === "unterwegs" && <UnterwegsIcon />}

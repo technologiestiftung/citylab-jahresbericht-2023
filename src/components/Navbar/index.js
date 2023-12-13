@@ -5,14 +5,14 @@ import LanguageSwitch from "../LanguageSwitch";
 
 import cn from "./Navbar.module.scss";
 
-import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
+import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 
 const icons = {
-  smartCity: {
-    icon: <SmartCityIcon />,
+  kiezlabor: {
+    icon: <KiezlaborIcon />,
     width: 30,
     offset: 0,
   },

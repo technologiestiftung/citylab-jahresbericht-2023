@@ -10,11 +10,11 @@ import Icon from "../../components/Icon";
 
 import cx from "classnames";
 
-import cn from "./SmartCity.module.scss";
+import cn from "./Kiezlabor.module.scss";
 
 const setActiveTopicSelector = s => s.setActiveTopic;
 
-function SmartCity({ content, ui, lang }) {
+function Kiezlabor({ content, ui, lang }) {
   const elementRef = useRef(null);
   const isOnScreen = useOnScreen(elementRef);
   const setActiveTopic = useStore(setActiveTopicSelector);
@@ -32,7 +32,7 @@ function SmartCity({ content, ui, lang }) {
         id={`section-${content.id}`}
       >
         <div className='anchor' ref={elementRef} id={`anchor-${content.id}`} />
-        <Icon type='smartCity' />
+        <Icon type='kiezlabor' />
         <Headline lang={lang} content={content.blocks.intro.title} />
         <Paragraph lang={lang} content={content.blocks.intro.text} />
       </div>
@@ -41,4 +41,4 @@ function SmartCity({ content, ui, lang }) {
   );
 }
 
-export default SmartCity;
+export default Kiezlabor;

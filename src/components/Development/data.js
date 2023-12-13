@@ -1,5 +1,5 @@
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
-import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
+import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
@@ -8,7 +8,7 @@ const slideWidth = 317;
 const iconWidthPlusGap = 64.5;
 
 export const departmentList = [
-  "smartCity",
+  "kiezlabor",
   "verwaltung",
   "bildung",
   "unterwegs",
@@ -16,8 +16,8 @@ export const departmentList = [
 ];
 
 export const departments = {
-  smartCity: {
-    component: <SmartCityIcon />,
+  kiezlabor: {
+    component: <KiezlaborIcon />,
     label: "Smart City",
     navOffset: 0,
     slideOffset: 0,

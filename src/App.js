@@ -5,7 +5,7 @@ import content from "./content";
 import Intro from "./components/Intro";
 import Navbar from "./components/Navbar";
 import Foreword from "./sections/Foreword";
-import SmartCity from "./sections/SmartCity";
+import Kiezlabor from "./sections/Kiezlabor";
 import Verwaltung from "./sections/Verwaltung";
 import Unterwegs from "./sections/Unterwegs";
 import Prototyping from "./sections/Prototyping";
@@ -15,7 +15,7 @@ import Footer from "./sections/Footer";
 const langSelector = s => s.lang;
 
 const getNavItems = () => {
-  const keys = ["smartCity", "verwaltung", "prototyping", "unterwegs"];
+  const keys = ["kiezlabor", "verwaltung", "prototyping", "unterwegs"];
   return keys.map(d => ({
     id: d,
     scrollId: content[d].id,
@@ -36,7 +36,7 @@ function App() {
       <Intro content={content.header} lang={lang} />
       <Navbar items={navItems} lang={lang} />
       <Foreword lang={lang} content={content.foreword} />
-      <SmartCity lang={lang} content={content.smartCity} ui={content.ui} />
+      <Kiezlabor lang={lang} content={content.kiezlabor} ui={content.ui} />
       <Verwaltung lang={lang} content={content.verwaltung} ui={content.ui} />
       <Prototyping lang={lang} content={content.prototyping} ui={content.ui} />
       <Unterwegs lang={lang} content={content.unterwegs} ui={content.ui} />

@@ -1,39 +1,39 @@
 const content = {
   header: {
     headline: {
-      de: "CityLAB Jahresrückblick 2022",
-      en: "CityLAB annual review 2022",
+      de: "CityLAB Jahresrückblick 2023",
+      en: "CityLAB annual review 2023",
     },
     img: {
-      src: "assets/images/1_CityLAB Team.jpg",
+      src: "assets/images/Header_Jahresrückblick_WEB_CityLab_credit Sabine Zoltnere.jpg",
       alt: "Das Team des CityLab Berlin beim diesjährigen Sommerfest.",
-      copyright: "© Photo by Stefan Wieland / CityLAB",
+      copyright: "© Photo by Sabine Zoltnere",
     },
   },
   foreword: {
     title: {
-      de: "Liebe CityLAB Community,",
-      en: "Dear CityLAB Community,",
+      de: "Intro",
+      en: "Intro",
     },
     text: {
-      de: "Süßer die Glocken nie klangen – aber irgendwann ist auch mal gut. Nach der verdienten Dosis Besinnlichkeit können wir es kaum erwarten, mit Getöse ins neue Jahr zu starten. Wir grüßen Dich, 2023, Du wunderschönes, unbeschriebenes Blatt! Mach bitte weniger Blödsinn als dein Vorgänger. Bevor wir uns endgültig der Zukunft widmen, laden wir euch aber ein, ein letztes Mal inne zu halten und mit uns gemeinsam das Jahr 2022 Revue passieren zu lassen. Willkommen beim rappelvollen CityLAB-Jahresrückblick!</br></br> Für unser kleines Innovationslabor war es ein Jahr voller Abenteuer und Höhepunkte: Wir haben gemeinsam mit der ganzen Stadt an einer neuen Smart City-Strategie für Berlin gefeilt, mit Open Data-Prototypen die Zukunft der Stadt erlebbar werden lassen und sind tiefer denn je in die Welt der öffentlichen Verwaltung eingetaucht. Und das alles endlich wieder live und in Farbe. Nach zwei Jahren Zoom-Kachel-Memory war es unser ganz persönliches Highlight, mit mehr als 650 von euch ein großes Outdoor-Sommerfest auf dem Tempelhofer Flugfeld zu feiern. Schön, dass es euch gibt, liebe CityLAB-Community! Und nun viel Spaß mit unserem Jahresrückblick 2022.<br/><br/><strong>Das CityLAB in Zahlen</strong><br/>Bevor wir tiefer in die Inhalte eintauchen, möchten wir hier noch ein paar Zahlen mit euch teilen, die uns dieses Jahr besonders stolz gemacht haben.",
+      de: "Gerade mussten wir uns einmal kneifen: Ist tatsächlich schon wieder ein ganzes Jahr vergangen? Nun verfliegt die Zeit ja bekanntlich umso schneller, je mehr man zu tun hat, und über zu wenig spannende Projekte konnten wir uns auch 2023 ganz sicher nicht beklagen. Welch schöne Gelegenheit, einmal inne zu halten und gemeinsam in Erinnerungen zu schwelgen.<br/><br/>Kaum zu glauben, was so alles in 12 knappe Monate passt: Wir durften mit unserem brandneuen Kiezlabor die Straßen Berlins erobern, haben gleich eine ganze Reihe neuer digitaler Anwendungen entwickelt, Innovationsprozesse in der Berliner Verwaltung begleitet, einen Online-Wissensspeicher aufgebaut, ein rauschendes Sommerfest gefeiert, mit den schönen neuen Möglichkeiten der Künstlichen Intelligenz experimentiert, und und und…<br/><br/>Über all den einzelnen Projekten steht in diesem Jahr der Eindruck: Es tut sich richtig was in Berlin! Ob bei der Modernisierung der Verwaltung, in der engagierten Zivilgesellschaft, bei den GovTech-Startups oder unseren vielen exzellenten Forschungseinrichtungen – überall liegt digitale Aufbruchstimmung in der Luft. Nichts bringt diesen Spirit besser auf den Punkt als der Titel der übergreifenden Digitalisierungsstrategie des Landes: Gemeinsam Digital: Berlin. Mit dem Start der Umsetzungsphase sind wir mittendrin im Innovations-Getümmel, vernetzen Akteure und begleiten die zahlreichen Maßnahmenteams mit Methoden- und Prototyping-Kompetenz. <br/><br/>Wir danken an dieser Stelle unseren zahlreichen Partnerorganisationen, allen mutigen Verwaltungs-Vordenker:innen, Veränderungs-Aktivist:innen, kreativen Innovationstreiber:innen und interessierten Besucher:innen, die in diesem Jahr mit uns zusammengearbeitet haben – ihr macht Berlin für uns zur besten Stadt der Welt!<br/><br/>Jetzt aber genug gequasselt, viel Spaß mit unserem Jahresrückblick 2023!<br/><br/><strong>Das CityLAB in Zahlen</strong>",
       en: "Jingle bells is all very well – but all good things come to an end. After a well-deserved dose of festive cheer, we can’t wait to get off to a roaring start in the New Year. Welcome 2023, you wonderful blank page ... please don’t get up to as much nonsense as your predecessor! But before we finally turn our attention to the future, we invite you to pause one last time and review 2022 with us. Welcome to CityLAB’s action-packed annual retrospect!</br></br> It was a year full of adventures and highlights for our little innovation lab: we worked with the entire city to come up with a new Smart City Strategy for Berlin, we used open data prototypes to bring the city’s future potential to life, and we delved deeper than ever into the world of public administration – and all this finally live and in color once again. And after two years of Zoom tile memory, it was a huge highlight for us personally to be able to celebrate our big outdoor summer party at Tempelhof Airport with more than 600 of you guys. Our wonderful CityLAB community: it’s so great to know you’re there! And now, sit back and enjoy our review of the year 2022!",
     },
   },
-  smartCity: {
+  kiezlabor: {
     id: "1.0",
     topic: {
-      de: "Smart City-Strategieprozess",
-      en: "Smart City Strategy process",
+      de: "Kiezlabor",
+      en: "Kiezlabor",
     },
     blocks: {
       intro: {
         title: {
-          de: "Smart City-Strategieprozess",
-          en: "Smart City Strategy process",
+          de: "Kiezlabor",
+          en: "Kiezlabor",
         },
         text: {
-          de: "Die Strategie Gemeinsam Digital: Berlin ist eine Fusion aus der Berliner Digitalstrategie und der Smart City-Strategie. Damit ist sie das Umbauprogramm hin zu einem smarten Berlin. Das zentrale Ziel: Die Transformation Berlins nachhaltig, gemeinwohlorientiert, kooperativ und resilient zu gestalten. Da darf natürlich auch das CityLAB nicht fehlen!",
+          de: "Das Jahr 2023 stand im CityLAB-Kalender ganz im Zeichen eines besonderen Ereignisses, das wohl einen eigenen Jahresrückblick verdient hätte: der Eröffnung unseres Kiezlabors! Das Kiezlabor ist ein Projekt, das vom CityLAB im Rahmen der Strategie Gemeinsam Digital: Berlin umgesetzt wird. Unter dem Motto „Ohne Dich sind wir nur ein Container“ zauberten wir aus einem alten Schiffscontainer ein energieautarkes Tiny House. Der Plan? Unseren prototypischen Ansatz zusammen mit Euch in die Berliner Kieze bringen!",
           en: `The strategy Gemeinsam Digital: Berlin is a fusion of the Berlin Digital Strategy and the Smart City Strategy. As such, it is the transformation program toward a smart Berlin. The central goal: to shape Berlin's transformation in a sustainable, community-oriented, cooperative and resilient way. Of course, the CityLAB is not to be missed!`,
         },
       },
@@ -46,27 +46,177 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Strategie",
+              de: "Link zum Blogbeitrag",
               en: "Go to strategy",
               href: {
-                de: "https://gemeinsamdigital.berlin.de/de/",
-                en: "https://gemeinsamdigital.berlin.de/en/",
+                de: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
               },
             },
           ],
           title: {
-            de: "Strategie Gemeinsam Digital: Berlin",
+            de: "Kiezlabor meets re:publica",
             en: "The Gemeinsam Digital: Berlin strategy",
           },
           paragraph: {
-            de: `Mit der Verabschiedung der Strategie Gemeinsam Digital: Berlin hat das CityLAB in Zusammenarbeit mit der Senatskanzlei Berlin und vielen Akteur:innen der Stadtgesellschaft einen weiteren Meilenstein in der Umsetzung des Modellprojekts Smart City Berlin erreicht. Dabei blicken wir zurück auf einen fast zweijährigen Strategieprozess, bei dem wir im Austausch mit zentralen Akteur:innen und vor allem über 2.000 Berliner:innen Ideen gewälzt, Werte formuliert und vor allem viel Neues dazugelernt haben. Mit dem Abschluss des Strategieprozesses beginnt zugleich auch die Umsetzung von fünf Pilotprojekten und weiteren ersten Maßnahmen, bei denen das CityLAB und die Technologiestiftung tragende Rollen spielen werden.`,
+            de: `Unsere Kieztour durch Berlin startete vom 05.06. bis 15.06. mit der Vorstellung des Kiezlabors als Beta-Version auf der re:publica 2023, bereit für den ersten Test in freier Wildbahn. In Anlehnung an das diesjährige Motto der re:publica „CASH” stellte unser Kiezlabor-Team die Frage „Was kostet die Stadt?“ und machte sich auf die Suche nach Antworten – zusammen mit vielen spannenden Gästen, die den Kick-off des Kiezlabors mit uns gemeinsam zelebrierten.`,
             en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
           },
         },
         img: {
-          src: "assets/images/2_Strategie Gemeinsam Digital.webp",
-          alt: "Hauptvisual der Strategie Gemeinsam Digital: Berlin",
-          copyright: "© Larissa Hoff, aufsiemitgebrüll",
+          src: "assets/images/Kiezlabor-republica.jpg",
+          alt: "Das Kiezlabor mit Gästen",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "1.2",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Link zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Kiezlabor-Eröffnung",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Richtig feierlich wurde es auf dem CityLAB-Sommerfest, wo das Kiezlabor im Namen der digitalen Transformation zu seiner offiziellen Eröffnung rollte. Gemeinsam mit der Berliner Stadtgesellschaft, Verwaltung, Wissenschaft und Wirtschaft feierten wir am 29. Juni nicht nur vier Jahre CityLAB, sondern gleichzeitig auch den Startschuss unserer mobilen Lab-Version auf dem Gelände eines ehemaligen Güterbahnhofs in Prenzlauer Berg.`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor_Sommerfest_Credit_FlorianReimann.jpg",
+          alt: "Das Kiezlabor mit Gästen",
+          copyright: "© Florian Reimann",
+        },
+      },
+      {
+        id: "1.3",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Link zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/klima-in-der-stadt-kiezlabor-tempelhofer-feld/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Klima in der Stadt und auf dem Tempelhofer Feld",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Ein Besuch im Heimatbezirk des CityLAB Tempelhof-Schöneberg durfte auf der Liste der Kiezlabor-Standorte natürlich nicht fehlen: Auf der über 300 Hektar großen Fläche mitten in der Stadt zählt das Tempelhofer Feld schließlich nicht nur zu einem der beliebtesten Naherholungsgebiete in ganz Berlin, sondern bietet auch viel Platz für Austausch, Partizipation und Unterhaltung unter freiem Himmel. Vom 17.08. bis 27.08. lud das Kiezlabor zu einem vielfältigen Programm rund um die Herausforderungen des Klimawandels für den urbanen Raum ein – mit Erfrischung für Mensch und Natur inklusive!`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/kiezlabor jahresrückblick tempelhofer feld.jpg",
+          alt: "Das Kiezlabor mit Gästen",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "1.4",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Link zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/platz-in-der-stadt-unser-kiezlabor-im-graefekiez/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Platz für den Graefekiez",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Im September ging es weiter in den benachbarten Graefekiez, wo kreative Workshops, eine interaktive Ausstellung sowie ein vielseitiger Austausch zum Thema „Platz in der Stadt“ mit Kiezbewohner:innen und Passant:innen stattfanden. Neben vielen großen und kleinen Besucher:innen sowie der Berliner Chief Digital Officer Martina Klement empfing das Kiezlabor u.a. auch das Ausbildungsbürgeramt Friedrichshain-Kreuzberg als Gast, das seine Dienstleistungen gleich an vier Tagen im Kiezlabor anbot und damit so manche Kiezbewohner:innen mit kurzfristigen Terminen vor der Haustür beglückte.`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor Graefekiez.jpg",
+          alt: "Das Kiezlabor im Gräfekiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "1.5",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Link zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/macht-platz-hier-kommt-das-kiezlabor/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Stadtgestaltung auf dem Alice-Salomon-Platz",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Das große Finale der Kiezlabor-Tour 2023 fand im Oktober bei bereits herbstlichen Temperaturen auf dem Alice-Salomon-Platz in Marzahn-Hellersdorf statt. Unter dem Motto „Gemeinsam Stadt gestalten“ lud das Kiezlabor zusammen mit dem Campus Transferale (CaT) seine Besucher:innen vor Ort ein, mithilfe von Künstlicher Intelligenz und den modularen Stadtmöbeln im Kiezlabor neue Ideen und Visionen für den Platz zu entwickeln. Welche Zutaten es außerdem braucht, um gegen das Thema Lebensmittelverschwendung in Großstädten wie Berlin anzukämpfen, haben wir zusammen mit dem Bürgergarten Helle Oase beim Kochen vor Ort im Kiezlabor herausgefunden und können sagen: es hat allen geschmeckt!`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor Hellersdorf.jpg",
+          alt: "Das Kiezlabor am Alice-Salomon-Platz",
+          copyright: "© Edgard Berendsen",
+        },
+      },
+      {
+        id: "1.6",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "ink zum Kiezlabor",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/projects/kiezlabor/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Ausblick: Kiezlabor 2024",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Gemeinsam mit der Kieznachbarschaft sowie Akteur:innen aus Zivilgesellschaft, Wissenschaft und Verwaltung  wollen wir das Kiezlabor auch im kommenden Jahr als einen offenen Ort gestalten, der als Zukunftswerkstatt, Workshop, Bühne, interaktive Ausstellung, Netzwerktreffen oder einfach zum gemütlichen Verweilen dient. Bleibt also gespannt, welche Orte das Kiezlabor im neuen Jahr ansteuern wird – mit etwas Glück vielleicht ja auch in Eurem Kiez!`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor_Sommerfes4_Credit_FlorianReimann.jpg",
+          alt: "Fassade des Kiezlabors",
+          copyright: "© Florian Reimann",
         },
       },
     ],
@@ -597,7 +747,7 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/17_BerlinSmartCityNight_Luli Puccio.jpg",
+          src: "assets/images/17_BerlinKiezlaborNight_Luli Puccio.jpg",
           alt: "Eine Rede bei der Berlin Smart City Night 2022, die das CitylAB Berlin mitorganisiert hat",
           copyright: "© Luli Puccio",
         },
