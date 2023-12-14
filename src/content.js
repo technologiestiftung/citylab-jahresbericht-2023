@@ -771,6 +771,7 @@ const content = {
           src: "assets/images/radio citylab podcast.jpg",
           alt: "Logo of the Podcast Radio CityLAB Berlin",
           copyright: "© CityLab",
+          fit: "contain",
         },
       },
       {
@@ -881,19 +882,184 @@ const content = {
       },
     ],
   },
+  unterwegs: {
+    id: "5.0",
+    topic: {
+      de: "CityLAB unterwegs",
+      en: "CityLAB on the road",
+    },
+    blocks: {
+      intro: {
+        title: {
+          de: "CityLAB unterwegs",
+          en: "City laboratory with international flair",
+        },
+        text: {
+          de: "Ob im historischen Ambiente eines ehemaligen Flughafens oder auf vier Rädern in einem umgebauten Schiffscontainer – das CityLAB verkörpert einen Ort der Innovation und des regen Austausches, bei dem Mobilität und Weltoffenheit tief in unserer DNA verankert sind. In diesem Jahr waren wir nicht nur Gastgeber spannender Veranstaltungen in unseren eigenen vier Wänden, sondern haben auch zahlreiche Orte besucht, um frische Ideen, neue Perspektiven und inspirierende Impulse zu sammeln.",
+          en: "To see the numerous delegations we welcome to CityLAB, you’d think the former Tempelhof Airport was still up and running: we’ve never had so much international traffic! Constantly keeping our sights set beyond Berlin keeps us on our toes – just what we need to inspire us to achieve new heights. At the same time, we also got out and about a lot ourselves for inspiration and dialog at trade fairs and events. The highlight for us: the numerous conversations we had and the enormous interest in topics such as digitalization, smart city ideas and Berlin’s innovation potential.",
+        },
+      },
+    },
+    items: [
+      {
+        id: "5.1",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+            },
+            {
+              de: "Zum Talk",
+              en: "Go to blog post",
+              href: "https://www.youtube.com/watch?v=DEQsb7x2gCc",
+            },
+          ],
+          title: {
+            de: "Re:publica",
+            en: "Re:publica",
+          },
+          paragraph: {
+            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica  in diesem Jahr unter dem Motto „CASH” im Festsaal Kreuzberg und der Arena Berlin statt. Um auch für die Besucher:innen auf dem Weg zur re:publica sowie Bewohner:innen der umliegenden Kieze einen Begegnungsraum zu schaffen, haben wir sie vor den Toren der re:publica zu zahlreichen Formaten zum Thema „Was kostet die Stadt?” ins Kiezlabor eingeladen (kostenlos selbstverständlich). Aber auch auf der re:publica selbst waren wir mit spannenden Talks und interaktiven Showcases zum Thema Verwaltungsdigitalisierung, stille Beteiligung und digitale Bürgerservices der Zukunft dabei. Unser Highlight: das Panel unseres Direktors Dr. Benjamin Seibel mit Stephanie Kaiser, Chief Product Officer vom DigitalService des Bundes, auf einer der großen Festivalbühnen.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/Citylab republica talk.jpg",
+          alt: "CityLAB-Stand bei der Republica",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "5.2",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Programm",
+              en: "Go to blog post",
+              href: "https://citylab-berlin.org/de/events/creative-bureaucracy-festival/",
+            },
+          ],
+          title: {
+            de: "Creative Bureaucracy Festival",
+            en: "Re:publica",
+          },
+          paragraph: {
+            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica  in diesem Jahr unter dem Motto „CASH” im Festsaal Kreuzberg und der Arena Berlin statt. Um auch für die Besucher:innen auf dem Weg zur re:publica sowie Bewohner:innen der umliegenden Kieze einen Begegnungsraum zu schaffen, haben wir sie vor den Toren der re:publica zu zahlreichen Formaten zum Thema „Was kostet die Stadt?” ins Kiezlabor eingeladen (kostenlos selbstverständlich). Aber auch auf der re:publica selbst waren wir mit spannenden Talks und interaktiven Showcases zum Thema Verwaltungsdigitalisierung, stille Beteiligung und digitale Bürgerservices der Zukunft dabei. Unser Highlight: das Panel unseres Direktors Dr. Benjamin Seibel mit Stephanie Kaiser, Chief Product Officer vom DigitalService des Bundes, auf einer der großen Festivalbühnen.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/anne kruse_gdb_creative bureaucracy festival.jpg",
+          alt: "Anna Kruse spricht auf dem Creative Bureaucracy Festival",
+          copyright: "© Creative Bureaucracy Festival",
+        },
+      },
+      {
+        id: "5.3",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Programm",
+              en: "Go to blog post",
+              href: "https://citylab-berlin.org/de/events/citylab-smart-county-convention/",
+            },
+          ],
+          title: {
+            de: "Smart Country Convention (SCCON)",
+            en: "Smart Country Convention (SCCON)",
+          },
+          paragraph: {
+            de: "Auch in diesem Jahr fand die Smart Country Convention unter dem Motto „Stadt.Land.Tech” auf dem Messegelände Berlin im hub27 statt. Als Teil des Berliner Gemeinschaftsstands mit der Senatskanzlei Berlin war auch das CityLAB wieder vertreten und bot spannende Einblicke in die Arbeit eines Innovationslabors – ob erste Erfahrungen aus dem Kiezlabor oder Learnings aus der Strategie Gemeinsam Digital: Berlin.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/Benjamin Seibel_BP_SCC_081123-Berlin Partner  eventfotografen.com_1.jpg",
+          alt: "Benjamin Seibel spricht auf der Smart Country Convention",
+          copyright: "© Berlin Partner",
+        },
+      },
+      {
+        id: "5.4",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [],
+          title: {
+            de: "Auf Delegationsreise in Seoul",
+            en: "Smart Country Convention (SCCON)",
+          },
+          paragraph: {
+            de: "Ein ganz besonderes Highlight war in diesem Jahr die Einladung auf das IFEZ Smart City Symposium in Südkorea, wo wir als Teil einer einwöchigen Delegationsreise die Arbeit des CityLAB im Bereich digitaler Teilhabe sowie an der Strategie Gemeinsam Digital: Berlin präsentieren durften. Gemeinsam mit der Berliner Senatskanzlei, der Senatsverwaltung für Wirtschaft und weiteren Berliner Innovations-Akteuren waren wir in Seoul und Incheon unterwegs, haben die berühmt-berüchtigte Smart City-Planstadt Songdo besucht und das koreanische Startup-Ökosystem kennengelernt. Ein für beide Seiten bereichernder Austausch, der nach Fortsetzung ruft. Und ein stattliches Korean BBQ haben wir uns natürlich auch gegönnt.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/Benamin Seibel_Delegationsreise Seoul.JPG",
+          alt: "Smart City Symposium in Südkorea",
+          copyright: "© CityLab",
+        },
+      },
+    ],
+  },
   outro: {
     topic: {
       de: "Schlusssatz",
       en: "Final greetings",
     },
     blocks: {
+      press: {
+        title: {
+          de: "Das CityLAB in der Presse",
+          en: "Final greetings",
+        },
+        text: {
+          de: "In diesem Jahr durften wir uns über besonders viele Medienberichte freuen, die unsere Arbeit und Wirkung für und in Berlin in den Fokus rückten. Eine Auswahl möchten wir hier mit Euch teilen.",
+          en: "For those of you who have made it this far: Thank you for not only sticking it out while scrolling, but also for accompanying us over the past 12 months! Because what would CityLAB be without you – an experiment without experimenters, a lab without an experimental setup, a tool without...? In any case, we look forward to filling the new year together with you – whether with exciting content, fun conversations or inspiring events!",
+        },
+        links: [
+          {
+            de: "Behörden Spiegel:  Mehr als eine Projektliste: Berlins neue Digitalstrategie, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, Printausgabe Februar 2023",
+            en: "Behörden Spiegel:  Mehr als eine Projektliste: Berlins neue Digitalstrategie, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, Printausgabe Februar 2023",
+            href: "https://issuu.com/behoerden_spiegel/docs/2023_februar/20",
+          },
+          {
+            de: "kommune21: Mehr Zeit für Termine, Geringere Wartezeiten und mehr Termine in Berliner Bürgerämtern – so lautet das Ziel für ein neues Check-in-System, das vom CityLAB Berlin im Amt für Bürgerdienste des Bezirks Friedrichshain-Kreuzberg getestet wurde, 17.07.2023",
+            en: "kommune21: Mehr Zeit für Termine, Geringere Wartezeiten und mehr Termine in Berliner Bürgerämtern – so lautet das Ziel für ein neues Check-in-System, das vom CityLAB Berlin im Amt für Bürgerdienste des Bezirks Friedrichshain-Kreuzberg getestet wurde, 17.07.2023",
+            href: "https://www.kommune21.de/meldung_41701_Mehr+Zeit+für+Termine+.html",
+          },
+          {
+            de: "Tagesspiegel online: Gespräche mit einer Berliner Currywurst: Das CityLab Berlin präsentiert KI zum Anfassen, 02.08.2023",
+            en: "Tagesspiegel online: Gespräche mit einer Berliner Currywurst: Das CityLab Berlin präsentiert KI zum Anfassen, 02.08.2023",
+            href: "https://www.tagesspiegel.de/wissen/gesprache-mit-einer-berliner-currywurst-das-citylab-berlin-prasentiert-ki-zum-anfassen-10237546.html",
+          },
+          {
+            de: "eGovernment: Kiezlabor: ein offener Ort für Bürger und Verwaltung, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, 31.08.2023",
+            en: "eGovernment: Kiezlabor: ein offener Ort für Bürger und Verwaltung, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, 31.08.2023",
+            href: "https://www.egovernment.de/kiezlabor-ein-offener-ort-fuer-buerger-und-verwaltung-a-ee62f2d7bd652cee6e3957e03000f94d/",
+          },
+          {
+            de: "demo: Wie KI in der Bürgerbeteiligung eingesetzt wird, 01.11.2023",
+            en: "demo: Wie KI in der Bürgerbeteiligung eingesetzt wird, 01.11.2023",
+            href: "https://www.demo-online.de/artikel/ki-buergerbeteiligung-eingesetzt",
+          },
+        ],
+      },
       intro: {
         title: {
           de: "Schlusssatz",
           en: "Final greetings",
         },
         text: {
-          de: "Für diejenigen, die es bis hier geschafft haben: Danke, dass ihr nicht nur beim Scrollen durchgehalten habt, sondern uns auch über die letzten 12 Monate hinweg begleitet habt! Denn was wäre das CityLAB ohne euch – ein Experiment ohne Experimentierende, ein Labor ohne Versuchsanordnung, ein Werkzeug ohne…? Wir freuen uns in jedem Fall darauf, auch das neue Jahr mit euch gemeinsam zu füllen – ob mit spannenden Inhalten, lustigen Gesprächen oder inspirierenden Veranstaltungen!",
+          de: "Es ist geschafft! Wir blicken zurück auf ein Jahr voller Highlights und spannenden Entwicklungen, Umsetzungen und Gesprächen und sagen danke an alle, die mit uns zusammen an der Zukunft der Stadt Berlin experimentiert haben! Danke, dass ihr Euch angesichts der kleineren und größeren Herausforderungen in der Stadt nicht entmutigen oder verunsichern, sondern ganz im Gegenteil inspirieren lassen habt, mit uns weiterzumachen! Denn wie heißt es so schön: hinter jeder Herausforderung steckt auch eine Chance, zu wachsen. Möge uns das neue Jahr in diesem Sinne vor die richtigen Herausforderungen stellen und die Gelegenheit bieten, die wichtigen Fragen zu stellen und uns zum Wohle der Stadt und seiner Bewohner:innen als ein Ort der Innovation und Transformation weiterzuentwickeln.",
           en: "For those of you who have made it this far: Thank you for not only sticking it out while scrolling, but also for accompanying us over the past 12 months! Because what would CityLAB be without you – an experiment without experimenters, a lab without an experimental setup, a tool without...? In any case, we look forward to filling the new year together with you – whether with exciting content, fun conversations or inspiring events!",
         },
       },
@@ -901,17 +1067,21 @@ const content = {
     paragraphs: [
       {
         title: {
-          de: "Newsletter",
+          de: "In Kontakt bleiben",
           en: "Newsletter",
         },
         text: {
-          de: "Wir freuen uns, wenn ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir euch brandheiße Neuigkeiten aus dem CityLAB, direkt in euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt ihr stets informiert.",
+          de: "Wir freuen uns, wenn Ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir Euch Neuigkeiten aus dem CityLAB, direkt in Euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt Ihr stets informiert.",
           en: "You would like some more of this? Once a month, we'll deliver fresh news from CityLAB directly to your email inbox. Whether events, projects or background information – with our newsletter you will always be informed.",
         },
         link: {
           de: "Newsletter abonnieren",
           en: "Subscribe to Newsletter",
-          href: "https://citylab-berlin.org/de/start#n2g_form",
+          href: "https://citylab-berlin.org/de/newsletter/",
+        },
+        social: {
+          de: "Auf unseren Social Media-Kanälen <a href='https://www.instagram.com/citylabbln/' target='_blanc'>Instagram</a>, <a href='https://twitter.com/citylabberlin' target='_blanc'>X</a> und <a href='https://mastodontech.de/@citylabberlin' target='_blanc'>Mastodon</a> teilen wir tagesaktuelle Einblicke mit Euch – also folgt uns, wenn Ihr hinter die Kulissen des CityLAB blicken möchtet.",
+          en: "Social networks",
         },
       },
     ],

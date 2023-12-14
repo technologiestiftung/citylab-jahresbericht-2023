@@ -6,7 +6,7 @@ import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltun
 import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
 import { ReactComponent as StadtUndWirIcon } from "../../icons/Nav-Icon-StadtUndWir.svg";
 import { ReactComponent as ActivitiesIcon } from "../../icons/Nav-Icon-Activities.svg";
-import { ReactComponent as TeamIcon } from "../../icons/Nav-Icon-Team.svg";
+import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 import { ReactComponent as ChronologieIcon } from "../../icons/Nav-Icon-Chronologie.svg";
 
 function Icon({ type }) {
@@ -18,7 +18,7 @@ function Icon({ type }) {
       {type === "gemeinsamDigital" && <GemeinsamDigitalIcon />}
       {type === "stadtUndWir" && <StadtUndWirIcon />}
       {type === "activities" && <ActivitiesIcon />}
-      {type === "team" && <TeamIcon />}
+      {type === "unterwegs" && <UnterwegsIcon />}
       {type === "chronologie" && <ChronologieIcon />}
     </div>
   );
