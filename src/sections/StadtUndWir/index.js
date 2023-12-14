@@ -9,11 +9,11 @@ import Paragraph from "../../components/Paragraph";
 import Headline from "../../components/Headline";
 import Icon from "../../components/Icon";
 
-import cn from "./Unterwegs.module.scss";
+import cn from "./StadtUndWir.module.scss";
 
 const setActiveTopicSelector = s => s.setActiveTopic;
 
-function Unterwegs({ content, ui, lang }) {
+function StadtUndWir({ content, ui, lang }) {
   const elementRef = useRef(null);
   const isOnScreen = useOnScreen(elementRef);
   const setActiveTopic = useStore(setActiveTopicSelector);
@@ -31,7 +31,7 @@ function Unterwegs({ content, ui, lang }) {
         id={`section-${content.id}`}
       >
         <div className='anchor' ref={elementRef} id={`anchor-${content.id}`} />
-        <Icon type='unterwegs' />
+        <Icon type='stadtUndWir' />
         <Headline lang={lang} content={content.blocks.intro.title} />
         <Paragraph lang={lang} content={content.blocks.intro.text} />
       </div>
@@ -40,4 +40,4 @@ function Unterwegs({ content, ui, lang }) {
   );
 }
 
-export default Unterwegs;
+export default StadtUndWir;

@@ -8,7 +8,7 @@ import cn from "./Navbar.module.scss";
 import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
-import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
+import { ReactComponent as StadtUndWirIcon } from "../../icons/Nav-Icon-StadtUndWir.svg";
 
 const icons = {
   kiezlabor: {
@@ -26,8 +26,8 @@ const icons = {
     width: 30,
     offset: 200,
   },
-  unterwegs: {
-    icon: <UnterwegsIcon />,
+  stadtUndWir: {
+    icon: <StadtUndWirIcon />,
     width: 30,
     offset: 100,
   },

@@ -2,7 +2,7 @@ import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg"
 import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
 import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
-import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
+import { ReactComponent as StadtUndWirIcon } from "../../icons/Nav-Icon-StadtUndWir.svg";
 
 const slideWidth = 317;
 const iconWidthPlusGap = 64.5;
@@ -11,7 +11,7 @@ export const departmentList = [
   "kiezlabor",
   "gemeinsamDigital",
   "bildung",
-  "unterwegs",
+  "stadtUndWir",
   "verwaltung",
 ];
 
@@ -93,8 +93,8 @@ export const departments = {
       2021: ["Offene Werkstatt im CityLAB Berlin", "Hacking Box", "EduTechMap"],
     },
   },
-  unterwegs: {
-    component: <UnterwegsIcon />,
+  stadtUndWir: {
+    component: <StadtUndWirIcon />,
     label: "Unterwegs",
     navOffset: iconWidthPlusGap * 3,
     slideOffset: -slideWidth * 3,

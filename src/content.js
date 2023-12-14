@@ -524,20 +524,20 @@ const content = {
       },
     ],
   },
-  unterwegs: {
+  stadtUndWir: {
     id: "4.0",
     topic: {
-      de: "CityLAB unterwegs",
+      de: "Die Stadt und wir",
       en: "CityLAB on the road",
     },
     blocks: {
       intro: {
         title: {
-          de: "Stadtlabor mit internationalem Flair",
+          de: "Die Stadt und wir",
           en: "City laboratory with international flair",
         },
         text: {
-          de: "Beim Anblick der vielen Delegationen, die wir bei uns im CityLAB begrüßen dürfen, könnte man meinen, der ehemalige Flughafen Tempelhof wäre noch in Betrieb: So viel internationalen Austausch hatten wir noch nie! Der stetige Blick über den Berliner Tellerrand hält uns fit und ist genau die Kost, die wir brauchen, um uns zu neuen Höhenflügen inspirieren zu lassen. Gleichzeitig waren auch wir viel unterwegs, um uns auf Messen und Veranstaltungen zu inspirieren und auszutauschen. Unser Highlight: Die vielen Gespräche und das große Interesse an Themen wie Digitalisierung, Smart City-Ansätzen und das Innovationspotenzial Berlins.",
+          de: "Ob Mobilität, Bäume oder Weihnachtsmärkte – als Stadtlabor sehen wir unseren Auftrag darin, Berlin ein Stück weit effizienter, sicherer, grüner oder auch einfach nur erlebbarer zu machen. Dafür nutzen wir offene Daten oder sammeln eigene Daten, um deren Potenzial für die Stadt in unseren Projekten aufzuzeigen. Unser Motto: Mitmachen und Ausprobieren ist strengstens erwünscht!",
           en: "To see the numerous delegations we welcome to CityLAB, you’d think the former Tempelhof Airport was still up and running: we’ve never had so much international traffic! Constantly keeping our sights set beyond Berlin keeps us on our toes – just what we need to inspire us to achieve new heights. At the same time, we also got out and about a lot ourselves for inspiration and dialog at trade fairs and events. The highlight for us: the numerous conversations we had and the enormous interest in topics such as digitalization, smart city ideas and Berlin’s innovation potential.",
         },
       },
@@ -552,25 +552,32 @@ const content = {
             {
               de: "Zum Blogbeitrag",
               en: "Go to blog post",
-              href: {
-                de: "https://citylab-berlin.org/de/blog/republica-2022-berliner-smart-city-pilotprojekte-vorgestellt/",
-                en: "https://citylab-berlin.org/en/blog/republica-2022-presentation-of-berlin-smart-city-pilot-projects/",
-              },
+              href: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+            },
+            {
+              de: "Zu allen Talks der Hauptbühne",
+              en: "Go to blog post",
+              href: "https://www.youtube.com/watch?v=nVjc2Av2L4s&list=PLRIKlbncTSl95in0M1Sw_PpaCC5_GNR7N",
+            },
+            {
+              de: "Zum Podcast",
+              en: "Go to blog post",
+              href: "https://radiocitylab.podigee.io/episodes",
             },
           ],
           title: {
-            de: "Re:publica",
+            de: "Sommerfest",
             en: "Re:publica",
           },
           paragraph: {
-            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica in diesem Jahr endlich wieder vor Ort statt und da durfte das CityLAB natürlich nicht fehlen! Zusammen mit der Senatskanzlei Berlin nutzten wir die Chance, der Öffentlichkeit die Strategie Gemeinsam Digital: Berlin sowie das Team dahinter zu präsentieren. Neben unserem Abendevent zum Networking bot unser Sensor-Workshop ein weiteres Highlight auf der re:publica, bei dem unser Prototyping-Team zeigte, wie man mithilfe von Sensoren Daten erfassen, teilen und visualisieren kann, um seine Stadt besser zu verstehen.",
+            de: "Was wäre der Berliner Sommer eigentlich ohne das legendäre CityLAB-Sommerfest? Für uns – und Ihr werdet dem hoffentlich zustimmen – definitiv nur halb so aufregend, inspirierend und vernetzt! Unser Team hat mal wieder alles gegeben, um diesen besonderen Tag mit einer Fülle von Panel Talks, mehreren Bühnen, Workshops und einem vielseitigen Programm gebührend mit Euch zu gestalten.<br/><br/>Auf dem Gelände des Von Greifswald, einem ehemaligen Güterbahnhof im Prenzlauer Berg, stellten wir uns in diesem Jahr der Herausforderung, das „Rätsel Berlin” an einem Tag zu lösen. Natürlich brauchten wir dafür eine Menge schlauer Köpfe, um Fragen rund um Verwaltungsmodernisierung, dem Potenzial offener Daten und Zukunftsvisionen für Berlin zu erkunden. Wir waren sehr stolz darauf, dass wir neben über 500 Gästen u.a. auch Francesca Bria, Direktorin des Programms „The New Hanse“ und Präsidentin des italienischen Nationalen Innovationsfonds, Carlo Ratti, Direktor des Senseable City Lab am MIT, sowie gleich zwei CDOs aus Berlin und München – nämlich Martina Klement sowie Laura Dornheim – auf unserem Sommerfest begrüßen durften. Was das Sommerfest sonst noch für Highlights bereithielt und ob wir es wirklich geschafft haben, Berlin mit all seinen offenen Fragezeichen und Baustellen an einem Tag zu lösen, erfährt ihr in unserem Blogbeitrag, beim Nachschauen aller Sessions unserer Hauptbühne sowie in unseren zwei Podcast-Sonderfolgen.",
             en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
           },
         },
         img: {
-          src: "assets/images/15_Republica.jpeg",
-          alt: "das CityLAB Prototyping-Team ihrem Sensor-Workshop auf der re:publica",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/sommerfest_gruppe.jpg",
+          alt: "das CityLAB-Team beim Sommerfest",
+          copyright: "© Florian Reimann",
         },
       },
       {
@@ -580,24 +587,30 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Event",
+              de: "Zum Projekt",
               en: "Go to event",
-              href: `https://citylab-berlin.org/de/events/smart-country-convention-sccon-2022/`,
+              href: `https://citylab-berlin.org/de/projects/ki-zum-anfassen-unsere-interaktiven-exponate/`,
+            },
+            {
+              de: "Zur Ausstellung",
+              en: "Go to event",
+              href: `https://citylab-berlin.org/de/exhibition/`,
             },
           ],
           title: {
-            de: "Smart Country Convention (SCCON)",
+            de: "KI-Experimente zum Anfassen",
             en: "Smart Country Convention (SCCON)",
           },
           paragraph: {
-            de: "Im Oktober öffnete die Smart Country Convention wieder ihre Türen und brachte sowohl Menschen als auch Ideen aus Verwaltung, Politik, Wissenschaft und Digitalwirtschaft zum Thema E-Government und Smart City zusammen. Gemeinsam mit der Senatskanzlei präsentierte das CityLAB dabei auf dem Berliner Gemeinschaftsstand die neuesten Entwicklungen aus der Smart City-Strategie für Berlin und bot mit weiteren Berliner Organisator:innen unter dem Motto Gemeinsam Digital: Berlin ein vielfältiges Standprogramm an. Abgerundet wurde das erfolgreiche Event mit einem Standbesuch der Regierenden Bürgermeisterin Franziska Giffey und CDO Dr. Ralf Kleindiek.",
+            de: "Im CityLAB beschäftigen wir uns nicht nur mit innovativen, methodischen Ansätzen, sondern auch mit den neuesten technologischen Entwicklungen, die dabei helfen können, die Verwaltungsdigitalisierung in Berlin voranzutreiben. Der Hype um das Thema Künstliche Intelligenz (KI) und Tools wie ChatGPT ist natürlich auch am CityLAB nicht spurlos vorbeigegangen. Wir haben dem Thema KI gleich einen eigenen Themenschwerpunkt im ersten Halbjahr gewidmet und in interdisziplinären Team die Potenziale für unsere Zielgruppen erforscht. Dabei haben wir uns sowohl tief in technische Details eingearbeitet, als auch die sozialen und politischen Implikationen von KI im Dialog mit verschiedenen Expert:innen diskutiert. Und weil wir greifbare Ergebnisse lieben, sind aus dieser Auseinandersetzung insgesamt vier ganz konkrete KI-Anwendungen entstanden, die wir auf unserem Sommerfest der Öffentlichkeit präsentieren durften. Was es genau mit Ernst der Currywurst oder Kiki, der freundlichen Biene, auf sich hat und wofür unsere KI-Ideenwürfel eingesetzt werden, könnt Ihr in unserer Ausstellung im CityLAB live und in Farbe erleben. Kommt vorbei und probiert es aus!",
             en: "In October, the Smart Country Convention opened its doors once again, bringing together people and ideas from administration, politics, science and the digital economy on the topic of e-government and the smart city. Together with the Senate Chancellery, CityLAB presented the latest developments from the Smart City Strategy for Berlin at the joint Berlin stand, offering a diverse program under the motto Gemeinsam Digital: Berlin together with other Berlin organizers.  The successful event was rounded off with a visit to the stand by Mayor Franziska Giffey and CDO Dr Ralf Kleindiek.",
           },
         },
         img: {
-          src: "assets/images/16_Smart Country Convention.jpg",
-          alt: "Stand des Smart City Netzwerks auf der Smart Country Convention beim Besuch von der regierenden Bürgermeisterin Franziska Giffey und CDO Dr. Ralf Kleindiek",
+          src: "assets/images/collage KI Exponate Prototyping CityLAB.jpg",
+          alt: "KI-Experimente auf dem Sommerfest",
           copyright: "© CityLAB Berlin",
+          fit: "contain",
         },
       },
       {
@@ -607,32 +620,27 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Programm",
+              de: "Zur Anwendung",
               en: "Further details",
               href: {
-                de: `https://citylab-berlin.org/de/events/smart-city-expo-world-congress-2022/`,
+                de: `https://energiecheckpoint.odis-berlin.de/`,
                 en: "https://citylab-berlin.org/en/events/smart-city-expo-world-congress-barcelona-2022/",
               },
             },
-            {
-              de: "Mehr Eindrücke",
-              en: "More insights",
-              href: `https://flic.kr/s/aHBqjAiu6W`,
-            },
           ],
           title: {
-            de: "Smart City Expo World Congress (SCEWC) Barcelona",
+            de: "Berliner Energiecheckpoint",
             en: "Smart City Expo World Congress (SCEWC) Barcelona",
           },
           paragraph: {
-            de: "Auch in diesem Jahr war das CityLAB gemeinsam mit der Senatskanzlei Berlin wieder prominent auf dem SCEWC vom 15. bis 17. November in Barcelona vertreten. Auf dem Programm standen neben einem Roundtable zur Vorstellung der Highlights und Erfahrungen aus dem Berliner Smart City-Strategieprozesses die Vorstellung des Projekts QTrees sowie das erste internationale LabCamp, das von CDO Dr. Ralf Kleindiek und CTO von Barcelona, Michael Donaldson, eröffnet wurde. Das Netzwerkformat bot drei gelungenen Beispielen von Innovationslaboren eine Plattform zum Austausch zu gemeinsamen Ansätzen und Herausforderungen. Als Co-Hosts von Berlin Partner lud das CityLAB zudem zur Berlin Smart City Night ein, wo ein Expert:innen-Austausch zu Themen wie Innovation, Kooperation und Digitalisierung in gemütlicher Atmosphäre stattfand.",
+            de: "Berlin möchte bis spätestens 2045 klimaneutral werden. Öffentliche Gebäude wie Schulen und Kultureinrichtungen sollen dabei durch Energieeinsparungen und Sanierungen eine Vorbildrolle einnehmen. Doch welche Gebäude verbrauchen wie viel Energie und welche Einsparpotentiale stecken in der Sanierung einzelner Gebäude? Dieser Frage widmete sich das ODIS-Team und entwickelte zusammen mit dem CityLAB den Berliner EnergieCheckpoint. Die interaktive Anwendung basiert auf den offenen Daten der BIM Berliner Immobilien Management GmbH und ermöglicht es, Daten zum Energieverbrauch und Energieeinsparungen öffentlicher Gebäude zu öffnen und diese über einzelne Standorte auf einer Berlin-Karte zu visualisieren. Ihr möchtet wissen, wie hoch der jährliche Energieverbrauch des Friedrichstadtpalast ist oder welchen Beitrag zur Energieeinsparung die energetische Sanierung des Roten Rathauses leisten kann? Findet es im Berliner EnergieCheckpoint heraus!",
             en: "Together with the Berlin Senate Chancellery, CityLAB was once again prominently represented at the SCEWC in Barcelona from November 15 to 17 this year. The program included a round table to present highlights and experiences from the Berlin Smart City Strategy process and the QTrees project, as well as putting on the first international LabCamp, which was opened by CDO Dr Ralf Kleindiek and Barcelona CTO Michael Donaldson. The networking format provided a platform for three successful examples of innovation labs to share common ideas and challenges. Along with Berlin Partner, CityLAB also co-hosted the Berlin Smart City Night – an expert dialog on subjects such as innovation, cooperation and digitalization set in an inviting atmosphere.",
           },
         },
         img: {
-          src: "assets/images/17_BerlinKiezlaborNight_Luli Puccio.jpg",
-          alt: "Eine Rede bei der Berlin Smart City Night 2022, die das CitylAB Berlin mitorganisiert hat",
-          copyright: "© Luli Puccio",
+          src: "assets/images/Berliner Energiecheckpoint ODIS CityLAB Berlin.png",
+          alt: "Screenshot aus der Anwendung",
+          copyright: "© CityLab",
         },
       },
       {
