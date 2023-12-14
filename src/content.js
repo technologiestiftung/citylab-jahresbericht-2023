@@ -575,7 +575,7 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/sommerfest_gruppe.jpg",
+          src: "assets/images/Sommerfest.jpg",
           alt: "das CityLAB-Team beim Sommerfest",
           copyright: "© Florian Reimann",
         },
@@ -648,20 +648,31 @@ const content = {
         theme: "light",
         align: "left",
         text: {
-          links: [],
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Further details",
+              href: `https://citylab-berlin.org/de/blog/fuenf-fragen-zum-erfolgreichen-abschluss-des-projekts-qtrees/`,
+            },
+            {
+              de: "Zur Baumblick-App",
+              en: "Further details",
+              href: `https://baumblick.qtrees.ai/`,
+            },
+          ],
           title: {
-            de: "Delegationsbesuche im CityLAB",
-            en: "Delegation visits to CityLAB",
+            de: "QTrees",
+            en: "Berlin Science Week",
           },
           paragraph: {
-            de: "Von Paris bis Seoul, Pristina oder Jakarta – die Liste unserer diesjährigen Besucher:innen im CityLAB ist lang und kannte vor allem keine Ländergrenzen! Nachdem der Besucher:innenbetrieb im Jahr zuvor pandemiebedingt doch sehr eingeschränkt war, freuten wir uns umso mehr über die zahlreichen Besuche aus dem Ausland und den gemeinsamen Austausch vor Ort im CityLAB. Eines von vielen Highlights: das große Interesse und Überlegungen zur Adaption von Gieß den Kiez in Paris und Los Angeles!",
-            en: "Paris, Seoul, Pristina and Jakarta – the list of this year’s visitors to CityLAB is long and goes way beyond national borders! Since the pandemic limited the number of visitors the year before, we were all the more delighted to receive so many visitors from abroad and engage in dialog face to face at CityLAB. One of many highlights: the great interest in Gieß den Kiez among visitors from Paris and Los Angeles, including ideas as to how the scheme might be adapted!",
+            de: "Kann Künstliche Intelligenz bei der Bewässerung und Pflege von Stadtbäumen unterstützen? Um das herauszufinden, hat das CityLAB zusammen mit Birds on Mars und der Technologiestiftung Berlin im Rahmen des Projekts Quantified Trees (kurz: QTrees) über zwei Jahre hinweg mit den Straßen- und Grünflächenämtern der Bezirke Mitte und Neukölln, einem Sensor-Anbieter sowie eine, Gießdienstleister kooperiert. Auf der Grundlage eines eigens entwickelten KI-Prognosemodells wurde neben der Baumblick-App ein Experten-Dashboard entwickelt, das die Bezirke durch die Nutzung der Vorhersage bei der Bewässerung von Stadtbäumen unterstützen kann. Dabei haben wir gemeinsam mit den Bezirksämtern viel über bereits bestehende Möglichkeiten, aber auch über die Grenzen beim Einsatz von Künstlicher Intelligenz gelernt. Denn eine KI ist letztlich nur so gut, wie die Daten, mit denen sie trainiert wird. Gleichwohl bot unser KI-Vorhersagemodell gleich eine ganze Reihe spannender Erkenntnisse auf dem Weg zu einer nachhaltigen Stadt. Mehr Einblicke in den erfolgreichen Abschluss des Projekts gibt es im Interview mit der Projektleiterin Julia Zimmermann.",
+            en: "Zurich meets Berlin: at the Berlin Science Week, CityLAB engaged in dialog with the Swiss city about common goals and challenges relating to topics such as climate neutrality, the mobility transition, affordable housing, equal opportunities and inclusion. These topics are also the focus of our projects such as the Household Data Tool and the Berlin Refreshment Map, which were developed in collaboration with ODIS and presented at the Berlin Science Week.",
           },
         },
         img: {
-          src: "assets/images/18_Delegationen.jpg",
-          alt: "Eine Delegation steht vor dem CityLAB Berlin",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/Smart City Expo Barcelona 2022_Qtrees.JPG",
+          alt: "CityLab Delegation auf der Expo Barcelona",
+          copyright: "© CityLab",
         },
       },
       {
@@ -671,25 +682,27 @@ const content = {
         text: {
           links: [
             {
-              de: "Mehr Infos",
-              en: "Further details",
-              href: `https://berlinscienceweek.com/event/die-zukunft-ist-offen/`,
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/de/blog/summer-school-2023-prototyping-fur-die-gesunde-stadt/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
             },
           ],
           title: {
-            de: "Berlin Science Week",
-            en: "Berlin Science Week",
+            de: "School’s out, Summer School’s in",
+            en: "Smart Change delegation trip to Jakarta",
           },
           paragraph: {
-            de: "Zürich trifft Berlin: Auf der Berlin Science Week trat das CityLAB mit der Schweizer Metropole in einen Dialog über gemeinsame Ziele und Herausforderungen zu Themen wie Klimaneutralität, Mobilitätswende, bezahlbarer Wohnraum, Chancengleichheit und Inklusion. Diese Themen stehen auch im Fokus unserer Projekte wie dem Haushaltsdatentool und der Berliner Erfrischungskarte, die in Zusammenarbeit mit der ODIS entwickelt und auf der Berlin Science Week vorgestellt wurden.",
-            en: "Zurich meets Berlin: at the Berlin Science Week, CityLAB engaged in dialog with the Swiss city about common goals and challenges relating to topics such as climate neutrality, the mobility transition, affordable housing, equal opportunities and inclusion. These topics are also the focus of our projects such as the Household Data Tool and the Berlin Refreshment Map, which were developed in collaboration with ODIS and presented at the Berlin Science Week.",
+            de: "Zum fünften Mal in Folge startete im September die CityLAB Summer School, die sich in diesem Jahr den Themen Stadtlärm sowie urbaner Landwirtschaft widmete. In Kooperation mit der Hochschule für Technik und Wirtschaft (HTW), der Technischen Universität Berlin (TU) sowie den Entwicklern des „Hydrotowers” tüftelten Studierende an konkreten Lösungen für städtische Herausforderungen und entwickelten im Rahmen der zehntägigen Summer School innovative Prototypen für eine gesündere Stadt.<br/>Die Studierenden erhielten in diesem Jahr die Möglichkeit, ihre Challenges an verschiedenen Orten in der Stadt anzugehen und sich von unterschiedlichen Umgebungen inspirieren zu lassen. So fand die Auftaktveranstaltung unter freiem Himmel im Kiezlabor statt, gefolgt von weiteren Stationen im GoodLab der Jungen Tüftler:innen, im CityLAB und in der Spore Initiative, wo viel Raum für neue Perspektiven geboten wurde. Welche kreativen Lösungen dabei entstanden sind und wie die Summer School im Freien aussah, erfahrt ihr in unserem Blogbeitrag.",
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
           },
         },
         img: {
-          src: "assets/images/19_Berlin Science Week.jpg",
-          alt: "Eine Rede auf der Berlin Science Week",
-          copyright: "© Falling Walls Foundation",
-          position: "bottom right",
+          src: "assets/images/summer school kiezlabor 2023.jpg",
+          alt: "CityLAB Summer School im Grünen",
+          copyright: "© CityLab",
         },
       },
       {
@@ -699,27 +712,171 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Blogbeitrag",
+              de: "Zur Anwendung",
               en: "Go to blog post",
               href: {
-                de: `https://citylab-berlin.org/de/blog/unser-besuch-in-der-partnerstadt-jakarta/`,
+                de: `https://www.giessdenkiez.de/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+            {
+              de: "Zur Anleitung",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf`,
                 en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
               },
             },
           ],
           title: {
-            de: "Smart Change Delegationsreise nach Jakarta",
+            de: "School’s out, Summer School’s in",
             en: "Smart Change delegation trip to Jakarta",
           },
           paragraph: {
-            de: "Jakarta und Berlin verbindet eine ganze Menge: Als eine von 17 Städten weltweit gehört die Hauptstadt Indonesiens seit 1994 zu Berlins Partnerstädten. Im Juni 2022 durfte das CityLAB Berlin eine Delegation aus Jakarta und Bangkok im Rahmen des EuropeAid-Projekts Smart Change begrüßen. Zwei Monate später stand der Gegenbesuch in Jakarta an. Die spannendsten Einblicke und Erkenntnisse unserer Reise haben wir für euch festgehalten.",
+            de: `Wer hätte vor drei Jahren gedacht, dass unser erstes Herzensprojekt Gieß den Kiez die Gieß-Community und Stadtbäume auch anderer Städte in Deutschland im Sturm erobern wird? Ob Leipzig, Magdeburg oder Münster – sie alle sind begeistert von Gieß den Kiez und haben die Open Source-Anwendung kurzerhand bei sich umgesetzt. Auch mit den Städten Los Angeles und Paris haben wir bereits intensive Gespräche geführt, da sie ebenfalls über eine Adaption von Gieß den Kiez nachdenken. Um andere Städte bei der Adaption des Projekts zu unterstützen, haben wir unser Wissen und Vorgehen in einer <a href="https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf" target="_blank">neuen Anleitung</a> zusammengetragen – mit herzlicher Einladung zum Nachmachen! Unzählige Zeilen Code, hunderte E-Mails, Präsentationen, regelmäßige Sprints und Austauschformate haben Gieß den Kiez zu dem gemacht, was es heute ist: eine interaktive Plattform, die sich dem Wohle der Stadtbäume und damit auch der grünen Lunge der Stadt verschrieben hat und allein in diesem Jahr über 7.000 Gießungen von rund 2.000 Bäumen verzeichnen konnte. Das alles wäre ohne euch nicht möglich gewesen! Wir sagen danke an jede:n einzelne:n Gießer:in unter Euch und sind gespannt, wohin die Reise noch gehen wird!`,
             en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
           },
         },
         img: {
-          src: "assets/images/20_Jakarta.jpg",
-          alt: "Skyline von Jakarta",
-          copyright: "© Sebastian Strobel",
+          src: "assets/images/Sommerfest_LeipzigMagdeburgBerlin.jpg",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.7",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Podcast",
+              en: "Go to blog post",
+              href: {
+                de: `https://radiocitylab.podigee.io/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "Radio CityLAB Berlin",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Falls Ihr beim Lesen bis hier gemerkt haben solltet, dass ihr doch eher der auditive Typ seid, dann haben wir an dieser Stelle eine erfreuliche Nachricht: es gibt fünf neue Folgen in unserem CityLAB-Podcast zu hören! Darin erfahrt ihr u.a. von Christina Lang, Gründerin und Geschäftsführerin von DigitalService, was die Digitalisierungseinheit des Bundes so macht, welche Anekdoten unsere dienstälteste Kollegin Victoria Boeck aus ihrem Arbeitsalltag teilt und wie die Gründungsgeschichte von CorrelAid mit Frie Preu verlief. Und weil es so schön war, gibt es gleich zwei Sonderfolgen mit den Highlights unseres Sommerfests zum Nachhören. Wir wünschen viel Spaß beim Lauschen, hoffen aber, dass Ihr den Jahresrückblick dennoch bis zum Ende lest!`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/radio citylab podcast.jpg",
+          alt: "Logo of the Podcast Radio CityLAB Berlin",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.8",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Podcast",
+              en: "Go to blog post",
+              href: {
+                de: `https://radiocitylab.podigee.io/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "freemove",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Falls Ihr beim Lesen bis hier gemerkt haben solltet, dass ihr doch eher der auditive Typ seid, dann haben wir an dieser Stelle eine erfreuliche Nachricht: es gibt fünf neue Folgen in unserem CityLAB-Podcast zu hören! Darin erfahrt ihr u.a. von Christina Lang, Gründerin und Geschäftsführerin von DigitalService, was die Digitalisierungseinheit des Bundes so macht, welche Anekdoten unsere dienstälteste Kollegin Victoria Boeck aus ihrem Arbeitsalltag teilt und wie die Gründungsgeschichte von CorrelAid mit Frie Preu verlief. Und weil es so schön war, gibt es gleich zwei Sonderfolgen mit den Highlights unseres Sommerfests zum Nachhören. Wir wünschen viel Spaß beim Lauschen, hoffen aber, dass Ihr den Jahresrückblick dennoch bis zum Ende lest!`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/freemove abschlusspräsentation_Theresa_Stadlerjpg.jpg",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.9",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: {
+                de: `https://www.technologiestiftung-berlin.de/profil/blog/privacy-mobility-2023-freemove`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+            {
+              de: "Zu freemove",
+              en: "Go to blog post",
+              href: {
+                de: `https://www.freemove.space/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "freemove",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Mobilitätsdaten, Anonymisierung und Privatsphäre – diese Themen lassen sich aus dem öffentlichen Diskurs zur nachhaltigen Mobilitätswende wohl kaum noch wegdenken und stehen auch im Mittelpunkt des transdisziplinären Forschungsprojekts freemove. Gefördert vom Bundesministerium für Bildung und Forschung (BMBF), forschen wir zusammen mit unseren universitären und praktischen Partner:innen seit drei Jahren zu Möglichkeiten der Anonymisierung für Bewegungsdaten. Beim freemove-Symposium „Privacy & Mobility 2023” verbrachten wir mit zahlreichen geladenen Gästen aus der Praxis einen wissensgeladenen und abwechslungsreichen Tag in der Technologiestiftung Berlin. Im Fokus der Veranstaltung stand das Ziel, die Erkenntnisse aus unserer Arbeit für Akteur:innen aufzubereiten, die in ihrem Arbeitsalltag mit ähnlichen Herausforderungen konfrontiert sind und sie zu diskutieren.`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/Sommerfest_LeipzigMagdeburgBerlin.jpg",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.10",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/de/blog/die-labissage-neue-exponate-fur-unsere-ausstellung/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+            {
+              de: "Zur Ausstellung",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/de/exhibition/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "LABissage",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Was wäre das CityLAB nur ohne seine Ausstellung? Hier kommt alles zusammen, was das CityLAB bewegt und auszeichnet: abgeschlossene Projekte und Prototypen, aktuelle Ideen und Dinge, die uns inspirieren und zum Denken anregen. Bei so vielen wechselnden Exponaten ist es nicht verwunderlich, dass sich unsere interaktive Ausstellung stets in einem neuen Licht präsentiert. Anlass genug, um das mit euch gemeinsam zu feiern – dachten wir uns und ließen die Korken gleich zweimal zum Jahresbeginn und -ende knallen!<br/>Am 23. Februar und 7. Dezember luden wir zur LABissage ein und präsentierten neben sieben neuen Exponaten u.a. auch die Ausstellung der Kunsthochschule Weißensee „Let’s get physical”, unseren neuen Audioguide, unser neu gestaltetes Foyer sowie eine kleine Rundumschau des Kiezlabors`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/LABissage 2023 Citylab.JPG",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
         },
       },
     ],

@@ -7,7 +7,6 @@ import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-Gem
 import { ReactComponent as StadtUndWirIcon } from "../../icons/Nav-Icon-StadtUndWir.svg";
 import { ReactComponent as ActivitiesIcon } from "../../icons/Nav-Icon-Activities.svg";
 import { ReactComponent as TeamIcon } from "../../icons/Nav-Icon-Team.svg";
-import { ReactComponent as EntwicklungIcon } from "../../icons/Nav-Icon-Entwicklung.svg";
 import { ReactComponent as ChronologieIcon } from "../../icons/Nav-Icon-Chronologie.svg";
 
 function Icon({ type }) {
@@ -20,7 +19,6 @@ function Icon({ type }) {
       {type === "stadtUndWir" && <StadtUndWirIcon />}
       {type === "activities" && <ActivitiesIcon />}
       {type === "team" && <TeamIcon />}
-      {type === "entwicklung" && <EntwicklungIcon />}
       {type === "chronologie" && <ChronologieIcon />}
     </div>
   );
