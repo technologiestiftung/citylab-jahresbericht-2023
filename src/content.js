@@ -1087,7 +1087,7 @@ const content = {
     ],
   },
   footer: {
-    copyright: "© 2022 Technologiestiftung Berlin",
+    copyright: "© 2023 Technologiestiftung Berlin",
     id: "footer",
     impressum: {
       de: "Impressum",
