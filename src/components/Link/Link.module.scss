@@ -7,9 +7,13 @@
     display: flex;
     width: fit-content;
     align-items: center;
-    margin: 33px 18px 0 0;
+    margin: 0;
     color: $corporate-blue;
     font-weight: inherit;
+  }
+
+  .link:first-of-type {
+    margin-top: 33px;
   }
 
   .iconWrapper {
