@@ -16,8 +16,12 @@ const content = {
       en: "Intro",
     },
     text: {
-      de: "Gerade mussten wir uns einmal kneifen: Ist tatsächlich schon wieder ein ganzes Jahr vergangen? Nun verfliegt die Zeit ja bekanntlich umso schneller, je mehr man zu tun hat, und über zu wenig spannende Projekte konnten wir uns auch 2023 ganz sicher nicht beklagen. Welch schöne Gelegenheit, einmal inne zu halten und gemeinsam in Erinnerungen zu schwelgen.<br/><br/>Kaum zu glauben, was so alles in 12 knappe Monate passt: Wir durften mit unserem brandneuen Kiezlabor die Straßen Berlins erobern, haben gleich eine ganze Reihe neuer digitaler Anwendungen entwickelt, Innovationsprozesse in der Berliner Verwaltung begleitet, einen Online-Wissensspeicher aufgebaut, ein rauschendes Sommerfest gefeiert, mit den schönen neuen Möglichkeiten der Künstlichen Intelligenz experimentiert, und und und…<br/><br/>Über all den einzelnen Projekten steht in diesem Jahr der Eindruck: Es tut sich richtig was in Berlin! Ob bei der Modernisierung der Verwaltung, in der engagierten Zivilgesellschaft, bei den GovTech-Startups oder unseren vielen exzellenten Forschungseinrichtungen – überall liegt digitale Aufbruchstimmung in der Luft. Nichts bringt diesen Spirit besser auf den Punkt als der Titel der übergreifenden Digitalisierungsstrategie des Landes: Gemeinsam Digital: Berlin. Mit dem Start der Umsetzungsphase sind wir mittendrin im Innovations-Getümmel, vernetzen Akteure und begleiten die zahlreichen Maßnahmenteams mit Methoden- und Prototyping-Kompetenz. <br/><br/>Wir danken an dieser Stelle unseren zahlreichen Partnerorganisationen, allen mutigen Verwaltungs-Vordenker:innen, Veränderungs-Aktivist:innen, kreativen Innovationstreiber:innen und interessierten Besucher:innen, die in diesem Jahr mit uns zusammengearbeitet haben – ihr macht Berlin für uns zur besten Stadt der Welt!<br/><br/>Jetzt aber genug gequasselt, viel Spaß mit unserem Jahresrückblick 2023!<br/><br/><strong>Das CityLAB in Zahlen</strong>",
+      de: "Gerade mussten wir uns einmal kneifen: Ist tatsächlich schon wieder ein ganzes Jahr vergangen? Nun verfliegt die Zeit ja bekanntlich umso schneller, je mehr man zu tun hat, und über zu wenig spannende Projekte konnten wir uns auch 2023 ganz sicher nicht beklagen. Welch schöne Gelegenheit, einmal inne zu halten und gemeinsam in Erinnerungen zu schwelgen.<br/><br/>Kaum zu glauben, was so alles in 12 knappe Monate passt: Wir durften mit unserem brandneuen Kiezlabor die Straßen Berlins erobern, haben gleich eine ganze Reihe neuer digitaler Anwendungen entwickelt, Innovationsprozesse in der Berliner Verwaltung begleitet, einen Online-Wissensspeicher aufgebaut, ein rauschendes Sommerfest gefeiert, mit den schönen neuen Möglichkeiten der Künstlichen Intelligenz experimentiert, und und und…<br/><br/>Über all den einzelnen Projekten steht in diesem Jahr der Eindruck: Es tut sich richtig was in Berlin! Ob bei der Modernisierung der Verwaltung, in der engagierten Zivilgesellschaft, bei den GovTech-Startups oder unseren vielen exzellenten Forschungseinrichtungen – überall liegt digitale Aufbruchstimmung in der Luft. Nichts bringt diesen Spirit besser auf den Punkt als der Titel der übergreifenden Digitalisierungsstrategie des Landes: Gemeinsam Digital: Berlin. Mit dem Start der Umsetzungsphase sind wir mittendrin im Innovations-Getümmel, vernetzen Akteure und begleiten die zahlreichen Maßnahmenteams mit Methoden- und Prototyping-Kompetenz. <br/><br/>Wir danken an dieser Stelle unseren zahlreichen Partnerorganisationen, allen mutigen Verwaltungs-Vordenker:innen, Veränderungs-Aktivist:innen, kreativen Innovationstreiber:innen und interessierten Besucher:innen, die in diesem Jahr mit uns zusammengearbeitet haben – ihr macht Berlin für uns zur besten Stadt der Welt!<br/><br/>Jetzt aber genug gequasselt, viel Spaß mit unserem Jahresrückblick 2023!",
       en: "Jingle bells is all very well – but all good things come to an end. After a well-deserved dose of festive cheer, we can’t wait to get off to a roaring start in the New Year. Welcome 2023, you wonderful blank page ... please don’t get up to as much nonsense as your predecessor! But before we finally turn our attention to the future, we invite you to pause one last time and review 2022 with us. Welcome to CityLAB’s action-packed annual retrospect!</br></br> It was a year full of adventures and highlights for our little innovation lab: we worked with the entire city to come up with a new Smart City Strategy for Berlin, we used open data prototypes to bring the city’s future potential to life, and we delved deeper than ever into the world of public administration – and all this finally live and in color once again. And after two years of Zoom tile memory, it was a huge highlight for us personally to be able to celebrate our big outdoor summer party at Tempelhof Airport with more than 600 of you guys. Our wonderful CityLAB community: it’s so great to know you’re there! And now, sit back and enjoy our review of the year 2022!",
+    },
+    numbers: {
+      de: "Das CityLAB in Zahlen",
+      en: "CityLAB in numbers",
     },
   },
   kiezlabor: {
@@ -328,7 +332,7 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/CityLab Berlin_Service Design_Formular_2023_Credit Sabine Zoltnere_web.jpg",
+          src: "assets/images/Bessere Luft durch Verkehrswende_maßnahmenwerkstatt citylab 2023.png",
           alt: "Screenshot des Data-Governance-Modells",
           copyright: "© CityLab",
           fit: "contain",
@@ -461,7 +465,7 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/10_xmas-Finder.png",
+          src: "assets/images/wissensspeicher citylab berlin.jpg",
           alt: "Comicartige Interprätation eines Ideenfindugsprozesses",
           copyright: "© CityLab",
         },
@@ -491,7 +495,7 @@ const content = {
           src: "assets/images/methodenbox citylab berlin.jpg",
           alt: "Die Methodenbox",
           copyright: "© CityLab",
-          fit: "contain",
+          position: "left",
         },
       },
       {
@@ -609,12 +613,44 @@ const content = {
         img: {
           src: "assets/images/collage KI Exponate Prototyping CityLAB.jpg",
           alt: "KI-Experimente auf dem Sommerfest",
+          copyright: "© CityLAB",
+        },
+      },
+      {
+        id: "4.3",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zur Anwendung",
+              en: "Go to event",
+              href: `https://branchenpuls.odis-berlin.de/`,
+            },
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to event",
+              href: `https://citylab-berlin.org/de/blog/berlin-business-ein-datensatz-drei-perspektiven/`,
+            },
+          ],
+          title: {
+            de: "Branchenpuls",
+            en: "Smart Country Convention (SCCON)",
+          },
+          paragraph: {
+            de: "Was passiert, wenn sich das Team der Open Data Informationsstelle (ODIS) mit unserem Prototyping-Team und der IHK Berlin an ein gemeinsames Thema setzen? Wir haben es für euch herausgefunden und können voller Stolz sagen: ein Ergebnis, das sich gleich drei Mal sehen lassen kann! In einem intensiven Sprint hat sich unser Prototyping-Team nämlich mit dem offenen Datensatz der IHK zur Berliner Gewerbelandschaft beschäftigt, während die ODIS zusammen mit der IHK Berlin den Datensatz weiter aufbereitet hat, um ihn visuell explorieren zu können. Entstanden ist die Anwendung BranchenPuls, sowie drei vertiefende Datenvisualisierungen, über die man sowohl aktuelle als auch vergangene Gewerbedaten erkunden kann. Neugierig geworden, welche Erkenntnisse Gewerbedaten so auf Lager haben? Seht selbst – Ihr werdet nicht enttäuscht sein!",
+            en: "In October, the Smart Country Convention opened its doors once again, bringing together people and ideas from administration, politics, science and the digital economy on the topic of e-government and the smart city. Together with the Senate Chancellery, CityLAB presented the latest developments from the Smart City Strategy for Berlin at the joint Berlin stand, offering a diverse program under the motto Gemeinsam Digital: Berlin together with other Berlin organizers.  The successful event was rounded off with a visit to the stand by Mayor Franziska Giffey and CDO Dr Ralf Kleindiek.",
+          },
+        },
+        img: {
+          src: "assets/images/TSB-MockUps-Laptop-branchenpuls.jpg",
+          alt: "Screenshot der Anwendung",
           copyright: "© CityLAB Berlin",
           fit: "contain",
         },
       },
       {
-        id: "4.3",
+        id: "4.4",
         theme: "light",
         align: "left",
         text: {
@@ -644,7 +680,7 @@ const content = {
         },
       },
       {
-        id: "4.4",
+        id: "4.5",
         theme: "light",
         align: "left",
         text: {
@@ -676,7 +712,7 @@ const content = {
         },
       },
       {
-        id: "4.5",
+        id: "4.6",
         theme: "light",
         align: "left",
         text: {
@@ -695,7 +731,7 @@ const content = {
             en: "Smart Change delegation trip to Jakarta",
           },
           paragraph: {
-            de: "Zum fünften Mal in Folge startete im September die CityLAB Summer School, die sich in diesem Jahr den Themen Stadtlärm sowie urbaner Landwirtschaft widmete. In Kooperation mit der Hochschule für Technik und Wirtschaft (HTW), der Technischen Universität Berlin (TU) sowie den Entwicklern des „Hydrotowers” tüftelten Studierende an konkreten Lösungen für städtische Herausforderungen und entwickelten im Rahmen der zehntägigen Summer School innovative Prototypen für eine gesündere Stadt.<br/>Die Studierenden erhielten in diesem Jahr die Möglichkeit, ihre Challenges an verschiedenen Orten in der Stadt anzugehen und sich von unterschiedlichen Umgebungen inspirieren zu lassen. So fand die Auftaktveranstaltung unter freiem Himmel im Kiezlabor statt, gefolgt von weiteren Stationen im GoodLab der Jungen Tüftler:innen, im CityLAB und in der Spore Initiative, wo viel Raum für neue Perspektiven geboten wurde. Welche kreativen Lösungen dabei entstanden sind und wie die Summer School im Freien aussah, erfahrt ihr in unserem Blogbeitrag.",
+            de: `Wer hätte vor drei Jahren gedacht, dass unser erstes Herzensprojekt Gieß den Kiez die Gieß-Community und Stadtbäume auch anderer Städte in Deutschland im Sturm erobern wird? Ob Leipzig, Magdeburg oder Münster – sie alle sind begeistert von Gieß den Kiez und haben die Open Source-Anwendung kurzerhand bei sich umgesetzt. Auch mit den Städten Los Angeles und Paris haben wir bereits intensive Gespräche geführt, da sie ebenfalls über eine Adaption von Gieß den Kiez nachdenken. Um andere Städte bei der Adaption des Projekts zu unterstützen, haben wir unser Wissen und Vorgehen in einer <a href="https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf" target="_blanc" neuen Anleitung zusammengetragen – mit herzlicher Einladung zum Nachmachen! Unzählige Zeilen Code, hunderte E-Mails, Präsentationen, regelmäßige Sprints und Austauschformate haben Gieß den Kiez zu dem gemacht, was es heute ist: eine interaktive Plattform, die sich dem Wohle der Stadtbäume und damit auch der grünen Lunge der Stadt verschrieben hat und allein in diesem Jahr über 7.000 Gießungen von rund 2.000 Bäumen verzeichnen konnte. Das alles wäre ohne euch nicht möglich gewesen! Wir sagen danke an jede:n einzelne:n Gießer:in unter Euch und sind gespannt, wohin die Reise noch gehen wird!`,
             en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
           },
         },
@@ -706,7 +742,7 @@ const content = {
         },
       },
       {
-        id: "4.6",
+        id: "4.7",
         theme: "light",
         align: "left",
         text: {
@@ -714,10 +750,7 @@ const content = {
             {
               de: "Zur Anwendung",
               en: "Go to blog post",
-              href: {
-                de: `https://www.giessdenkiez.de/`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
-              },
+              href: "https://www.giessdenkiez.de/",
             },
             {
               de: "Zur Anleitung",
@@ -729,7 +762,7 @@ const content = {
             },
           ],
           title: {
-            de: "School’s out, Summer School’s in",
+            de: "Gieß den Kiez",
             en: "Smart Change delegation trip to Jakarta",
           },
           paragraph: {
@@ -744,7 +777,7 @@ const content = {
         },
       },
       {
-        id: "4.7",
+        id: "4.8",
         theme: "light",
         align: "left",
         text: {
@@ -772,36 +805,6 @@ const content = {
           alt: "Logo of the Podcast Radio CityLAB Berlin",
           copyright: "© CityLab",
           fit: "contain",
-        },
-      },
-      {
-        id: "4.8",
-        theme: "light",
-        align: "left",
-        text: {
-          links: [
-            {
-              de: "Zum Podcast",
-              en: "Go to blog post",
-              href: {
-                de: `https://radiocitylab.podigee.io/`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
-              },
-            },
-          ],
-          title: {
-            de: "freemove",
-            en: "Smart Change delegation trip to Jakarta",
-          },
-          paragraph: {
-            de: `Falls Ihr beim Lesen bis hier gemerkt haben solltet, dass ihr doch eher der auditive Typ seid, dann haben wir an dieser Stelle eine erfreuliche Nachricht: es gibt fünf neue Folgen in unserem CityLAB-Podcast zu hören! Darin erfahrt ihr u.a. von Christina Lang, Gründerin und Geschäftsführerin von DigitalService, was die Digitalisierungseinheit des Bundes so macht, welche Anekdoten unsere dienstälteste Kollegin Victoria Boeck aus ihrem Arbeitsalltag teilt und wie die Gründungsgeschichte von CorrelAid mit Frie Preu verlief. Und weil es so schön war, gibt es gleich zwei Sonderfolgen mit den Highlights unseres Sommerfests zum Nachhören. Wir wünschen viel Spaß beim Lauschen, hoffen aber, dass Ihr den Jahresrückblick dennoch bis zum Ende lest!`,
-            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
-          },
-        },
-        img: {
-          src: "assets/images/freemove konferenz citylab berlin jahrersrückblick 2023.jpg",
-          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
-          copyright: "© CityLab",
         },
       },
       {
@@ -837,13 +840,13 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/Sommerfest_LeipzigMagdeburgBerlin.jpg",
-          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          src: "assets/images/freemove konferenz citylab berlin jahrersrückblick 2023.jpg",
+          alt: "Freemove Konferenz in der Technologiestiftung",
           copyright: "© CityLab",
         },
       },
       {
-        id: "4.10",
+        id: "4.11",
         theme: "light",
         align: "left",
         text: {
@@ -1142,7 +1145,7 @@ const content = {
         alt: "Senatskanzlei Berlin Logo",
         href: "https://www.berlin.de/rbmskzl/",
         src: {
-          de: "assets/logos/berlin-skzl-logo-de.jpg",
+          de: "assets/logos/berlin-skzl-logo-de.png",
           en: "assets/logos/berlin-skzl-logo-en.jpg",
         },
       },

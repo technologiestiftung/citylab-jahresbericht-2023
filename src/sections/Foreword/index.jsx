@@ -11,26 +11,29 @@ function Foreword({ content, lang }) {
         <Headline lang={lang} content={content.title} />
         <Paragraph lang={lang} content={content.text} />
       </div>
+      <div className={cx(cn.wrapper, cn.layoutWrapper)}>
+        <Headline lang={lang} content={content.numbers} />
+      </div>
       {lang === "de" && (
         <>
           <div className={cn.contentWrapper}>
             <img
-              src='assets/images/Zahl_Grafik_1.jpg'
-              alt='Schriftzug: 34 Mitarbeiter:innen'
+              src='assets/images/Veranstaltungen CityLAB 2023.png'
+              alt='Schriftzug: 170 Veranstaltungen'
             />
             <img
-              src='assets/images/Zahl_Grafik_2.jpg'
-              alt='Schriftzug: 110 Veranstaltungen'
+              src='assets/images/Gäste im CityLAB 2023.png'
+              alt='Schriftzug: 4.200 Gäste'
             />
           </div>
           <div className={cx(cn.contentWrapper, cn.mittelWrapper)}>
             <img
-              src='assets/images/Zahl_Grafik_3.jpg'
-              alt='Schriftzug: 2778 Gaeste im Citylab 2022'
+              src='assets/images/abgeschlossene_Projekte CityLAB 2023.png'
+              alt='Schriftzug: 20 abgeschlossene Projekte'
             />
             <img
-              src='assets/images/Zahl_Grafik_4.jpg'
-              alt='Schriftzug: 5660 Social Media Follower:innen'
+              src='assets/images/laufende Projekte CityLAB 2023.png'
+              alt='Schriftzug: 18 laufende Projekte'
             />
           </div>
         </>
