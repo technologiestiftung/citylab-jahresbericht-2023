@@ -8,9 +8,9 @@ import Paragraph from "../../components/Paragraph";
 import Headline from "../../components/Headline";
 import Icon from "../../components/Icon";
 
-import cx from "classnames";
-
 import cn from "./Verwaltung.module.scss";
+
+import cx from "classnames";
 
 const setActiveTopicSelector = s => s.setActiveTopic;
 

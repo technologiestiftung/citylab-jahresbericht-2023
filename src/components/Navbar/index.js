@@ -5,26 +5,32 @@ import LanguageSwitch from "../LanguageSwitch";
 
 import cn from "./Navbar.module.scss";
 
-import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
-import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
+import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
+import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
+import { ReactComponent as StadtUndWirIcon } from "../../icons/Nav-Icon-StadtUndWir.svg";
 import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
 
 const icons = {
-  smartCity: {
-    icon: <SmartCityIcon />,
+  kiezlabor: {
+    icon: <KiezlaborIcon />,
     width: 30,
     offset: 0,
+  },
+  gemeinsamDigital: {
+    icon: <GemeinsamDigitalIcon />,
+    width: 30,
+    offset: 50,
   },
   verwaltung: {
     icon: <VerwaltungIcon />,
     width: 30,
-    offset: 50,
-  },
-  prototyping: {
-    icon: <PrototypingIcon />,
-    width: 30,
     offset: 200,
+  },
+  stadtUndWir: {
+    icon: <StadtUndWirIcon />,
+    width: 30,
+    offset: 100,
   },
   unterwegs: {
     icon: <UnterwegsIcon />,
@@ -122,8 +128,9 @@ function Navbar({ items, lang }) {
             </div>
           </div>
         ))}
-        <div className={cn.divider} />
-        <LanguageSwitch />
+        {/* TODO - show when add language toggle */}
+        {/* <div className={cn.divider} /> */}
+        {/* <LanguageSwitch /> */}
       </div>
     </>
   );

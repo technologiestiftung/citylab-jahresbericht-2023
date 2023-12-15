@@ -31,7 +31,7 @@ function Unterwegs({ content, ui, lang }) {
         id={`section-${content.id}`}
       >
         <div className='anchor' ref={elementRef} id={`anchor-${content.id}`} />
-        <Icon type='unterwegs' />
+        <Icon type='stadtUndWir' />
         <Headline lang={lang} content={content.blocks.intro.title} />
         <Paragraph lang={lang} content={content.blocks.intro.text} />
       </div>

@@ -1,39 +1,39 @@
 const content = {
   header: {
     headline: {
-      de: "CityLAB Jahresrückblick 2022",
-      en: "CityLAB annual review 2022",
+      de: "CityLAB Jahresrückblick 2023",
+      en: "CityLAB annual review 2023",
     },
     img: {
-      src: "assets/images/1_CityLAB Team.jpg",
+      src: "assets/images/Header_Jahresrückblick_WEB_CityLab_credit Sabine Zoltnere.jpg",
       alt: "Das Team des CityLab Berlin beim diesjährigen Sommerfest.",
-      copyright: "© Photo by Stefan Wieland / CityLAB",
+      copyright: "© Photo by Sabine Zoltnere",
     },
   },
   foreword: {
     title: {
-      de: "Liebe CityLAB Community,",
-      en: "Dear CityLAB Community,",
+      de: "Intro",
+      en: "Intro",
     },
     text: {
-      de: "Süßer die Glocken nie klangen – aber irgendwann ist auch mal gut. Nach der verdienten Dosis Besinnlichkeit können wir es kaum erwarten, mit Getöse ins neue Jahr zu starten. Wir grüßen Dich, 2023, Du wunderschönes, unbeschriebenes Blatt! Mach bitte weniger Blödsinn als dein Vorgänger. Bevor wir uns endgültig der Zukunft widmen, laden wir euch aber ein, ein letztes Mal inne zu halten und mit uns gemeinsam das Jahr 2022 Revue passieren zu lassen. Willkommen beim rappelvollen CityLAB-Jahresrückblick!</br></br> Für unser kleines Innovationslabor war es ein Jahr voller Abenteuer und Höhepunkte: Wir haben gemeinsam mit der ganzen Stadt an einer neuen Smart City-Strategie für Berlin gefeilt, mit Open Data-Prototypen die Zukunft der Stadt erlebbar werden lassen und sind tiefer denn je in die Welt der öffentlichen Verwaltung eingetaucht. Und das alles endlich wieder live und in Farbe. Nach zwei Jahren Zoom-Kachel-Memory war es unser ganz persönliches Highlight, mit mehr als 650 von euch ein großes Outdoor-Sommerfest auf dem Tempelhofer Flugfeld zu feiern. Schön, dass es euch gibt, liebe CityLAB-Community! Und nun viel Spaß mit unserem Jahresrückblick 2022.<br/><br/><strong>Das CityLAB in Zahlen</strong><br/>Bevor wir tiefer in die Inhalte eintauchen, möchten wir hier noch ein paar Zahlen mit euch teilen, die uns dieses Jahr besonders stolz gemacht haben.",
+      de: "Gerade mussten wir uns einmal kneifen: Ist tatsächlich schon wieder ein ganzes Jahr vergangen? Nun verfliegt die Zeit ja bekanntlich umso schneller, je mehr man zu tun hat, und über zu wenig spannende Projekte konnten wir uns auch 2023 ganz sicher nicht beklagen. Welch schöne Gelegenheit, einmal inne zu halten und gemeinsam in Erinnerungen zu schwelgen.<br/><br/>Kaum zu glauben, was so alles in 12 knappe Monate passt: Wir durften mit unserem brandneuen Kiezlabor die Straßen Berlins erobern, haben gleich eine ganze Reihe neuer digitaler Anwendungen entwickelt, Innovationsprozesse in der Berliner Verwaltung begleitet, einen Online-Wissensspeicher aufgebaut, ein rauschendes Sommerfest gefeiert, mit den schönen neuen Möglichkeiten der Künstlichen Intelligenz experimentiert, und und und…<br/><br/>Über all den einzelnen Projekten steht in diesem Jahr der Eindruck: Es tut sich richtig was in Berlin! Ob bei der Modernisierung der Verwaltung, in der engagierten Zivilgesellschaft, bei den GovTech-Startups oder unseren vielen exzellenten Forschungseinrichtungen – überall liegt digitale Aufbruchstimmung in der Luft. Nichts bringt diesen Spirit besser auf den Punkt als der Titel der übergreifenden Digitalisierungsstrategie des Landes: Gemeinsam Digital: Berlin. Mit dem Start der Umsetzungsphase sind wir mittendrin im Innovations-Getümmel, vernetzen Akteure und begleiten die zahlreichen Maßnahmenteams mit Methoden- und Prototyping-Kompetenz. <br/><br/>Wir danken an dieser Stelle unseren zahlreichen Partnerorganisationen, allen mutigen Verwaltungs-Vordenker:innen, Veränderungs-Aktivist:innen, kreativen Innovationstreiber:innen und interessierten Besucher:innen, die in diesem Jahr mit uns zusammengearbeitet haben – ihr macht Berlin für uns zur besten Stadt der Welt!<br/><br/>Jetzt aber genug gequasselt, viel Spaß mit unserem Jahresrückblick 2023!<br/><br/><strong>Das CityLAB in Zahlen</strong>",
       en: "Jingle bells is all very well – but all good things come to an end. After a well-deserved dose of festive cheer, we can’t wait to get off to a roaring start in the New Year. Welcome 2023, you wonderful blank page ... please don’t get up to as much nonsense as your predecessor! But before we finally turn our attention to the future, we invite you to pause one last time and review 2022 with us. Welcome to CityLAB’s action-packed annual retrospect!</br></br> It was a year full of adventures and highlights for our little innovation lab: we worked with the entire city to come up with a new Smart City Strategy for Berlin, we used open data prototypes to bring the city’s future potential to life, and we delved deeper than ever into the world of public administration – and all this finally live and in color once again. And after two years of Zoom tile memory, it was a huge highlight for us personally to be able to celebrate our big outdoor summer party at Tempelhof Airport with more than 600 of you guys. Our wonderful CityLAB community: it’s so great to know you’re there! And now, sit back and enjoy our review of the year 2022!",
     },
   },
-  smartCity: {
+  kiezlabor: {
     id: "1.0",
     topic: {
-      de: "Smart City-Strategieprozess",
-      en: "Smart City Strategy process",
+      de: "Kiezlabor",
+      en: "Kiezlabor",
     },
     blocks: {
       intro: {
         title: {
-          de: "Smart City-Strategieprozess",
-          en: "Smart City Strategy process",
+          de: "Kiezlabor",
+          en: "Kiezlabor",
         },
         text: {
-          de: "Die Strategie Gemeinsam Digital: Berlin ist eine Fusion aus der Berliner Digitalstrategie und der Smart City-Strategie. Damit ist sie das Umbauprogramm hin zu einem smarten Berlin. Das zentrale Ziel: Die Transformation Berlins nachhaltig, gemeinwohlorientiert, kooperativ und resilient zu gestalten. Da darf natürlich auch das CityLAB nicht fehlen!",
+          de: "Das Jahr 2023 stand im CityLAB-Kalender ganz im Zeichen eines besonderen Ereignisses, das wohl einen eigenen Jahresrückblick verdient hätte: der Eröffnung unseres Kiezlabors! Das Kiezlabor ist ein Projekt, das vom CityLAB im Rahmen der Strategie Gemeinsam Digital: Berlin umgesetzt wird. Unter dem Motto „Ohne Dich sind wir nur ein Container“ zauberten wir aus einem alten Schiffscontainer ein energieautarkes Tiny House. Der Plan? Unseren prototypischen Ansatz zusammen mit Euch in die Berliner Kieze bringen!",
           en: `The strategy Gemeinsam Digital: Berlin is a fusion of the Berlin Digital Strategy and the Smart City Strategy. As such, it is the transformation program toward a smart Berlin. The central goal: to shape Berlin's transformation in a sustainable, community-oriented, cooperative and resilient way. Of course, the CityLAB is not to be missed!`,
         },
       },
@@ -46,45 +46,199 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Strategie",
+              de: "Zum Blogbeitrag",
               en: "Go to strategy",
               href: {
-                de: "https://gemeinsamdigital.berlin.de/de/",
-                en: "https://gemeinsamdigital.berlin.de/en/",
+                de: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
               },
             },
           ],
           title: {
-            de: "Strategie Gemeinsam Digital: Berlin",
+            de: "Kiezlabor meets re:publica",
             en: "The Gemeinsam Digital: Berlin strategy",
           },
           paragraph: {
-            de: `Mit der Verabschiedung der Strategie Gemeinsam Digital: Berlin hat das CityLAB in Zusammenarbeit mit der Senatskanzlei Berlin und vielen Akteur:innen der Stadtgesellschaft einen weiteren Meilenstein in der Umsetzung des Modellprojekts Smart City Berlin erreicht. Dabei blicken wir zurück auf einen fast zweijährigen Strategieprozess, bei dem wir im Austausch mit zentralen Akteur:innen und vor allem über 2.000 Berliner:innen Ideen gewälzt, Werte formuliert und vor allem viel Neues dazugelernt haben. Mit dem Abschluss des Strategieprozesses beginnt zugleich auch die Umsetzung von fünf Pilotprojekten und weiteren ersten Maßnahmen, bei denen das CityLAB und die Technologiestiftung tragende Rollen spielen werden.`,
+            de: `Unsere Kieztour durch Berlin startete vom 05.06. bis 15.06. mit der Vorstellung des Kiezlabors als Beta-Version auf der re:publica 2023, bereit für den ersten Test in freier Wildbahn. In Anlehnung an das diesjährige Motto der re:publica „CASH” stellte unser Kiezlabor-Team die Frage „Was kostet die Stadt?“ und machte sich auf die Suche nach Antworten – zusammen mit vielen spannenden Gästen, die den Kick-off des Kiezlabors mit uns gemeinsam zelebrierten.`,
             en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
           },
         },
         img: {
-          src: "assets/images/2_Strategie Gemeinsam Digital.webp",
-          alt: "Hauptvisual der Strategie Gemeinsam Digital: Berlin",
-          copyright: "© Larissa Hoff, aufsiemitgebrüll",
+          src: "assets/images/Kiezlabor-republica.jpg",
+          alt: "Das Kiezlabor mit Gästen",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "1.2",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Kiezlabor-Eröffnung",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Richtig feierlich wurde es auf dem CityLAB-Sommerfest, wo das Kiezlabor im Namen der digitalen Transformation zu seiner offiziellen Eröffnung rollte. Gemeinsam mit der Berliner Stadtgesellschaft, Verwaltung, Wissenschaft und Wirtschaft feierten wir am 29. Juni nicht nur vier Jahre CityLAB, sondern gleichzeitig auch den Startschuss unserer mobilen Lab-Version auf dem Gelände eines ehemaligen Güterbahnhofs in Prenzlauer Berg.`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor_Sommerfest_Credit_FlorianReimann.jpg",
+          alt: "Das Kiezlabor mit Gästen",
+          copyright: "© Florian Reimann",
+        },
+      },
+      {
+        id: "1.3",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/klima-in-der-stadt-kiezlabor-tempelhofer-feld/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Klima in der Stadt und auf dem Tempelhofer Feld",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Ein Besuch im Heimatbezirk des CityLAB Tempelhof-Schöneberg durfte auf der Liste der Kiezlabor-Standorte natürlich nicht fehlen: Auf der über 300 Hektar großen Fläche mitten in der Stadt zählt das Tempelhofer Feld schließlich nicht nur zu einem der beliebtesten Naherholungsgebiete in ganz Berlin, sondern bietet auch viel Platz für Austausch, Partizipation und Unterhaltung unter freiem Himmel. Vom 17.08. bis 27.08. lud das Kiezlabor zu einem vielfältigen Programm rund um die Herausforderungen des Klimawandels für den urbanen Raum ein – mit Erfrischung für Mensch und Natur inklusive!`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/kiezlabor jahresrückblick tempelhofer feld.jpg",
+          alt: "Das Kiezlabor mit Gästen",
+          copyright: "© CityLab",
+          fit: "contain",
+        },
+      },
+      {
+        id: "1.4",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/platz-in-der-stadt-unser-kiezlabor-im-graefekiez/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Platz für den Graefekiez",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Im September ging es weiter in den benachbarten Graefekiez, wo kreative Workshops, eine interaktive Ausstellung sowie ein vielseitiger Austausch zum Thema „Platz in der Stadt“ mit Kiezbewohner:innen und Passant:innen stattfanden. Neben vielen großen und kleinen Besucher:innen sowie der Berliner Chief Digital Officer Martina Klement empfing das Kiezlabor u.a. auch das Ausbildungsbürgeramt Friedrichshain-Kreuzberg als Gast, das seine Dienstleistungen gleich an vier Tagen im Kiezlabor anbot und damit so manche Kiezbewohner:innen mit kurzfristigen Terminen vor der Haustür beglückte.`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor Graefekiez.jpg",
+          alt: "Das Kiezlabor im Gräfekiez",
+          copyright: "© CityLab",
+          fit: "contain",
+        },
+      },
+      {
+        id: "1.5",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/macht-platz-hier-kommt-das-kiezlabor/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Stadtgestaltung auf dem Alice-Salomon-Platz",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Das große Finale der Kiezlabor-Tour 2023 fand im Oktober bei bereits herbstlichen Temperaturen auf dem Alice-Salomon-Platz in Marzahn-Hellersdorf statt. Unter dem Motto „Gemeinsam Stadt gestalten“ lud das Kiezlabor zusammen mit dem Campus Transferale (CaT) seine Besucher:innen vor Ort ein, mithilfe von Künstlicher Intelligenz und den modularen Stadtmöbeln im Kiezlabor neue Ideen und Visionen für den Platz zu entwickeln. Welche Zutaten es außerdem braucht, um gegen das Thema Lebensmittelverschwendung in Großstädten wie Berlin anzukämpfen, haben wir zusammen mit dem Bürgergarten Helle Oase beim Kochen vor Ort im Kiezlabor herausgefunden und können sagen: es hat allen geschmeckt!`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor Hellersdorf.jpg",
+          alt: "Das Kiezlabor am Alice-Salomon-Platz",
+          copyright: "© Edgard Berendsen",
+          fit: "contain",
+        },
+      },
+      {
+        id: "1.6",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Kiezlabor",
+              en: "Go to strategy",
+              href: {
+                de: "https://citylab-berlin.org/de/projects/kiezlabor/",
+                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              },
+            },
+          ],
+          title: {
+            de: "Ausblick: Kiezlabor 2024",
+            en: "The Gemeinsam Digital: Berlin strategy",
+          },
+          paragraph: {
+            de: `Gemeinsam mit der Kieznachbarschaft sowie Akteur:innen aus Zivilgesellschaft, Wissenschaft und Verwaltung  wollen wir das Kiezlabor auch im kommenden Jahr als einen offenen Ort gestalten, der als Zukunftswerkstatt, Workshop, Bühne, interaktive Ausstellung, Netzwerktreffen oder einfach zum gemütlichen Verweilen dient. Bleibt also gespannt, welche Orte das Kiezlabor im neuen Jahr ansteuern wird – mit etwas Glück vielleicht ja auch in Eurem Kiez!`,
+            en: `With the adoption of the strategy Gemeinsam Digital: Berlin, CityLAB has reached another milestone in the implementation of the Smart City Berlin model project in collaboration with the Berlin Senate Chancellery and numerous urban community stakeholders. We’re now able to look back on a strategy process that lasted nearly two years, during which we shared ideas with key players and most importantly with more than 2,000 Berlin residents, formulating values and in particular learning a lot that was new to us along the way. The conclusion of the strategy process also marks the start of five pilot projects and other initial measures in which CityLAB and Technologiestiftung will have a key role to play.`,
+          },
+        },
+        img: {
+          src: "assets/images/Kiezlabor_Sommerfes4_Credit_FlorianReimann.jpg",
+          alt: "Fassade des Kiezlabors",
+          copyright: "© Florian Reimann",
+          fit: "contain",
         },
       },
     ],
   },
-  verwaltung: {
+  gemeinsamDigital: {
     id: "2.0",
     topic: {
-      de: "CityLAB im Austausch mit Verwaltungen",
+      de: "Gemeinsam Digital: Berlin",
       en: "CityLAB in dialogue with the administrations",
     },
     blocks: {
       intro: {
         title: {
-          de: "Auf Augenhöhe mit der Verwaltung",
+          de: "Gemeinsam Digital: Berlin",
           en: "On an equal footing with the administration",
         },
         text: {
-          de: "Wir stoßen Innovationsprozesse für und mit der Berliner Verwaltung an – und das immer auf Augenhöhe. Dafür nutzen wir all unsere Sinne: Wir hören zu, beraten zu digitalen Vorhaben und sind viel unterwegs, oft direkt vor Ort und stets im persönlichen Austausch mit den Mitarbeitenden.",
+          de: "Die Strategie Gemeinsam Digital: Berlin (kurz: GD:B) wurde im September 2022 vom Berliner Senat verabschiedet und ist unser gemeinsames Umbauprogramm hin zu einem smarten Berlin. Das Ziel: Die digitale Transformation Berlins nachhaltig, gemeinwohlorientiert, kooperativ und resilient gestalten, gemeinsam lernen und Neues ausprobieren. Da darf natürlich auch das CityLAB nicht fehlen!",
           en: "We initiate innovation processes for and with the Berlin administration – always on an equal footing. In doing so, we activate all our senses: we listen, advise on digital projects and get out and about a lot, often working directly on site and always in direct dialog with employees.",
         },
       },
@@ -100,27 +254,25 @@ const content = {
               de: "Zum Blogbeitrag",
               en: "Go to blog post",
               href: {
-                de: "https://citylab-berlin.org/de/blog/das-burgeramt-der-zukunft-teil-1/",
+                de: "https://citylab-berlin.org/de/blog/jahreskonferenz-gemeinsam-digital-berlin-2023/",
                 en: "https://citylab-berlin.org/en/blog/the-citizen-center-of-the-future-part-1/",
               },
             },
           ],
           title: {
-            de: "Bürgeramt der Zukunft",
+            de: "Jahreskonferenz Gemeinsam Digital: Berlin",
             en: "The Citizen Center of the Future",
           },
           paragraph: {
-            de: "Wie könnten Berliner Bürger:innen schneller Termine in Bürgerämtern bekommen? Wie sieht ein Arbeitsplatz in einem Bürgeramt der Zukunft aus? Welche Arbeitsabläufe im Ausbildungsbürgeramt können optimiert werden und dazu beitragen, dass das 14-Tage-Ziel, also die Möglichkeit, innerhalb von 14 Tagen einen Termin beim Bürgeramt zu ergattern, in Berlin besser erreicht werden kann? In unserem Projekt Bürgeramt der Zukunft haben wir uns diesen Fragen in verschiedenen Phasen angenommen. Dafür haben wir Verwaltungsmitarbeitenden direkt über die Schulter geguckt und sie im Rahmen einer Tagebuch-Studie und eines Shadowing im Behördenalltag begleitet. Die gemeinsam gesammelten Erkenntnisse werden nun in die Praxis umgesetzt: Im Ausbildungsbürgeramt Friedrichshain-Kreuzberg haben wir einen Prototypen vor Ort getestet, um eine flexiblere Termingestaltung zu ermöglichen. So viel können wir schon mal verraten: Die Ergebnisse sind sehr vielversprechend. Mehr zu den ersten Phasen und zu den nächsten Schritten erfahrt ihr hier.",
+            de: "Wie stellt man sicher, dass eine Strategie zur Transformation der Stadt Berlin auch ein oder mehrere Jahre nach Beschluss noch aktuell ist? Unsere Antwort: mit einer lernenden Strategie wie Gemeinsam Digital: Berlin (GD:B). Durch den regelmäßigen Erfahrungsaustausch aus der Strategieumsetzung entsteht ein kollektiver Lernprozess, der sicherstellt, dass auf aktuelle Entwicklungen reagiert werden kann und die Strategie so auch zukünftig noch Bestand hat. Die GD:B-Jahreskonferenz am 29.09. im Roten Rathaus bildete einen wichtigen Auftakt und brachte als Mitmach-Konferenz über 130 Menschen aus Verwaltung, Wissenschaft, Wirtschaft und Zivilgesellschaft zusammen. Die Ergebnisse der Jahreskonferenz werden derzeit ausgewertet und fließen anschließend in die schrittweise Überarbeitung der Strategie ein, um eine kontinuierliche Weiterentwicklung und die Anbindung an die Stadtgesellschaft sicherzustellen.",
             en: `How might it be possible for Berlin residents to get appointments at citizen centers more quickly? What would a workplace at a citizen center of the future look like? Which workflows at the citizen center vocational training department might be optimized so as to get closer to achieving the 14-day target – i.e. enabling people to get an appointment at a Berlin citizen center within 14 days? In our project Bürgeramt der Zukunft, we addressed these questions in various phases. To do this, we looked directly over the shoulders of administrative employees and accompanied them in their everyday work at the authorities as part of a diary study and shadowing. The findings we gathered together are now being put into practice: We tested a prototype on site at the Friedrichshain-Kreuzberg training citizens' office to enable more flexible scheduling. This much we can already reveal: The results are very promising. Read more about the first phases and the next steps here.`,
           },
         },
         img: {
-          src: "assets/images/3_Bürgeramt der Zukunft.jpg",
-          alt: "Laptop, der den Prototypen des Bürgeramts der Zukunft vom CityLAB Berlin zeigt",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/20230929_GemeinsamDigitalBerlin Jahreskonferenz_Credit_Constanze Flamme_185.jpg",
+          alt: "Gruppenfoto der Jahreskonferenz",
+          copyright: "© Constanze Flamme",
           fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
         },
       },
       {
@@ -130,25 +282,25 @@ const content = {
         text: {
           links: [
             {
-              de: "Mehr Infos",
+              de: "Zum Blogbeitrag",
               en: "Further details",
               href: {
-                de: "https://citylab-berlin.org/de/blog/ein-blick-in-berlins-geldbeutel/",
+                de: "https://citylab-berlin.org/de/blog/so-unterstuetzen-wir-die-massnahmen-teams-bei-der-umsetzung-der-strategie-gemeinsam-digital-berlin/",
                 en: "https://citylab-berlin.org/en/blog/a-look-into-berlins-coffers/",
               },
             },
           ],
           title: {
-            de: "Visualisierung des Berliner Landeshaushalts",
+            de: "Support für Maßnahmenbegleitung",
             en: "Visualization of the Berlin state budget",
           },
           paragraph: {
-            de: "Pro Jahr stehen der Berliner Politik und Verwaltung über 35 Milliarden Euro zur Umsetzung ihrer Ziele zur Verfügung. Doch wie viel Geld fließt konkret wohin? Zusammen mit dem Team der  Open Data Informationsstelle (ODIS) und der Senatsverwaltung für Finanzen hat das CityLAB in einem einwöchigen Sprint die offenen Haushaltsdaten für Berlin visualisiert und interaktiv aufbereitet. Das Ergebnis ist eine Website, die es Nutzer:innen erlaubt, Einnahmen und Ausgaben der Senatsverwaltungen und Bezirke sowie Funktionen und Themenbereiche anhand von interaktiven Diagrammen sowie einer Textsuche zu erkunden und zu vergleichen. Konzipiert ist die Open-Source-Anwendung als ein niedrigschwelliges Angebot, das sich an die breite Öffentlichkeit richtet. Die hinterlegten Daten und der Quellcode der Website sind frei verfügbar.",
+            de: "Seit Beginn der Umsetzungsphase ist das CityLAB fester Bestandteil des GD:B Support-Teams, das Maßnahmen während der Umsetzung begleitet und methodisch unterstützt. Für die unterschiedlichen Maßnahmen-Teams, die sich mit komplexen Fragen der Stadtentwicklung beschäftigen, bieten wir zu den jeweiligen Umsetzungsphasen Methodentraining sowie Ressourcen in Service Design und Prototpying an. In diesem Jahr wurden auf diese Weise fünf Maßnahmen begleitet, darunter die Pilotmaßnahme SMART SPACE Hardenbergplatz und das Projekt DigitalZebra der Öffentlichen Bibliotheken Berlins zur digitalen Inklusion und Teilhabe. Wir danken allen Beteiligten für die gute Zusammenarbeit und wünschen weiterhin viel Erfolg bei der Umsetzung!",
             en: "Every year, Berlin’s policymakers and administrators have more than 35 billion euros at their disposal to pursue their goals. But how much money is actually spent, and on what? Together with the team of the Open Data Information Service (ODIS) and the Senate Department of Finance, CityLAB ran a one-week sprint to visualize the open budget data for Berlin for interactive viewing. The result is a website that allows users to explore and compare revenues, expenditures, functions, and issues relevant to the Senate and district governments based on interactive charts and a text search function. This open-source application is designed as a low-threshold service aimed at the general public. The website data and source code are freely available.",
           },
         },
         img: {
-          src: "assets/images/4_Haushaltsdatentool.png",
+          src: "assets/images/GDB Workshop support Team.jpg",
           alt: "Visualisierung des Berliner Landeshaushalts vom CityLAB Berlin",
           copyright: "© CityLAB Berlin",
           fit: "contain",
@@ -161,107 +313,43 @@ const content = {
         text: {
           links: [
             {
-              de: "Zu den Videos",
+              de: "Zum Dashboard",
               en: "Go to videos",
-              href: "https://www.youtube.com/playlist?list=PLRIKlbncTSl8xCXudSjAO77vHpwE9HdDX",
-            },
-            {
-              de: "Zu den Fotos",
-              en: "Go to fotos",
-              href: "https://www.flickr.com/photos/182217318@N05/albums/72177720300348470",
+              href: "https://dashboard.hiig.de/",
             },
           ],
           title: {
-            de: "Sommerfest",
+            de: "Maßnahmenwerkstatt: Bessere Luft durch Verkehrswende? ",
             en: "Summer party",
           },
           paragraph: {
-            de: "Zum dritten Geburtstag feierte das CityLAB der Technologiestiftung Berlin sein großes Sommerfest im ehemaligen Flughafen Tempelhof. Zusammen mit rund 650 Gästen blicken wir zurück auf einen Tag voller Highlights – vom Besuch unserer Regierenden Bürgermeisterin Franziska Giffey und unseres Chief Digital Officer Dr. Ralf Kleindiek bis hin zu musikalischen Performances von Mouse on Mars, DJ Femalemacho und Byrke Lou. Durch interaktive und unterhaltsame Lern- und Diskussionsformate bot das Sommerfest Akteur:innen aus den Bereichen partizipative Stadtentwicklung, Verwaltungsinnovation, Digitalisierung und Smart City ein Forum zum Zuhören, Lernen, Präsentieren und Diskutieren und trug dazu bei, den Diskurs rund um die partizipative Stadtentwicklung zu stärken.",
+            de: "Als eine von zahlreichen GD:B-Pilotmaßnahmen beschäftigt sich das Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) zusammen mit dem Kompetenzzentrum Wasser Berlin (KWB) mit der Entwicklung eines Data-Governance-Modells. Die Untersuchungsfrage: Wie können öffentliche Verwaltungen, Wirtschaftsakteur:innen und die Zivilgesellschaft beim Thema Datennutzung und -verarbeitung gemeinwohlorientiert und auf Augenhöhe zusammenarbeiten? Hierzu wurden  interessierte Bürger:innen zu einer Maßnahmenwerkstatt ins CityLAB eingeladen, um am praktischen Beispiel von Maßnahmen zur Verbesserung der Stadtluft gemeinsam Ideen für eine ideale Bürger:innen-Beteiligung in Zukunft zu entwickeln. Die Teilnehmenden tauchten dabei in eine immersive Simulation eines Beteiligungsprozesses ein, die sie noch lange danach ins Schwärmen brachte!",
             en: "The CityLAB run by Technologiestiftung Berlin put on a big summer party at the former Tempelhof Airport this year to mark its third anniversary. Together with around 650 guests, we enjoyed a day full of highlights, such as a visit by mayor Franziska Giffey and our Chief Digital Officer Dr Ralf Kleindiek – not to mention musical performances by Mouse on Mars, DJ Femalemacho and Byrke Lou. With a range of interactive and entertaining learning and discussion formats, the summer festival offered actors from the fields of participatory urban development, administrative innovation, digitization and smart city a forum for listening, learning, presenting and discussing, thereby contributing to strengthening the discourse around participatory urban development.",
           },
         },
         img: {
-          src: "assets/images/5_Sommerfest CityLAB 2022.jpg",
-          alt: "Sommerfest 2022 des CityLAB Berlin",
-          copyright: "© Stefan Wieland",
-        },
-      },
-      {
-        id: "2.4",
-        theme: "light",
-        align: "right",
-        text: {
-          links: [
-            {
-              de: "Mehr Infos",
-              en: "Further details",
-              href: {
-                de: "https://citylab-berlin.org/de/projects/citylab-roadshow/",
-                en: "https://citylab-berlin.org/en/projects/citylab-roadshow/",
-              },
-            },
-          ],
-          title: {
-            de: "CityLAB Roadshow",
-            en: "CityLAB Roadshow",
-          },
-          paragraph: {
-            de: "Im Rahmen unserer neuen Veranstaltungsreihe Roadshow besuchte das CityLAB  verschiedene Verwaltungen, um ein tieferes Verständnis für die Herausforderungen der Digitalisierung im Alltag der Verwaltung zu erlangen und mögliche Anknüpfungspunkte für gemeinsame Projekte zu identifizieren. Den Auftakt für die Hausbesuche machten die Senatsverwaltung für Inneres, Digitalisierung und Sport sowie das Bezirksamt Pankow, viele weitere folgten. Nach einer Vorstellung unseres Labs sowie aktueller und realisierter Projekte wurde die Zeit vor Ort für ein individuelles Coaching, Diskussionen und Einblicke in agile Arbeitsweisen genutzt.",
-            en: "With our new Roadshow event series, CityLAB visited various administrations to gain a more in-depth understanding of the challenges involved in the digitalization of everyday administration and identify potential points of departure for joint projects. The series kicked off with visits to the Senate Department for the Interior, Digitalization and Sport and also Pankow District Office, followed by numerous others. After presenting our Lab along with current and past projects, the visits were taken up with individual coaching, discussion and provision of insights into agile ways of working.",
-          },
-        },
-        img: {
-          src: "assets/images/6_Roadshow.jpg",
-          alt: "Eine Berliner Behörde, vor der das Banner der CityLAB Roadshow steht",
-          copyright: "© CityLAB Berlin",
-        },
-      },
-      {
-        id: "2.5",
-        theme: "light",
-        align: "right",
-        text: {
-          links: [
-            {
-              de: "Zur Website",
-              en: "Go to website",
-              href: "https://service-agentinnen.citylab-berlin.org/",
-            },
-          ],
-          title: {
-            de: "Service-Agent:innen Website-Launch",
-            en: "Service-Agent:innen website launch",
-          },
-          paragraph: {
-            de: `Mit dem Launch der neuen Website Service-Agent:innen wurde für Mitarbeiter:innen der Verwaltung ein neues Informationsangebot geschaffen, das insgesamt acht Module zum Thema agile Behördenarbeit enthält. Im Zentrum steht die bürgerzentrierte Entwicklung von Verwaltungsleistungen. Verschiedene Methoden aus unserem Service Design-Werkzeugkasten werden hier anschaulich erklärt und laden zum Selbstlernen ein. Auch für Nicht-Verwaltungsangestellte lesenswert!`,
-            en: "With the launch of the new website ServiceAgent:innen (“Service Agents”), a new information service was created for administration employees containing a total of eight modules on the topic of agile public authority work. The focus here is on the citizen-centered development of administrative services. The website offers a clear explanation of various methods from our service design toolbox and encourages users to engage in independent learning. Definitely a worthwhile source of reference for non-administrators, too!",
-          },
-        },
-        img: {
-          src: "assets/images/7_service agentinnen.png",
-          alt: "Grafik der Service Agent:innen Schulung des CityLAB Berlin für Mitarbeitende der Berliner Verwaltung",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/CityLab Berlin_Service Design_Formular_2023_Credit Sabine Zoltnere_web.jpg",
+          alt: "Screenshot des Data-Governance-Modells",
+          copyright: "© CityLab",
           fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
         },
       },
     ],
   },
-  prototyping: {
+  verwaltung: {
     id: "3.0",
     topic: {
-      de: "Prototyping für die Stadt der Zukunft",
+      de: "Auf Augenhöhe mit der Verwaltung",
       en: "Prototyping for the city of the future",
     },
     blocks: {
       intro: {
         title: {
-          de: "Die Stadt und wir",
+          de: "Auf Augenhöhe mit der Verwaltung",
           en: "The city and us",
         },
         text: {
-          de: "Ob Mobilität, Bäume oder Weihnachtsmärkte – als Stadtlabor sehen wir unseren Auftrag darin, Berlin ein Stück weit effizienter, sicherer, grüner oder auch einfach nur erlebbarer zu machen. Dafür nutzen wir offene Daten oder sammeln eigene Daten, um deren Potenzial für die Stadt in unseren Projekten aufzuzeigen. Unser Motto: Mitmachen und Ausprobieren ist strengstens erwünscht!",
+          de: "Wir stoßen Innovationsprozesse für und mit der Berliner Verwaltung an – und das immer auf Augenhöhe. Von der Problemanalyse über die Ideenfindung bis zum digitalen Prototyping nehmen wir Verwaltungsteams mit auf eine kreative Designreise, an deren Ende immer konkrete Ergebnisse, Erkenntnisse und Lösungen stehen. Dabei vermitteln wir zugleich Methodenkompetenz und lassen agile und kollaborative Formen der Zusammenarbeit erlebbar werden. ",
           en: "Whether mobility, trees or Christmas markets – as an urban laboratory, we see our mission as making Berlin that little bit more efficient, safer and greener – and not least to enable people to be more proactive in connecting with what’s going on. To do this, we use open data or collect our own data and run projects that demonstrate the potential this data offers the urban community. Our motto: participation and trial and error are strictly encouraged!",
         },
       },
@@ -274,25 +362,24 @@ const content = {
         text: {
           links: [
             {
-              de: "Mehr Infos",
+              de: "Zur Anwendung",
               en: "Further details",
-              href: "https://www.freemove.space/ ",
+              href: "https://www.hilf-mir.berlin/",
             },
           ],
           title: {
-            de: "Datensammlung im Mobilitätsdaten-Projekt freemove",
+            de: "Hilf-Mir.Berlin",
             en: "Data collection in the mobility data project freemove",
           },
           paragraph: {
-            de: "Wie können wir Bewegungsdaten so verarbeiten, dass die Privatsphäre geschützt bleibt und wir deren Innovationspotenziale nutzen können? Antworten hierauf suchen wir im Rahmen des vom Bundesministerium für Bildung und Forschung geförderten Projekts freemove und sind in diesem Jahr in eine weitere partizipative Phase gegangen. Zusammen mit Berliner Studierenden und dem Deutschen Zentrum für Luft- und Raumfahrt  sammelten wir über dessen Smartphone-App MovingLab zwei Wochen lang einen GPS-Datensatz. Dank dieser Daten konnten wir neben verkehrswissenschaftlichen Untersuchungen wichtige Erkenntnisse rund um Bedürfnisse zum Thema Privatsphäre ziehen. Mithilfe zusätzlicher Fragebögen fanden wir heraus, was die Studierenden zur Datenspende bewegt hat, was sie beim Spenden empfinden, und was ihnen dabei wichtig ist. Nächster Schritt: eine gründliche Auswertung der Ergebnisse zusammen mit den Uni-Partner:innen!",
+            de: "In Zusammenarbeit mit der Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (SenWGP) entwickelte das CityLAB in diesem Jahr eine digitale Plattform mit dem Ziel, Menschen in problematischen Lebenssituationen mit so wenig Klicks wie nötig zu helfen, passende Ansprechpartner:innen zu finden. Entstanden ist der digitale Wegweiser Hilf-Mir.Berlin der erstmals eine barrierearme und übersichtliche Darstellung von über 230 Beratungseinrichtungen bietet und sich nach verschiedenen Themen-Schlagworten filtern lässt. Wir finden: ein gelungenes Beispiel, das zeigt, dass die Digitalisierung auch wichtige Themen wie die psychosoziale Gesundheit in unserer Gesellschaft nicht ausklammert!",
             en: "How can we process movement data in a way that ensures privacy is protected but still allows us to exploit innovation potential? In order to look for answers to this question we’re running the project freemove funded by the German Federal Ministry of Education and Research, and this year we entered another participatory phase. Together with students based in Berlin and at the German Aerospace Center (DLR), we collected a GPS data set for two weeks via the DLR’s smartphone app MovingLab. As well as allowing us to carry out scientific investigations into transportation, this data also enabled us to draw key conclusions relating to privacy needs. With the help of additional questionnaires, we found out what motivated students to share data, how they felt about it, and what was important to them in the process. Next step: a thorough analysis of the results together with our university partners!",
           },
         },
         img: {
-          src: "assets/images/8_freemove.jpg",
-          alt: "Urbane Szene in Berlin",
-          copyright: "© Unsplash",
-          position: "center right",
+          src: "assets/images/CityLab Berlin_Ausstellung_2023_Credit Sabine Zoltnere_web_17.jpg",
+          alt: "Exponat in der Ausstellung des CityLab",
+          copyright: "© Sabine Zoltnere",
         },
       },
       {
@@ -302,64 +389,54 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Website",
+              de: "Zum Blogbeitrag",
               en: "Go to website",
               href: {
-                de: "https://qtrees.ai",
+                de: "https://citylab-berlin.org/de/blog/das-burgeramt-der-zukunft-teil-2/",
                 en: "https://qtrees.ai/en/",
               },
             },
-            {
-              de: "Zum Blogbeitrag",
-              en: "Go to blog post",
-              href: "https://www.technologiestiftung-berlin.de/blog/ein-jahr-qtrees-learnings-ueber-kuenstliche-intelligenz-und-stadtbaeume",
-            },
           ],
           title: {
-            de: "QTrees Prototyp",
+            de: "Bürgeramt der Zukunft",
             en: "QTrees prototype",
           },
           paragraph: {
-            de: "In dem Forschungsprojekt Quantified Trees (kurz: QTrees), durchgeführt von der Technologiestiftung Berlin, beschäftigten wir uns zusammen mit Birds on Mars und dem Grünflächenamt Berlin Mitte seit Ende 2021 mit der Frage, wie ein KI-gestütztes Vorhersagemodell bei der Bewässerung von Stadtbäumen helfen kann. Herausgekommen ist in diesem Jahr, neben dem KI-Modell, ein erster Prototyp namens Baumblick. Die Web-App gibt dabei spannende Einblicke in verschiedene Parameter (Alter, Größe, Stammumfang, Verschattung etc.) am Standort eines jeden Baumes und trifft schließlich eine Aussage über die aktuelle Wasserversorgung. Nach zahlreichen Projektvorstellungen auf Konferenzen, Messen und Meetups können wir es kaum erwarten, die App im Frühjahr zu veröffentlichen. Doch auch danach bleibt es spannend, denn im zweiten Halbjahr wollen wir uns der Entwicklung eines Dashboards für die Grünflächenämter widmen, das noch vor Ende des Jahres 2023 im Zuge des Projektabschlusses gelauncht werden soll.",
+            de: "Anknüpfend an die gelungene Zusammenarbeit mit dem Bürgeramt Friedrichshain-Kreuzberg in 2022 haben wir auch in diesem Jahr unsere Arbeit im Rahmen des Projekts Bürgeramt der Zukunft fortgesetzt. Die durchgeführten Prototypentests stellten dabei erfolgreich unter Beweis, dass ein effizienterer Ablauf in Bürgerämtern mit dem entwickelten Check-In-System ermöglicht werden konnte. Wir können daher mit Stolz sagen, dass aktuell die technische Machbarkeit einer Integration des Check-In-Systems in die bestehende IT-Infrastruktur der Bürgerämter eruiert wird. Für uns aber noch kein Grund, den Stift fallen zu lassen: aktuell arbeiten wir nämlich daran, auch die Anzahl von abgebrochenen Dienstleistungen in den Bürgerämtern zu reduzieren. Wie es damit weitergeht und welche spannenden Daten wir erhoben haben, erfährt Ihr im kommenden Jahr!",
             en: "In the research project Quantified Trees (or QTrees for short), Technologiestiftung Berlin joined force with Birds on Mars and the Berlin Mitte Green Spaces Department to once again address the question of how to use an AI-based predictive model to make the irrigation of urban trees more efficient. The result is an initial prototype called Baumblick. This app allows members of civil society to gain important insights into various parameters (age, size, trunk circumference, current water supply, etc.) at each tree's location, ultimately encouraging people to get involved with trees in the city. After a successful launch of the prototype at numerous conferences, trade shows and meetups, we can’t wait to release the final version of the app this spring. But there’s plenty to look forward to after that, too: we plan to devote the second half of the year to developing a dashboard for road administration and green space departments that will provide data-driven decision support.",
           },
         },
         img: {
-          src: "assets/images/9_QTrees.jpg",
-          alt: "Eine Hand, die ein Smartphone hält, auf der die App Baumblick zum Schutz von Stadtbäumen geöffnet ist",
-          copyright: "© Technologiestiftung Berlin",
+          src: "assets/images/Check In Buergeramt Yorkstrasse.jpg",
+          alt: "Wartebereich im Bürgeramt",
+          copyright: "© CityLab",
         },
       },
       {
         id: "3.3",
-        theme: "dark",
+        theme: "light",
         align: "right",
         text: {
           links: [
             {
-              de: "Zur Anwendung",
-              en: "The application",
-              href: "https://weihnachtsmaerkte.odis-berlin.de",
-            },
-            {
-              de: "Zum Interview mit den Entwickler:innen",
-              en: "Interview with the developers",
-              href: "https://citylab-berlin.org/de/blog/interview-odis-berliner-weihnachtsmarkt-finder/",
+              de: "Zum Blogbeitrag",
+              en: "Go to videos",
+              href: "https://citylab-berlin.org/de/blog/kooperation-jobcenter-friedrichshain-kreuzberg/",
             },
           ],
           title: {
-            de: "Berliner Weihnachtsmarkt-Finder",
-            en: "Berlin Christmas Market Finder",
+            de: "User Journey im Jobcenter",
+            en: "Summer party",
           },
           paragraph: {
-            de: "Zum Jahresende sind wir nochmal in Höchstform aufgelaufen und haben uns zusammen mit der ODIS überlegt, wie wir Berliner:innen mittels offener Daten die Vorweihnachtszeit verschönern können. Herausgekommen ist der Berliner Weihnachtsmarkt-Finder: Mit der interaktiven Karte lassen sich über 60 Weihnachtsmärkte in Berlin erkunden, deren Daten von der Senatsverwaltung für Wirtschaft, Energie und Betriebe jährlich veröffentlicht werden. Neben einer Standortsuche und der ÖPNV-Anbindung lassen sich die Weihnachtsmärkte mithilfe einer Filterfunktion auch nach Wunschdatum, Öffnungszeiten, besonderen Angeboten oder Eintrittspreisen sortieren. Entwickelt wurde die Anwendung – von der Idee bis zum Release – in gerade einmal zwei Wochen und zählt bereits jetzt zum perfekten Begleiter durch den Berliner Winter!",
-            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
+            de: "Für viele Menschen ist der Erstkontakt mit dem Jobcenter mit zahlreichen Unsicherheiten verbunden und es ist nicht immer leicht, den Überblick über die notwendigen Formulare und Prozessschritte zu behalten. Gleichzeitig stehen die Mitarbeitenden im Jobcenter vor der Herausforderung, die Bearbeitung der Erstanträge so effizient und bürgerfreundlich wie möglich zu gestalten und entsprechende Hilfestellungen zu leisten. Gemeinsam mit dem Jobcenter Friedrichshain-Kreuzberg haben wir uns den Prozess hinter den Kulissen angeschaut und erkundet, wie er sich sowohl für Neukund:innen als auch für Mitarbeitende verbessern lässt. In einer User Journey haben wir bestehende Herausforderungen identifiziert und Hypothesen zur Prozessverbesserung entwickelt. Unsere abschließenden Empfehlungen sollen nun in die Neugestaltung des Prozesses rund um den Erstkontakt mit dem Jobcenter einfließen. Wir wünschen dem Team weiterhin viel Erfolg bei der Umsetzung!",
+            en: "The CityLAB run by Technologiestiftung Berlin put on a big summer party at the former Tempelhof Airport this year to mark its third anniversary. Together with around 650 guests, we enjoyed a day full of highlights, such as a visit by mayor Franziska Giffey and our Chief Digital Officer Dr Ralf Kleindiek – not to mention musical performances by Mouse on Mars, DJ Femalemacho and Byrke Lou. With a range of interactive and entertaining learning and discussion formats, the summer festival offered actors from the fields of participatory urban development, administrative innovation, digitization and smart city a forum for listening, learning, presenting and discussing, thereby contributing to strengthening the discourse around participatory urban development.",
           },
         },
         img: {
-          src: "assets/images/10_xmas-Finder.png",
-          alt: "Anwendung Berliner Weihnachtsmarkt-Finder",
-          copyright: "© Open Data Informationstelle",
+          src: "assets/images/CityLab Berlin_Service Design_Formular_2023_Credit Sabine Zoltnere_web.jpg",
+          alt: "Person füllt ein Onlineformular aus",
+          copyright: "© Sabine Zoltnere",
         },
       },
       {
@@ -369,32 +446,24 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Website",
-              en: "Go to website",
-              href: "https://www.giessdenkiez.de/",
-            },
-            {
-              de: "Zum Blogbeitrag",
-              en: "Go to blog post",
-              href: {
-                de: "https://citylab-berlin.org/de/blog/herbstputz-bei-giess-den-kiez/",
-                en: "https://citylab-berlin.org/en/blog/fall-clean-up-at-giess-den-kiez/",
-              },
+              de: "Zum Wissensspeicher",
+              en: "The application",
+              href: "https://citylab-berlin.org/de/wissensspeicher/",
             },
           ],
           title: {
-            de: "Gieß den Kiez-Herbstputz",
-            en: "Gieß den Kiez fall clean-up",
+            de: "CityLAB-Wissen kompakt im Wissensspeicher",
+            en: "Berlin Christmas Market Finder",
           },
           paragraph: {
-            de: "Der Sommer 2022 gehört nach vorläufigen Berechnungen zu den vier wärmsten Sommern seit Beginn der Wetteraufzeichnung 1881 – und war mit einem Niederschlag von rund 145 Litern zugleich auch der sechsttrockenste Sommer, der bisher gemessen wurde. Zum Glück gibt es unsere Plattform Gieß den Kiez, wo sich eine sehr engagierte Community für die Bewässerung der Berliner Bäume koordiniert. Um uns bei den fleißigen Gießer:innen in diesem Jahr zu bedanken, haben wir uns das Feedback in unserem Slack-Kanal zu Herzen genommen und unter dem Motto “Herbstputz” in einem einwöchigen Entwicklungs-Sprint neue Features und Verbesserungen eingebaut.",
-            en: "Based on preliminary calculations, the summer of 2022 was among the four hottest summers since weather records began in 1881 – and with rainfall of around 145 liters, it was the sixth driest summer on record, too. Fortunately, our platform Gieß den Kiez enables a highly dedicated community to coordinate the watering of Berlin’s trees. As a thank-you to all this past year’s hard-working watering enthusiasts, we took the feedback in our Slack channel to heart and engaged in a one-week development sprint under the motto “Fall clean-up” to add new features and improvements.",
+            de: `Im CityLAB begleiten wir Beschäftigte der Berliner Verwaltung seit über vier Jahren durch strukturierte Innovationsprozesse und erproben mit ihnen in Workshops, Schulungen und gemeinsamen Austausch verschiedene Methoden und Tools, ganz nach dem „Train-the-Trainer“-Ansatz. Unser neuer Online-Wissensspeicher bündelt zahlreiche unserer erprobten Methoden und Erfahrungen an einem zentralen Ort. Als wachsender Speicher wird die digitale Plattform zudem regelmäßig mit neuen Erkenntnissen angereichert und gepflegt. Neben dem Handbuch Öffentliches Gestalten  – das wir aufgrund zahlreicher internationaler Anfragen nun auch <a href="https://www.oeffentliches-gestalten.de/en/" target="_blanc">ins Englische</a> übersetzt haben – und der Methodenbox könnt Ihr verschiedene Leitfäden rund um agiles Arbeiten und Open Source, unseren GD:B-Beteiligungsprozess und noch vieles mehr entdecken.`,
+            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
           },
         },
         img: {
-          src: "assets/images/11_gdk.png",
-          alt: "drei Personen, die vor dem CityLAB Berlin Bäume gießen",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/10_xmas-Finder.png",
+          alt: "Comicartige Interprätation eines Ideenfindugsprozesses",
+          copyright: "© CityLab",
         },
       },
       {
@@ -404,32 +473,25 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Folge",
-              en: "Go to episode",
-              href: "https://radiocitylab.podigee.io/6-klick",
-            },
-            {
-              de: "Zum Podcast",
-              en: "Go to podcast",
-              href: "https://radiocitylab.podigee.io",
+              de: "Zur Methodenbox",
+              en: "The application",
+              href: "https://citylab-berlin.org/de/wissensspeicher-methodenbox/",
             },
           ],
           title: {
-            de: "Podcast “Radio CityLAB Berlin”",
-            en: "Radio CityLAB Berlin podcast",
+            de: "Methoden spielerisch erkunden",
+            en: "Berlin Christmas Market Finder",
           },
           paragraph: {
-            de: "Wo entscheiden Algorithmen besser als der Mensch, wo aber nicht? Wie gelangen wir in der digitalen Welt zu den richtigen Entscheidungen und welche Hilfsmittel gibt es beim Umgang mit der Künstlichen Intelligenz? Mit dem renommierten Risiko-Forscher Prof. Dr. Gerd Gigerenzer des Max-Planck-Instituts für Bildungsforschung diskutierten unser Leiter Benjamin Seibel und über 170 Teilnehmende über digitale (Selbst)kontrolle. Der Vortrag wurde als Teil unseres Podcast-Formats Radio CityLAB Berlin aufgenommen, das in diesem Jahr mit fünf spannenden Episoden weiter ausgebaut wurde.",
-            en: "When do algorithms decide better than humans, and when don’t they? How do we arrive at the right decisions in the digital world, and what tools are available for dealing with artificial intelligence? With the involvement of renowned risk researcher Prof. Dr Gerd Gigerenzer of the Max Planck Institute for Human Development, our director Benjamin Seibel and over 170 participants engaged in a discussion on the subject of digital monitoring and self-monitoring. The talk was recorded as part of our Radio CityLAB Berlin podcast, which continued to expand this year with the addition of five fascinating new episodes.",
+            de: `Stellt Euch vor, Ihr könntet das Handbuch Öffentliches Gestalten durchspielen und hättet alles zur Hand, was Ihr dafür bräuchtet – egal ob passende Methode, Stift oder Papier. Diese Vorstellung muss nicht mehr länger Teil Eurer Fantasie sein, denn wir haben sie für Euch in die Realität umgesetzt! Mit unserer Methodenbox können alle, die in oder mit öffentlichen Verwaltungen und Organisationen arbeiten, die verschiedenen Schritte und Phasen eines Innovationsprozesses spielerisch umsetzen. Die Methodenbox kommt mit ausgewählten Methodenkarten und dazugehörigen Templates aus dem Handbuch Öffentliches Gestalten daher, die sich an den Prinzipien des agilen Arbeitens orientieren. Der modulare Aufbau der Methodenkarten ermöglicht dabei eine flexible Nutzung der Karten in jeder Phase eines Innovationsprozesses und soll dazu befähigen, auch ohne theoretisches Vorwissen die Methoden in der Praxis anzuwenden und eigeninitiativ zu handeln.`,
+            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
           },
         },
         img: {
-          src: "assets/images/12_RadioCityLABWebseite.jpg",
-          alt: "Logo des Podcasts Radio CityLAB Berlin",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/methodenbox citylab berlin.jpg",
+          alt: "Die Methodenbox",
+          copyright: "© CityLab",
           fit: "contain",
-          maxWidth: "600px",
-          position: "center right",
         },
       },
       {
@@ -439,72 +501,43 @@ const content = {
         text: {
           links: [
             {
-              de: "Zur Stadtpuls-Story",
-              en: "Go to Stadtpuls story",
-              href: "https://stories.stadtpuls.com/molekuel-auf-der-spur",
-            },
-          ],
-          title: {
-            de: "Berliner Sensorgeschichten",
-            en: "Berlin sensor stories",
-          },
-          paragraph: {
-            de: `Ende 2021 präsentierte das CityLAB die neue IoT-Plattform Stadtplus zum ersten Mal der Öffentlichkeit. Seither ist Stadtpuls mit zahlreichen neuen Features sowie spannenden bis hin zu romantischen Data Stories durchgestartet – wie etwa mit der Liebesgeschichte zwischen Molekülen und Sensoren. Im Rahmen des COMo-Projekts wurden von der Technologiestiftung Berlin CO2-Sensoren in öffentlich zugänglichen Räumen verteilt, um die Kohlendioxidkonzentration in der Raumluft zu ermitteln. Als offene Plattform unterstützte Stadtpuls bei der Erfassung und Visualisierung der Sensordaten und deren Bereitstellung für weitere Datenauswertungen und ebnete damit den Weg für einen ersten Schritt in Richtung smarte vernetzte Stadt.`,
-            en: "At the end of 2021, CityLAB presented the new IoT platform Stadtpuls to the public for the first time. Since then, Stadtpuls has got off to a great start with numerous new features as well as captivating and in some cases even romantic data stories – such as the love story between molecules and sensors. As part of the project COMo, CO2 sensors were distributed by Technologiestiftung Berlin in publicly accessible spaces to determine the carbon dioxide concentration in the ambient air. As an open platform, Stadtpuls supported the collection and visualization of sensor data and its provision for further data analysis, thereby paving the way for a first step towards the smart connected city.",
-          },
-        },
-        img: {
-          src: "assets/images/13_2_stadtpuls.png",
-          alt: "Grafik mit Molekülen",
-          copyright: "© Stadtpuls",
-        },
-      },
-      {
-        id: "3.7",
-        theme: "dark",
-        align: "right",
-        text: {
-          links: [
-            {
               de: "Zum Blogbeitrag",
-              en: "Go to blog post",
-              href: {
-                de: "https://citylab-berlin.org/de/blog/summer-school-kottiflow/",
-                en: "https://citylab-berlin.org/en/blog/summer-school-kottiflow/",
-              },
+              en: "The application",
+              href: "https://citylab-berlin.org/de/blog/die-citylab-roadshow-einblicke-in-unsere-tour-durch-die-berliner-verwaltungen/",
             },
           ],
           title: {
-            de: "Summer School",
-            en: "Summer School",
+            de: "Roadshow: Hausbesuch vom CityLAB",
+            en: "Berlin Christmas Market Finder",
           },
           paragraph: {
-            de: `Zum vierten Mal in Folge fand auch dieses Jahr wieder die Summer School im CityLAB statt – diesmal unter dem Motto "Open Source meets Grüne Welle". Mit viel Forschergeist haben sich die Studierenden der Hochschule für Technik und Wirtschaft Berlin (HTW) Berlin mit der Infrastruktur der Radwege entlang der Teststrecke des Reallabors Radbahn befasst, um gemeinsam den Grüne Welle-Assistent Kottiflow zu entwickeln. Ziel der Challenge war es, Verkehrsteilnehmende zu unterstützen, flüssiger und sicherer an ihr Ziel zu gelangen. Innerhalb von knapp zwei Wochen wurden bereits praktische Ideen und erste Prototypen entwickelt, die u.a. auch in der neuen CityLAB-Ausstellung gezeigt werden sollen.`,
-            en: "The Summer School took place again at CityLAB for the fourth year in succession, this time under the motto “Open Source meets Green Wave”. Fueled by a great spirit of inquiry, students at Berlin University of Applied Sciences (HTW) looked at the infrastructure of the bike lanes along the Reallabor Radbahn test track with the aim of jointly developing the phased traffic-light assistant Kottiflow . The goal of the challenge was to help road users get to their destination more smoothly and safely. Practical ideas and initial prototypes were developed in just under two weeks: these will also be on show as part of the new CityLAB exhibition.",
+            de: `In diesem Jahr war das CityLAB im Rahmen seiner Roadshow-Veranstaltungsreihe zu Gast in der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt, um Einblicke in unseren prototypischen Ansatz zu geben und unsere Erkenntnisse aus bisherigen Kooperationen und Projekten im Bereich Verwaltungsinnovation zu teilen. Auf unseren bisherigen Stationen konnten wir erfreulicherweise nicht nur den Austausch zwischen dem CityLAB und der Berliner Verwaltung, sondern auch zwischen den Verwaltungseinheiten untereinander fördern. Dabei haben wir wertvolle Erkenntnisse gewinnen können, die wir im kommenden Jahr gerne weiter ausbauen und vertiefen möchten. Wir freuen uns darauf, unser Wissen mit Euch zu teilen und die Vernetzung der Berliner Verwaltung weiter zu stärken!`,
+            en: "Our creative juices were in full flow again at the end of the year, too: together with ODIS, we had a think about how we Berliners might use open data to brighten up the pre-Christmas season. The result is the Berlin Christmas Market Finder – an interactive map that can be used to explore over 60 Christmas markets in Berlin, for which data is published annually by the Senate Department for Economics, Energy and Public Enterprises. In addition to a location search and public transport links, the map also has a filter function for sorting the Christmas markets based on preferred dates, opening hours, special offers and admission prices. The application was developed in a period of just two weeks – from the initial idea through to release – and is already a perfect companion for city-dwellers to get through the Berlin winter!",
           },
         },
         img: {
-          src: "assets/images/14_summer school.jpg",
-          alt: "Ein Fahrrad inmitten einer Großstadt",
-          copyright: "© Unsplash",
+          src: "assets/images/Roadshow CityLAb Berlin.jpg",
+          alt: "Gebäude der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt",
+          copyright: "© CityLab",
+          fit: "contain",
         },
       },
     ],
   },
-  unterwegs: {
+  stadtUndWir: {
     id: "4.0",
     topic: {
-      de: "CityLAB unterwegs",
+      de: "Die Stadt und wir",
       en: "CityLAB on the road",
     },
     blocks: {
       intro: {
         title: {
-          de: "Stadtlabor mit internationalem Flair",
+          de: "Die Stadt und wir",
           en: "City laboratory with international flair",
         },
         text: {
-          de: "Beim Anblick der vielen Delegationen, die wir bei uns im CityLAB begrüßen dürfen, könnte man meinen, der ehemalige Flughafen Tempelhof wäre noch in Betrieb: So viel internationalen Austausch hatten wir noch nie! Der stetige Blick über den Berliner Tellerrand hält uns fit und ist genau die Kost, die wir brauchen, um uns zu neuen Höhenflügen inspirieren zu lassen. Gleichzeitig waren auch wir viel unterwegs, um uns auf Messen und Veranstaltungen zu inspirieren und auszutauschen. Unser Highlight: Die vielen Gespräche und das große Interesse an Themen wie Digitalisierung, Smart City-Ansätzen und das Innovationspotenzial Berlins.",
+          de: "Ob Mobilität, Bäume oder Weihnachtsmärkte – als Stadtlabor sehen wir unseren Auftrag darin, Berlin ein Stück weit effizienter, sicherer, grüner oder auch einfach nur erlebbarer zu machen. Dafür nutzen wir offene Daten oder sammeln eigene Daten, um deren Potenzial für die Stadt in unseren Projekten aufzuzeigen. Unser Motto: Mitmachen und Ausprobieren ist strengstens erwünscht!",
           en: "To see the numerous delegations we welcome to CityLAB, you’d think the former Tempelhof Airport was still up and running: we’ve never had so much international traffic! Constantly keeping our sights set beyond Berlin keeps us on our toes – just what we need to inspire us to achieve new heights. At the same time, we also got out and about a lot ourselves for inspiration and dialog at trade fairs and events. The highlight for us: the numerous conversations we had and the enormous interest in topics such as digitalization, smart city ideas and Berlin’s innovation potential.",
         },
       },
@@ -519,25 +552,32 @@ const content = {
             {
               de: "Zum Blogbeitrag",
               en: "Go to blog post",
-              href: {
-                de: "https://citylab-berlin.org/de/blog/republica-2022-berliner-smart-city-pilotprojekte-vorgestellt/",
-                en: "https://citylab-berlin.org/en/blog/republica-2022-presentation-of-berlin-smart-city-pilot-projects/",
-              },
+              href: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+            },
+            {
+              de: "Zu allen Talks der Hauptbühne",
+              en: "Go to blog post",
+              href: "https://www.youtube.com/watch?v=nVjc2Av2L4s&list=PLRIKlbncTSl95in0M1Sw_PpaCC5_GNR7N",
+            },
+            {
+              de: "Zum Podcast",
+              en: "Go to blog post",
+              href: "https://radiocitylab.podigee.io/episodes",
             },
           ],
           title: {
-            de: "Re:publica",
+            de: "Sommerfest",
             en: "Re:publica",
           },
           paragraph: {
-            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica in diesem Jahr endlich wieder vor Ort statt und da durfte das CityLAB natürlich nicht fehlen! Zusammen mit der Senatskanzlei Berlin nutzten wir die Chance, der Öffentlichkeit die Strategie Gemeinsam Digital: Berlin sowie das Team dahinter zu präsentieren. Neben unserem Abendevent zum Networking bot unser Sensor-Workshop ein weiteres Highlight auf der re:publica, bei dem unser Prototyping-Team zeigte, wie man mithilfe von Sensoren Daten erfassen, teilen und visualisieren kann, um seine Stadt besser zu verstehen.",
+            de: "Was wäre der Berliner Sommer eigentlich ohne das legendäre CityLAB-Sommerfest? Für uns – und Ihr werdet dem hoffentlich zustimmen – definitiv nur halb so aufregend, inspirierend und vernetzt! Unser Team hat mal wieder alles gegeben, um diesen besonderen Tag mit einer Fülle von Panel Talks, mehreren Bühnen, Workshops und einem vielseitigen Programm gebührend mit Euch zu gestalten.<br/><br/>Auf dem Gelände des Von Greifswald, einem ehemaligen Güterbahnhof im Prenzlauer Berg, stellten wir uns in diesem Jahr der Herausforderung, das „Rätsel Berlin” an einem Tag zu lösen. Natürlich brauchten wir dafür eine Menge schlauer Köpfe, um Fragen rund um Verwaltungsmodernisierung, dem Potenzial offener Daten und Zukunftsvisionen für Berlin zu erkunden. Wir waren sehr stolz darauf, dass wir neben über 500 Gästen u.a. auch Francesca Bria, Direktorin des Programms „The New Hanse“ und Präsidentin des italienischen Nationalen Innovationsfonds, Carlo Ratti, Direktor des Senseable City Lab am MIT, sowie gleich zwei CDOs aus Berlin und München – nämlich Martina Klement sowie Laura Dornheim – auf unserem Sommerfest begrüßen durften. Was das Sommerfest sonst noch für Highlights bereithielt und ob wir es wirklich geschafft haben, Berlin mit all seinen offenen Fragezeichen und Baustellen an einem Tag zu lösen, erfährt ihr in unserem Blogbeitrag, beim Nachschauen aller Sessions unserer Hauptbühne sowie in unseren zwei Podcast-Sonderfolgen.",
             en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
           },
         },
         img: {
-          src: "assets/images/15_Republica.jpeg",
-          alt: "das CityLAB Prototyping-Team ihrem Sensor-Workshop auf der re:publica",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/Sommerfest.jpg",
+          alt: "das CityLAB-Team beim Sommerfest",
+          copyright: "© Florian Reimann",
         },
       },
       {
@@ -547,24 +587,30 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Event",
+              de: "Zum Projekt",
               en: "Go to event",
-              href: `https://citylab-berlin.org/de/events/smart-country-convention-sccon-2022/`,
+              href: `https://citylab-berlin.org/de/projects/ki-zum-anfassen-unsere-interaktiven-exponate/`,
+            },
+            {
+              de: "Zur Ausstellung",
+              en: "Go to event",
+              href: `https://citylab-berlin.org/de/exhibition/`,
             },
           ],
           title: {
-            de: "Smart Country Convention (SCCON)",
+            de: "KI-Experimente zum Anfassen",
             en: "Smart Country Convention (SCCON)",
           },
           paragraph: {
-            de: "Im Oktober öffnete die Smart Country Convention wieder ihre Türen und brachte sowohl Menschen als auch Ideen aus Verwaltung, Politik, Wissenschaft und Digitalwirtschaft zum Thema E-Government und Smart City zusammen. Gemeinsam mit der Senatskanzlei präsentierte das CityLAB dabei auf dem Berliner Gemeinschaftsstand die neuesten Entwicklungen aus der Smart City-Strategie für Berlin und bot mit weiteren Berliner Organisator:innen unter dem Motto Gemeinsam Digital: Berlin ein vielfältiges Standprogramm an. Abgerundet wurde das erfolgreiche Event mit einem Standbesuch der Regierenden Bürgermeisterin Franziska Giffey und CDO Dr. Ralf Kleindiek.",
+            de: "Im CityLAB beschäftigen wir uns nicht nur mit innovativen, methodischen Ansätzen, sondern auch mit den neuesten technologischen Entwicklungen, die dabei helfen können, die Verwaltungsdigitalisierung in Berlin voranzutreiben. Der Hype um das Thema Künstliche Intelligenz (KI) und Tools wie ChatGPT ist natürlich auch am CityLAB nicht spurlos vorbeigegangen. Wir haben dem Thema KI gleich einen eigenen Themenschwerpunkt im ersten Halbjahr gewidmet und in interdisziplinären Team die Potenziale für unsere Zielgruppen erforscht. Dabei haben wir uns sowohl tief in technische Details eingearbeitet, als auch die sozialen und politischen Implikationen von KI im Dialog mit verschiedenen Expert:innen diskutiert. Und weil wir greifbare Ergebnisse lieben, sind aus dieser Auseinandersetzung insgesamt vier ganz konkrete KI-Anwendungen entstanden, die wir auf unserem Sommerfest der Öffentlichkeit präsentieren durften. Was es genau mit Ernst der Currywurst oder Kiki, der freundlichen Biene, auf sich hat und wofür unsere KI-Ideenwürfel eingesetzt werden, könnt Ihr in unserer Ausstellung im CityLAB live und in Farbe erleben. Kommt vorbei und probiert es aus!",
             en: "In October, the Smart Country Convention opened its doors once again, bringing together people and ideas from administration, politics, science and the digital economy on the topic of e-government and the smart city. Together with the Senate Chancellery, CityLAB presented the latest developments from the Smart City Strategy for Berlin at the joint Berlin stand, offering a diverse program under the motto Gemeinsam Digital: Berlin together with other Berlin organizers.  The successful event was rounded off with a visit to the stand by Mayor Franziska Giffey and CDO Dr Ralf Kleindiek.",
           },
         },
         img: {
-          src: "assets/images/16_Smart Country Convention.jpg",
-          alt: "Stand des Smart City Netzwerks auf der Smart Country Convention beim Besuch von der regierenden Bürgermeisterin Franziska Giffey und CDO Dr. Ralf Kleindiek",
+          src: "assets/images/collage KI Exponate Prototyping CityLAB.jpg",
+          alt: "KI-Experimente auf dem Sommerfest",
           copyright: "© CityLAB Berlin",
+          fit: "contain",
         },
       },
       {
@@ -574,32 +620,27 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Programm",
+              de: "Zur Anwendung",
               en: "Further details",
               href: {
-                de: `https://citylab-berlin.org/de/events/smart-city-expo-world-congress-2022/`,
+                de: `https://energiecheckpoint.odis-berlin.de/`,
                 en: "https://citylab-berlin.org/en/events/smart-city-expo-world-congress-barcelona-2022/",
               },
             },
-            {
-              de: "Mehr Eindrücke",
-              en: "More insights",
-              href: `https://flic.kr/s/aHBqjAiu6W`,
-            },
           ],
           title: {
-            de: "Smart City Expo World Congress (SCEWC) Barcelona",
+            de: "Berliner Energiecheckpoint",
             en: "Smart City Expo World Congress (SCEWC) Barcelona",
           },
           paragraph: {
-            de: "Auch in diesem Jahr war das CityLAB gemeinsam mit der Senatskanzlei Berlin wieder prominent auf dem SCEWC vom 15. bis 17. November in Barcelona vertreten. Auf dem Programm standen neben einem Roundtable zur Vorstellung der Highlights und Erfahrungen aus dem Berliner Smart City-Strategieprozesses die Vorstellung des Projekts QTrees sowie das erste internationale LabCamp, das von CDO Dr. Ralf Kleindiek und CTO von Barcelona, Michael Donaldson, eröffnet wurde. Das Netzwerkformat bot drei gelungenen Beispielen von Innovationslaboren eine Plattform zum Austausch zu gemeinsamen Ansätzen und Herausforderungen. Als Co-Hosts von Berlin Partner lud das CityLAB zudem zur Berlin Smart City Night ein, wo ein Expert:innen-Austausch zu Themen wie Innovation, Kooperation und Digitalisierung in gemütlicher Atmosphäre stattfand.",
+            de: "Berlin möchte bis spätestens 2045 klimaneutral werden. Öffentliche Gebäude wie Schulen und Kultureinrichtungen sollen dabei durch Energieeinsparungen und Sanierungen eine Vorbildrolle einnehmen. Doch welche Gebäude verbrauchen wie viel Energie und welche Einsparpotentiale stecken in der Sanierung einzelner Gebäude? Dieser Frage widmete sich das ODIS-Team und entwickelte zusammen mit dem CityLAB den Berliner EnergieCheckpoint. Die interaktive Anwendung basiert auf den offenen Daten der BIM Berliner Immobilien Management GmbH und ermöglicht es, Daten zum Energieverbrauch und Energieeinsparungen öffentlicher Gebäude zu öffnen und diese über einzelne Standorte auf einer Berlin-Karte zu visualisieren. Ihr möchtet wissen, wie hoch der jährliche Energieverbrauch des Friedrichstadtpalast ist oder welchen Beitrag zur Energieeinsparung die energetische Sanierung des Roten Rathauses leisten kann? Findet es im Berliner EnergieCheckpoint heraus!",
             en: "Together with the Berlin Senate Chancellery, CityLAB was once again prominently represented at the SCEWC in Barcelona from November 15 to 17 this year. The program included a round table to present highlights and experiences from the Berlin Smart City Strategy process and the QTrees project, as well as putting on the first international LabCamp, which was opened by CDO Dr Ralf Kleindiek and Barcelona CTO Michael Donaldson. The networking format provided a platform for three successful examples of innovation labs to share common ideas and challenges. Along with Berlin Partner, CityLAB also co-hosted the Berlin Smart City Night – an expert dialog on subjects such as innovation, cooperation and digitalization set in an inviting atmosphere.",
           },
         },
         img: {
-          src: "assets/images/17_BerlinSmartCityNight_Luli Puccio.jpg",
-          alt: "Eine Rede bei der Berlin Smart City Night 2022, die das CitylAB Berlin mitorganisiert hat",
-          copyright: "© Luli Puccio",
+          src: "assets/images/Berliner Energiecheckpoint ODIS CityLAB Berlin.png",
+          alt: "Screenshot aus der Anwendung",
+          copyright: "© CityLab",
         },
       },
       {
@@ -607,20 +648,31 @@ const content = {
         theme: "light",
         align: "left",
         text: {
-          links: [],
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Further details",
+              href: `https://citylab-berlin.org/de/blog/fuenf-fragen-zum-erfolgreichen-abschluss-des-projekts-qtrees/`,
+            },
+            {
+              de: "Zur Baumblick-App",
+              en: "Further details",
+              href: `https://baumblick.qtrees.ai/`,
+            },
+          ],
           title: {
-            de: "Delegationsbesuche im CityLAB",
-            en: "Delegation visits to CityLAB",
+            de: "QTrees",
+            en: "Berlin Science Week",
           },
           paragraph: {
-            de: "Von Paris bis Seoul, Pristina oder Jakarta – die Liste unserer diesjährigen Besucher:innen im CityLAB ist lang und kannte vor allem keine Ländergrenzen! Nachdem der Besucher:innenbetrieb im Jahr zuvor pandemiebedingt doch sehr eingeschränkt war, freuten wir uns umso mehr über die zahlreichen Besuche aus dem Ausland und den gemeinsamen Austausch vor Ort im CityLAB. Eines von vielen Highlights: das große Interesse und Überlegungen zur Adaption von Gieß den Kiez in Paris und Los Angeles!",
-            en: "Paris, Seoul, Pristina and Jakarta – the list of this year’s visitors to CityLAB is long and goes way beyond national borders! Since the pandemic limited the number of visitors the year before, we were all the more delighted to receive so many visitors from abroad and engage in dialog face to face at CityLAB. One of many highlights: the great interest in Gieß den Kiez among visitors from Paris and Los Angeles, including ideas as to how the scheme might be adapted!",
+            de: "Kann Künstliche Intelligenz bei der Bewässerung und Pflege von Stadtbäumen unterstützen? Um das herauszufinden, hat das CityLAB zusammen mit Birds on Mars und der Technologiestiftung Berlin im Rahmen des Projekts Quantified Trees (kurz: QTrees) über zwei Jahre hinweg mit den Straßen- und Grünflächenämtern der Bezirke Mitte und Neukölln, einem Sensor-Anbieter sowie eine, Gießdienstleister kooperiert. Auf der Grundlage eines eigens entwickelten KI-Prognosemodells wurde neben der Baumblick-App ein Experten-Dashboard entwickelt, das die Bezirke durch die Nutzung der Vorhersage bei der Bewässerung von Stadtbäumen unterstützen kann. Dabei haben wir gemeinsam mit den Bezirksämtern viel über bereits bestehende Möglichkeiten, aber auch über die Grenzen beim Einsatz von Künstlicher Intelligenz gelernt. Denn eine KI ist letztlich nur so gut, wie die Daten, mit denen sie trainiert wird. Gleichwohl bot unser KI-Vorhersagemodell gleich eine ganze Reihe spannender Erkenntnisse auf dem Weg zu einer nachhaltigen Stadt. Mehr Einblicke in den erfolgreichen Abschluss des Projekts gibt es im Interview mit der Projektleiterin Julia Zimmermann.",
+            en: "Zurich meets Berlin: at the Berlin Science Week, CityLAB engaged in dialog with the Swiss city about common goals and challenges relating to topics such as climate neutrality, the mobility transition, affordable housing, equal opportunities and inclusion. These topics are also the focus of our projects such as the Household Data Tool and the Berlin Refreshment Map, which were developed in collaboration with ODIS and presented at the Berlin Science Week.",
           },
         },
         img: {
-          src: "assets/images/18_Delegationen.jpg",
-          alt: "Eine Delegation steht vor dem CityLAB Berlin",
-          copyright: "© CityLAB Berlin",
+          src: "assets/images/Smart City Expo Barcelona 2022_Qtrees.JPG",
+          alt: "CityLab Delegation auf der Expo Barcelona",
+          copyright: "© CityLab",
         },
       },
       {
@@ -630,25 +682,27 @@ const content = {
         text: {
           links: [
             {
-              de: "Mehr Infos",
-              en: "Further details",
-              href: `https://berlinscienceweek.com/event/die-zukunft-ist-offen/`,
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/de/blog/summer-school-2023-prototyping-fur-die-gesunde-stadt/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
             },
           ],
           title: {
-            de: "Berlin Science Week",
-            en: "Berlin Science Week",
+            de: "School’s out, Summer School’s in",
+            en: "Smart Change delegation trip to Jakarta",
           },
           paragraph: {
-            de: "Zürich trifft Berlin: Auf der Berlin Science Week trat das CityLAB mit der Schweizer Metropole in einen Dialog über gemeinsame Ziele und Herausforderungen zu Themen wie Klimaneutralität, Mobilitätswende, bezahlbarer Wohnraum, Chancengleichheit und Inklusion. Diese Themen stehen auch im Fokus unserer Projekte wie dem Haushaltsdatentool und der Berliner Erfrischungskarte, die in Zusammenarbeit mit der ODIS entwickelt und auf der Berlin Science Week vorgestellt wurden.",
-            en: "Zurich meets Berlin: at the Berlin Science Week, CityLAB engaged in dialog with the Swiss city about common goals and challenges relating to topics such as climate neutrality, the mobility transition, affordable housing, equal opportunities and inclusion. These topics are also the focus of our projects such as the Household Data Tool and the Berlin Refreshment Map, which were developed in collaboration with ODIS and presented at the Berlin Science Week.",
+            de: "Zum fünften Mal in Folge startete im September die CityLAB Summer School, die sich in diesem Jahr den Themen Stadtlärm sowie urbaner Landwirtschaft widmete. In Kooperation mit der Hochschule für Technik und Wirtschaft (HTW), der Technischen Universität Berlin (TU) sowie den Entwicklern des „Hydrotowers” tüftelten Studierende an konkreten Lösungen für städtische Herausforderungen und entwickelten im Rahmen der zehntägigen Summer School innovative Prototypen für eine gesündere Stadt.<br/>Die Studierenden erhielten in diesem Jahr die Möglichkeit, ihre Challenges an verschiedenen Orten in der Stadt anzugehen und sich von unterschiedlichen Umgebungen inspirieren zu lassen. So fand die Auftaktveranstaltung unter freiem Himmel im Kiezlabor statt, gefolgt von weiteren Stationen im GoodLab der Jungen Tüftler:innen, im CityLAB und in der Spore Initiative, wo viel Raum für neue Perspektiven geboten wurde. Welche kreativen Lösungen dabei entstanden sind und wie die Summer School im Freien aussah, erfahrt ihr in unserem Blogbeitrag.",
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
           },
         },
         img: {
-          src: "assets/images/19_Berlin Science Week.jpg",
-          alt: "Eine Rede auf der Berlin Science Week",
-          copyright: "© Falling Walls Foundation",
-          position: "bottom right",
+          src: "assets/images/summer school kiezlabor 2023.jpg",
+          alt: "CityLAB Summer School im Grünen",
+          copyright: "© CityLab",
         },
       },
       {
@@ -658,27 +712,300 @@ const content = {
         text: {
           links: [
             {
-              de: "Zum Blogbeitrag",
+              de: "Zur Anwendung",
               en: "Go to blog post",
               href: {
-                de: `https://citylab-berlin.org/de/blog/unser-besuch-in-der-partnerstadt-jakarta/`,
+                de: `https://www.giessdenkiez.de/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+            {
+              de: "Zur Anleitung",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf`,
                 en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
               },
             },
           ],
           title: {
-            de: "Smart Change Delegationsreise nach Jakarta",
+            de: "School’s out, Summer School’s in",
             en: "Smart Change delegation trip to Jakarta",
           },
           paragraph: {
-            de: "Jakarta und Berlin verbindet eine ganze Menge: Als eine von 17 Städten weltweit gehört die Hauptstadt Indonesiens seit 1994 zu Berlins Partnerstädten. Im Juni 2022 durfte das CityLAB Berlin eine Delegation aus Jakarta und Bangkok im Rahmen des EuropeAid-Projekts Smart Change begrüßen. Zwei Monate später stand der Gegenbesuch in Jakarta an. Die spannendsten Einblicke und Erkenntnisse unserer Reise haben wir für euch festgehalten.",
+            de: `Wer hätte vor drei Jahren gedacht, dass unser erstes Herzensprojekt Gieß den Kiez die Gieß-Community und Stadtbäume auch anderer Städte in Deutschland im Sturm erobern wird? Ob Leipzig, Magdeburg oder Münster – sie alle sind begeistert von Gieß den Kiez und haben die Open Source-Anwendung kurzerhand bei sich umgesetzt. Auch mit den Städten Los Angeles und Paris haben wir bereits intensive Gespräche geführt, da sie ebenfalls über eine Adaption von Gieß den Kiez nachdenken. Um andere Städte bei der Adaption des Projekts zu unterstützen, haben wir unser Wissen und Vorgehen in einer <a href="https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf" target="_blank">neuen Anleitung</a> zusammengetragen – mit herzlicher Einladung zum Nachmachen! Unzählige Zeilen Code, hunderte E-Mails, Präsentationen, regelmäßige Sprints und Austauschformate haben Gieß den Kiez zu dem gemacht, was es heute ist: eine interaktive Plattform, die sich dem Wohle der Stadtbäume und damit auch der grünen Lunge der Stadt verschrieben hat und allein in diesem Jahr über 7.000 Gießungen von rund 2.000 Bäumen verzeichnen konnte. Das alles wäre ohne euch nicht möglich gewesen! Wir sagen danke an jede:n einzelne:n Gießer:in unter Euch und sind gespannt, wohin die Reise noch gehen wird!`,
             en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
           },
         },
         img: {
-          src: "assets/images/20_Jakarta.jpg",
-          alt: "Skyline von Jakarta",
-          copyright: "© Sebastian Strobel",
+          src: "assets/images/Sommerfest_LeipzigMagdeburgBerlin.jpg",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.7",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Podcast",
+              en: "Go to blog post",
+              href: {
+                de: `https://radiocitylab.podigee.io/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "Radio CityLAB Berlin",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Falls Ihr beim Lesen bis hier gemerkt haben solltet, dass ihr doch eher der auditive Typ seid, dann haben wir an dieser Stelle eine erfreuliche Nachricht: es gibt fünf neue Folgen in unserem CityLAB-Podcast zu hören! Darin erfahrt ihr u.a. von Christina Lang, Gründerin und Geschäftsführerin von DigitalService, was die Digitalisierungseinheit des Bundes so macht, welche Anekdoten unsere dienstälteste Kollegin Victoria Boeck aus ihrem Arbeitsalltag teilt und wie die Gründungsgeschichte von CorrelAid mit Frie Preu verlief. Und weil es so schön war, gibt es gleich zwei Sonderfolgen mit den Highlights unseres Sommerfests zum Nachhören. Wir wünschen viel Spaß beim Lauschen, hoffen aber, dass Ihr den Jahresrückblick dennoch bis zum Ende lest!`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/radio citylab podcast.jpg",
+          alt: "Logo of the Podcast Radio CityLAB Berlin",
+          copyright: "© CityLab",
+          fit: "contain",
+        },
+      },
+      {
+        id: "4.8",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Podcast",
+              en: "Go to blog post",
+              href: {
+                de: `https://radiocitylab.podigee.io/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "freemove",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Falls Ihr beim Lesen bis hier gemerkt haben solltet, dass ihr doch eher der auditive Typ seid, dann haben wir an dieser Stelle eine erfreuliche Nachricht: es gibt fünf neue Folgen in unserem CityLAB-Podcast zu hören! Darin erfahrt ihr u.a. von Christina Lang, Gründerin und Geschäftsführerin von DigitalService, was die Digitalisierungseinheit des Bundes so macht, welche Anekdoten unsere dienstälteste Kollegin Victoria Boeck aus ihrem Arbeitsalltag teilt und wie die Gründungsgeschichte von CorrelAid mit Frie Preu verlief. Und weil es so schön war, gibt es gleich zwei Sonderfolgen mit den Highlights unseres Sommerfests zum Nachhören. Wir wünschen viel Spaß beim Lauschen, hoffen aber, dass Ihr den Jahresrückblick dennoch bis zum Ende lest!`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/freemove konferenz citylab berlin jahrersrückblick 2023.jpg",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.9",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: {
+                de: `https://www.technologiestiftung-berlin.de/profil/blog/privacy-mobility-2023-freemove`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+            {
+              de: "Zu freemove",
+              en: "Go to blog post",
+              href: {
+                de: `https://www.freemove.space/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "freemove",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Mobilitätsdaten, Anonymisierung und Privatsphäre – diese Themen lassen sich aus dem öffentlichen Diskurs zur nachhaltigen Mobilitätswende wohl kaum noch wegdenken und stehen auch im Mittelpunkt des transdisziplinären Forschungsprojekts freemove. Gefördert vom Bundesministerium für Bildung und Forschung (BMBF), forschen wir zusammen mit unseren universitären und praktischen Partner:innen seit drei Jahren zu Möglichkeiten der Anonymisierung für Bewegungsdaten. Beim freemove-Symposium „Privacy & Mobility 2023” verbrachten wir mit zahlreichen geladenen Gästen aus der Praxis einen wissensgeladenen und abwechslungsreichen Tag in der Technologiestiftung Berlin. Im Fokus der Veranstaltung stand das Ziel, die Erkenntnisse aus unserer Arbeit für Akteur:innen aufzubereiten, die in ihrem Arbeitsalltag mit ähnlichen Herausforderungen konfrontiert sind und sie zu diskutieren.`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/Sommerfest_LeipzigMagdeburgBerlin.jpg",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "4.10",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/de/blog/die-labissage-neue-exponate-fur-unsere-ausstellung/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+            {
+              de: "Zur Ausstellung",
+              en: "Go to blog post",
+              href: {
+                de: `https://citylab-berlin.org/de/exhibition/`,
+                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+              },
+            },
+          ],
+          title: {
+            de: "LABissage",
+            en: "Smart Change delegation trip to Jakarta",
+          },
+          paragraph: {
+            de: `Was wäre das CityLAB nur ohne seine Ausstellung? Hier kommt alles zusammen, was das CityLAB bewegt und auszeichnet: abgeschlossene Projekte und Prototypen, aktuelle Ideen und Dinge, die uns inspirieren und zum Denken anregen. Bei so vielen wechselnden Exponaten ist es nicht verwunderlich, dass sich unsere interaktive Ausstellung stets in einem neuen Licht präsentiert. Anlass genug, um das mit euch gemeinsam zu feiern – dachten wir uns und ließen die Korken gleich zweimal zum Jahresbeginn und -ende knallen!<br/>Am 23. Februar und 7. Dezember luden wir zur LABissage ein und präsentierten neben sieben neuen Exponaten u.a. auch die Ausstellung der Kunsthochschule Weißensee „Let’s get physical”, unseren neuen Audioguide, unser neu gestaltetes Foyer sowie eine kleine Rundumschau des Kiezlabors`,
+            en: "Jakarta and Berlin have a lot in common: Since 1994, the capital of Indonesia has been one of Berlin’s 17 twin cities worldwide. In June 2022, CityLAB Berlin was pleased to welcome a delegation from Jakarta and Bangkok in connection with the EuropeAid project Smart Change. The return visit to Jakarta was scheduled to take place two months later. We’ve compiled a report for you on the most fascinating insights and findings of our trip.",
+          },
+        },
+        img: {
+          src: "assets/images/LABissage 2023 Citylab.JPG",
+          alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
+          copyright: "© CityLab",
+        },
+      },
+    ],
+  },
+  unterwegs: {
+    id: "5.0",
+    topic: {
+      de: "CityLAB unterwegs",
+      en: "CityLAB on the road",
+    },
+    blocks: {
+      intro: {
+        title: {
+          de: "CityLAB unterwegs",
+          en: "City laboratory with international flair",
+        },
+        text: {
+          de: "Ob im historischen Ambiente eines ehemaligen Flughafens oder auf vier Rädern in einem umgebauten Schiffscontainer – das CityLAB verkörpert einen Ort der Innovation und des regen Austausches, bei dem Mobilität und Weltoffenheit tief in unserer DNA verankert sind. In diesem Jahr waren wir nicht nur Gastgeber spannender Veranstaltungen in unseren eigenen vier Wänden, sondern haben auch zahlreiche Orte besucht, um frische Ideen, neue Perspektiven und inspirierende Impulse zu sammeln.",
+          en: "To see the numerous delegations we welcome to CityLAB, you’d think the former Tempelhof Airport was still up and running: we’ve never had so much international traffic! Constantly keeping our sights set beyond Berlin keeps us on our toes – just what we need to inspire us to achieve new heights. At the same time, we also got out and about a lot ourselves for inspiration and dialog at trade fairs and events. The highlight for us: the numerous conversations we had and the enormous interest in topics such as digitalization, smart city ideas and Berlin’s innovation potential.",
+        },
+      },
+    },
+    items: [
+      {
+        id: "5.1",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Blogbeitrag",
+              en: "Go to blog post",
+              href: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+            },
+            {
+              de: "Zum Talk",
+              en: "Go to blog post",
+              href: "https://www.youtube.com/watch?v=DEQsb7x2gCc",
+            },
+          ],
+          title: {
+            de: "Re:publica",
+            en: "Re:publica",
+          },
+          paragraph: {
+            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica  in diesem Jahr unter dem Motto „CASH” im Festsaal Kreuzberg und der Arena Berlin statt. Um auch für die Besucher:innen auf dem Weg zur re:publica sowie Bewohner:innen der umliegenden Kieze einen Begegnungsraum zu schaffen, haben wir sie vor den Toren der re:publica zu zahlreichen Formaten zum Thema „Was kostet die Stadt?” ins Kiezlabor eingeladen (kostenlos selbstverständlich). Aber auch auf der re:publica selbst waren wir mit spannenden Talks und interaktiven Showcases zum Thema Verwaltungsdigitalisierung, stille Beteiligung und digitale Bürgerservices der Zukunft dabei. Unser Highlight: das Panel unseres Direktors Dr. Benjamin Seibel mit Stephanie Kaiser, Chief Product Officer vom DigitalService des Bundes, auf einer der großen Festivalbühnen.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/Citylab republica talk.jpg",
+          alt: "CityLAB-Stand bei der Republica",
+          copyright: "© CityLab",
+        },
+      },
+      {
+        id: "5.2",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Programm",
+              en: "Go to blog post",
+              href: "https://citylab-berlin.org/de/events/creative-bureaucracy-festival/",
+            },
+          ],
+          title: {
+            de: "Creative Bureaucracy Festival",
+            en: "Re:publica",
+          },
+          paragraph: {
+            de: "Als Festival für die digitale Gesellschaft und die größte Konferenz ihrer Art in Europa fand die re:publica  in diesem Jahr unter dem Motto „CASH” im Festsaal Kreuzberg und der Arena Berlin statt. Um auch für die Besucher:innen auf dem Weg zur re:publica sowie Bewohner:innen der umliegenden Kieze einen Begegnungsraum zu schaffen, haben wir sie vor den Toren der re:publica zu zahlreichen Formaten zum Thema „Was kostet die Stadt?” ins Kiezlabor eingeladen (kostenlos selbstverständlich). Aber auch auf der re:publica selbst waren wir mit spannenden Talks und interaktiven Showcases zum Thema Verwaltungsdigitalisierung, stille Beteiligung und digitale Bürgerservices der Zukunft dabei. Unser Highlight: das Panel unseres Direktors Dr. Benjamin Seibel mit Stephanie Kaiser, Chief Product Officer vom DigitalService des Bundes, auf einer der großen Festivalbühnen.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/anne kruse_gdb_creative bureaucracy festival.jpg",
+          alt: "Anna Kruse spricht auf dem Creative Bureaucracy Festival",
+          copyright: "© Creative Bureaucracy Festival",
+        },
+      },
+      {
+        id: "5.3",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [
+            {
+              de: "Zum Programm",
+              en: "Go to blog post",
+              href: "https://citylab-berlin.org/de/events/citylab-smart-county-convention/",
+            },
+          ],
+          title: {
+            de: "Smart Country Convention (SCCON)",
+            en: "Smart Country Convention (SCCON)",
+          },
+          paragraph: {
+            de: "Auch in diesem Jahr fand die Smart Country Convention unter dem Motto „Stadt.Land.Tech” auf dem Messegelände Berlin im hub27 statt. Als Teil des Berliner Gemeinschaftsstands mit der Senatskanzlei Berlin war auch das CityLAB wieder vertreten und bot spannende Einblicke in die Arbeit eines Innovationslabors – ob erste Erfahrungen aus dem Kiezlabor oder Learnings aus der Strategie Gemeinsam Digital: Berlin.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/Benjamin Seibel_BP_SCC_081123-Berlin Partner  eventfotografen.com_1.jpg",
+          alt: "Benjamin Seibel spricht auf der Smart Country Convention",
+          copyright: "© Berlin Partner",
+        },
+      },
+      {
+        id: "5.4",
+        theme: "light",
+        align: "left",
+        text: {
+          links: [],
+          title: {
+            de: "Auf Delegationsreise in Seoul",
+            en: "Smart Country Convention (SCCON)",
+          },
+          paragraph: {
+            de: "Ein ganz besonderes Highlight war in diesem Jahr die Einladung auf das IFEZ Smart City Symposium in Südkorea, wo wir als Teil einer einwöchigen Delegationsreise die Arbeit des CityLAB im Bereich digitaler Teilhabe sowie an der Strategie Gemeinsam Digital: Berlin präsentieren durften. Gemeinsam mit der Berliner Senatskanzlei, der Senatsverwaltung für Wirtschaft und weiteren Berliner Innovations-Akteuren waren wir in Seoul und Incheon unterwegs, haben die berühmt-berüchtigte Smart City-Planstadt Songdo besucht und das koreanische Startup-Ökosystem kennengelernt. Ein für beide Seiten bereichernder Austausch, der nach Fortsetzung ruft. Und ein stattliches Korean BBQ haben wir uns natürlich auch gegönnt.",
+            en: "As a festival for digital society and the largest conference of its kind in Europe, re:publica finally took place on an in-person basis again this year – and there was no way CityLAB was going to miss out on it of course! Together with the Berlin Senate Chancellery, we took the opportunity to present the strategy Gemeinsam Digital: Berlin and the team behind it. In addition to our evening networking event, our sensor workshop offered another highlight at re:publica: here our prototyping team demonstrated how to use sensors to capture, share, and visualize data to gain a better understanding of city life.",
+          },
+        },
+        img: {
+          src: "assets/images/Benamin Seibel_Delegationsreise Seoul.JPG",
+          alt: "Smart City Symposium in Südkorea",
+          copyright: "© CityLab",
         },
       },
     ],
@@ -689,13 +1016,50 @@ const content = {
       en: "Final greetings",
     },
     blocks: {
+      press: {
+        title: {
+          de: "Das CityLAB in der Presse",
+          en: "Final greetings",
+        },
+        text: {
+          de: "In diesem Jahr durften wir uns über besonders viele Medienberichte freuen, die unsere Arbeit und Wirkung für und in Berlin in den Fokus rückten. Eine Auswahl möchten wir hier mit Euch teilen.",
+          en: "For those of you who have made it this far: Thank you for not only sticking it out while scrolling, but also for accompanying us over the past 12 months! Because what would CityLAB be without you – an experiment without experimenters, a lab without an experimental setup, a tool without...? In any case, we look forward to filling the new year together with you – whether with exciting content, fun conversations or inspiring events!",
+        },
+        links: [
+          {
+            de: "Behörden Spiegel:  Mehr als eine Projektliste: Berlins neue Digitalstrategie, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, Printausgabe Februar 2023",
+            en: "Behörden Spiegel:  Mehr als eine Projektliste: Berlins neue Digitalstrategie, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, Printausgabe Februar 2023",
+            href: "https://issuu.com/behoerden_spiegel/docs/2023_februar/20",
+          },
+          {
+            de: "kommune21: Mehr Zeit für Termine, Geringere Wartezeiten und mehr Termine in Berliner Bürgerämtern – so lautet das Ziel für ein neues Check-in-System, das vom CityLAB Berlin im Amt für Bürgerdienste des Bezirks Friedrichshain-Kreuzberg getestet wurde, 17.07.2023",
+            en: "kommune21: Mehr Zeit für Termine, Geringere Wartezeiten und mehr Termine in Berliner Bürgerämtern – so lautet das Ziel für ein neues Check-in-System, das vom CityLAB Berlin im Amt für Bürgerdienste des Bezirks Friedrichshain-Kreuzberg getestet wurde, 17.07.2023",
+            href: "https://www.kommune21.de/meldung_41701_Mehr+Zeit+für+Termine+.html",
+          },
+          {
+            de: "Tagesspiegel online: Gespräche mit einer Berliner Currywurst: Das CityLab Berlin präsentiert KI zum Anfassen, 02.08.2023",
+            en: "Tagesspiegel online: Gespräche mit einer Berliner Currywurst: Das CityLab Berlin präsentiert KI zum Anfassen, 02.08.2023",
+            href: "https://www.tagesspiegel.de/wissen/gesprache-mit-einer-berliner-currywurst-das-citylab-berlin-prasentiert-ki-zum-anfassen-10237546.html",
+          },
+          {
+            de: "eGovernment: Kiezlabor: ein offener Ort für Bürger und Verwaltung, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, 31.08.2023",
+            en: "eGovernment: Kiezlabor: ein offener Ort für Bürger und Verwaltung, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, 31.08.2023",
+            href: "https://www.egovernment.de/kiezlabor-ein-offener-ort-fuer-buerger-und-verwaltung-a-ee62f2d7bd652cee6e3957e03000f94d/",
+          },
+          {
+            de: "demo: Wie KI in der Bürgerbeteiligung eingesetzt wird, 01.11.2023",
+            en: "demo: Wie KI in der Bürgerbeteiligung eingesetzt wird, 01.11.2023",
+            href: "https://www.demo-online.de/artikel/ki-buergerbeteiligung-eingesetzt",
+          },
+        ],
+      },
       intro: {
         title: {
           de: "Schlusssatz",
           en: "Final greetings",
         },
         text: {
-          de: "Für diejenigen, die es bis hier geschafft haben: Danke, dass ihr nicht nur beim Scrollen durchgehalten habt, sondern uns auch über die letzten 12 Monate hinweg begleitet habt! Denn was wäre das CityLAB ohne euch – ein Experiment ohne Experimentierende, ein Labor ohne Versuchsanordnung, ein Werkzeug ohne…? Wir freuen uns in jedem Fall darauf, auch das neue Jahr mit euch gemeinsam zu füllen – ob mit spannenden Inhalten, lustigen Gesprächen oder inspirierenden Veranstaltungen!",
+          de: "Es ist geschafft! Wir blicken zurück auf ein Jahr voller Highlights und spannenden Entwicklungen, Umsetzungen und Gesprächen und sagen danke an alle, die mit uns zusammen an der Zukunft der Stadt Berlin experimentiert haben! Danke, dass ihr Euch angesichts der kleineren und größeren Herausforderungen in der Stadt nicht entmutigen oder verunsichern, sondern ganz im Gegenteil inspirieren lassen habt, mit uns weiterzumachen! Denn wie heißt es so schön: hinter jeder Herausforderung steckt auch eine Chance, zu wachsen. Möge uns das neue Jahr in diesem Sinne vor die richtigen Herausforderungen stellen und die Gelegenheit bieten, die wichtigen Fragen zu stellen und uns zum Wohle der Stadt und seiner Bewohner:innen als ein Ort der Innovation und Transformation weiterzuentwickeln.",
           en: "For those of you who have made it this far: Thank you for not only sticking it out while scrolling, but also for accompanying us over the past 12 months! Because what would CityLAB be without you – an experiment without experimenters, a lab without an experimental setup, a tool without...? In any case, we look forward to filling the new year together with you – whether with exciting content, fun conversations or inspiring events!",
         },
       },
@@ -703,17 +1067,21 @@ const content = {
     paragraphs: [
       {
         title: {
-          de: "Newsletter",
+          de: "In Kontakt bleiben",
           en: "Newsletter",
         },
         text: {
-          de: "Wir freuen uns, wenn ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir euch brandheiße Neuigkeiten aus dem CityLAB, direkt in euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt ihr stets informiert.",
+          de: "Wir freuen uns, wenn Ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir Euch Neuigkeiten aus dem CityLAB, direkt in Euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt Ihr stets informiert.",
           en: "You would like some more of this? Once a month, we'll deliver fresh news from CityLAB directly to your email inbox. Whether events, projects or background information – with our newsletter you will always be informed.",
         },
         link: {
           de: "Newsletter abonnieren",
           en: "Subscribe to Newsletter",
-          href: "https://citylab-berlin.org/de/start#n2g_form",
+          href: "https://citylab-berlin.org/de/newsletter/",
+        },
+        social: {
+          de: "Auf unseren Social Media-Kanälen <a href='https://www.instagram.com/citylabbln/' target='_blanc'>Instagram</a>, <a href='https://twitter.com/citylabberlin' target='_blanc'>X</a> und <a href='https://mastodontech.de/@citylabberlin' target='_blanc'>Mastodon</a> teilen wir tagesaktuelle Einblicke mit Euch – also folgt uns, wenn Ihr hinter die Kulissen des CityLAB blicken möchtet.",
+          en: "Social networks",
         },
       },
     ],

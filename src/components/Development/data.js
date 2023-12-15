@@ -1,23 +1,23 @@
 import { ReactComponent as BildungIcon } from "../../icons/Nav-Icon-Bildung.svg";
-import { ReactComponent as SmartCityIcon } from "../../icons/Nav-Icon-SmartCity.svg";
-import { ReactComponent as PrototypingIcon } from "../../icons/Nav-Icon-Prototyping.svg";
+import { ReactComponent as KiezlaborIcon } from "../../icons/Nav-Icon-Kiezlabor.svg";
 import { ReactComponent as VerwaltungIcon } from "../../icons/Nav-Icon-Verwaltung.svg";
-import { ReactComponent as UnterwegsIcon } from "../../icons/Nav-Icon-Unterwegs.svg";
+import { ReactComponent as GemeinsamDigitalIcon } from "../../icons/Nav-Icon-GemeinsamDigital.svg";
+import { ReactComponent as StadtUndWirIcon } from "../../icons/Nav-Icon-StadtUndWir.svg";
 
 const slideWidth = 317;
 const iconWidthPlusGap = 64.5;
 
 export const departmentList = [
-  "smartCity",
-  "verwaltung",
+  "kiezlabor",
+  "gemeinsamDigital",
   "bildung",
-  "unterwegs",
-  "prototyping",
+  "stadtUndWir",
+  "verwaltung",
 ];
 
 export const departments = {
-  smartCity: {
-    component: <SmartCityIcon />,
+  kiezlabor: {
+    component: <KiezlaborIcon />,
     label: "Smart City",
     navOffset: 0,
     slideOffset: 0,
@@ -47,8 +47,8 @@ export const departments = {
       ],
     },
   },
-  verwaltung: {
-    component: <VerwaltungIcon />,
+  gemeinsamDigital: {
+    component: <GemeinsamDigitalIcon />,
     label: "Neue Technologien",
     navOffset: iconWidthPlusGap,
     slideOffset: -slideWidth,
@@ -93,8 +93,8 @@ export const departments = {
       2021: ["Offene Werkstatt im CityLAB Berlin", "Hacking Box", "EduTechMap"],
     },
   },
-  unterwegs: {
-    component: <UnterwegsIcon />,
+  stadtUndWir: {
+    component: <StadtUndWirIcon />,
     label: "Unterwegs",
     navOffset: iconWidthPlusGap * 3,
     slideOffset: -slideWidth * 3,
@@ -107,8 +107,8 @@ export const departments = {
       2021: ["unterwegsdaten.berlin", "unterwegsBdigital"],
     },
   },
-  prototyping: {
-    component: <PrototypingIcon />,
+  verwaltung: {
+    component: <VerwaltungIcon />,
     label: "Prototyping",
     navOffset: iconWidthPlusGap * 4,
     slideOffset: -slideWidth * 4,
