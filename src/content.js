@@ -799,7 +799,7 @@ const content = {
           },
         },
         img: {
-          src: "assets/images/freemove abschlusspräsentation_Theresa_Stadlerjpg.jpg",
+          src: "assets/images/freemove konferenz citylab berlin jahrersrückblick 2023.jpg",
           alt: "Das Kiezlabor präsenteirt Gieß de Kiez",
           copyright: "© CityLab",
         },
