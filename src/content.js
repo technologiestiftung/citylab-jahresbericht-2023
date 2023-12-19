@@ -38,7 +38,7 @@ const content = {
         },
         text: {
           de: "Das Jahr 2023 stand im CityLAB-Kalender ganz im Zeichen eines besonderen Ereignisses, das wohl einen eigenen Jahresrückblick verdient hätte: der Eröffnung unseres <i>Kiezlabors</i>! Das <i>Kiezlabor</i> ist ein Projekt, das vom CityLAB im Rahmen der Strategie <i>Gemeinsam Digital: Berlin</i> umgesetzt wird. Unter dem Motto „Ohne Dich sind wir nur ein Container“ zauberten wir aus einem alten Schiffscontainer ein energieautarkes Tiny House. Der Plan? Unseren prototypischen Ansatz zusammen mit Euch in die Berliner Kieze bringen!",
-          en: `The 2023 CityLAB calendar was dominated by a special event that probably deserves an annual review of its own: the opening of our <i>Kiezlabor</i>! The <i>Kiezlabor</i> is a project that’s being run by CityLAB as part of the strategy Gemeinsam Digital: Berlin. Under the motto “Without you, we’re just a container”, we turned an old shipping container into an energy-self-sufficient Tiny House. The plan? To get together with you to take our prototypical approach out into Berlin’s neighborhoods! `,
+          en: `The 2023 CityLAB calendar was dominated by a special event that probably deserves an annual review of its own: the opening of our <i>Kiezlabor</i>! The <i>Kiezlabor</i> is a project that’s being run by CityLAB as part of the strategy Gemeinsam Digital: Berlin. Under the motto “Without you, we’re just a container”, we turned an old shipping container into an energy-self-sufficient Tiny House. The plan? Bringing our prototypical approach into the neighborhoods of Berlin together with you!`,
         },
       },
     },
@@ -64,7 +64,7 @@ const content = {
           },
           paragraph: {
             de: `Unsere Kieztour durch Berlin startete vom 05.06. bis 15.06. mit der Vorstellung des <i>Kiezlabors</i>-Teams als Beta-Version auf der re:publica 2023, bereit für den ersten Test in freier Wildbahn. In Anlehnung an das diesjährige Motto der re:publica „CASH” stellte unser <i>Kiezlabor</i>-Team die Frage „Was kostet die Stadt?“ und machte sich auf die Suche nach Antworten – zusammen mit vielen spannenden Gästen, die den Kick-off des <i>Kiezlabors</i> mit uns gemeinsam zelebrierten.`,
-            en: `Our neighborhood tour through Berlin started in the period June 5 to 15 with the presentation of the <i>Kiezlabor</i> as a beta version at re:publica 2023, so as to get it ready for its first test in the wild. In keeping with this year’s <i>re:publica</i> motto “CASH”, our <i>Kiezlabor</i> team asked the question “What does the city cost?” and set out in search of answers – together with lots of fascinating guests who joined us for the kick-off of the <i>Kiezlabor</i>.`,
+            en: `Our neighborhood tour through Berlin kicked off from June 5th to June 15th with the introduction of the Kiezlabor team as a beta version at re:publica 2023, ready for the first test in the wild. In line with this year’s re:publica motto “CASH”, our <i>Kiezlabor</i> team posed the question “What does the city cost?” and embarked on a quest for answers – alongside many exciting guests who celebrated the kick-off of the <i>Kiezlabor</i> with us.`,
           },
         },
         img: {
@@ -124,7 +124,7 @@ const content = {
           },
           paragraph: {
             de: `Ein Besuch im Heimatbezirk des CityLAB Tempelhof-Schöneberg durfte auf der Liste der <i>Kiezlabor</i>-Standorte natürlich nicht fehlen: Auf der über 300 Hektar großen Fläche mitten in der Stadt zählt das Tempelhofer Feld schließlich nicht nur zu einem der beliebtesten Naherholungsgebiete in ganz Berlin, sondern bietet auch viel Platz für Austausch, Partizipation und Unterhaltung unter freiem Himmel. Vom 17.08. bis 27.08. lud das <i>Kiezlabor</i> zu einem vielfältigen Programm rund um die Herausforderungen des Klimawandels für den urbanen Raum ein – mit Erfrischung für Mensch und Natur inklusive!`,
-            en: `A visit to the home district of CityLAB – Tempelhof-Schöneberg – was an absolute must on the list of <i>Kiezlabor</i> locations: covering a surface area of more than 300 hectares at the heart of the city, Tempelhofer Feld is not only one of the most popular recreational areas in the whole of Berlin, it also offers plenty of space for open-air dialog, participation and entertainment. From August 17 to 27 the <i>Kiezlabor</i> hosted a varied program of activities on the challenges of climate change facing urban areas – complete with refreshments for both people and nature!`,
+            en: `A visit to the home district of CityLAB – Tempelhof-Schöneberg – was an absolute must on the list of <i>Kiezlabor</i> locations: covering a surface area of more than 300 hectares at the heart of the city, Tempelhofer Feld is not only one of the most popular recreational areas in the whole of Berlin, it also offers plenty of space for open-air dialog, participation and entertainment. From August 17 to 27, the <i>Kiezlabor</i> hosted a varied program of activities on the challenges of climate change facing urban areas – with refreshments for both people and nature!`,
           },
         },
         img: {
@@ -155,7 +155,7 @@ const content = {
           },
           paragraph: {
             de: `Im September ging es weiter in den benachbarten Graefekiez, wo kreative Workshops, eine interaktive Ausstellung sowie ein vielseitiger Austausch zum Thema „Platz in der Stadt“ mit Kiezbewohner:innen und Passant:innen stattfanden. Neben vielen großen und kleinen Besucher:innen sowie der Berliner Chief Digital Officer Martina Klement empfing das <i>Kiezlabor</i> u.a. auch das Ausbildungsbürgeramt Friedrichshain-Kreuzberg als Gast, das seine Dienstleistungen gleich an vier Tagen im <i>Kiezlabor</i> anbot und damit so manche Kiezbewohner:innen mit kurzfristigen Terminen vor der Haustür beglückte.`,
-            en: `In September, we moved on to the neighboring district of Graefekiez, where we put on creative workshops, an interactive exhibition and a diverse dialog on the topic of “space in the city” with district residents and passers-by. In addition to lots of visitors, both young and old, and Berlin’s Chief Digital Officer Martina Klement, the <i>Kiezlabor</i> also welcomed Friedrichshain-Kreuzberg citizen center training department as a guest: this public administration department was able to offer its services on four days at the <i>Kiezlabor</i>, delighting many a neighborhood resident by enabling spontaneous appointments on their doorstep.`,
+            en: `In September, we moved on to the neighboring district of Graefekiez, where we put on creative workshops, an interactive exhibition and a diverse dialog on the topic of “space in the city” with district residents and passers-by. In addition to lots of visitors, both young and old, and Berlin’s Chief Digital Officer Martina Klement, the <i>Kiezlabor</i> also welcomed Friedrichshain-Kreuzberg citizen center training department as a guest: the office offered its services for four days at the <i>Kiezlabor</i>, providing many local residents with convenient, last-minute appointments right at their doorstep.`,
           },
         },
         img: {
@@ -377,7 +377,7 @@ const content = {
           },
           paragraph: {
             de: "In Zusammenarbeit mit der <i>Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (SenWGP)</i> entwickelte das CityLAB in diesem Jahr eine digitale Plattform mit dem Ziel, Menschen in problematischen Lebenssituationen mit so wenig Klicks wie nötig zu helfen, passende Ansprechpartner:innen zu finden. Entstanden ist der digitale Wegweiser <i>Hilf-Mir.Berlin</i> der erstmals eine barrierearme und übersichtliche Darstellung von über 230 Beratungseinrichtungen bietet und sich nach verschiedenen Themen-Schlagworten filtern lässt. Wir finden: ein gelungenes Beispiel, das zeigt, dass die Digitalisierung auch wichtige Themen wie die psychosoziale Gesundheit in unserer Gesellschaft nicht ausklammert!",
-            en: "In cooperation with the <i>Senate Department for Science, Health and Care (SenWGP)</i>, CityLAB developed a digital platform this year with the aim of helping people in problematic life situations to find suitable contacts with as few clicks as necessary. The result is the digital guide <i>Hilf-Mir.Berlin</i>: for the first time, this offers clearly presented, barrier-free details of over 230 counseling services which will be filtered based on various keywords. We believe this is a successful example that demonstrates how digitalization does not exclude key issues such as psychosocial health in our society!",
+            en: "In cooperation with the <i>Senate Department for Science, Health and Care (SenWGP)</i>, CityLAB developed a digital platform this year with the aim of helping people in problematic life situations to find suitable contacts with as few clicks as necessary. The result is the digital guide <i>Hilf-Mir.Berlin</i>, which provides a barrier-free and clear presentation of over 230 counseling facilities for the first time and can be filtered by various thematic keywords. We believe this is a successful example that demonstrates how digitalization does not exclude key issues such as psychosocial health in our society!",
           },
         },
         img: {
@@ -407,7 +407,7 @@ const content = {
           },
           paragraph: {
             de: "Anknüpfend an die gelungene Zusammenarbeit mit dem Bürgeramt Friedrichshain-Kreuzberg in 2022 haben wir auch in diesem Jahr unsere Arbeit im Rahmen des Projekts <i>Bürgeramt der Zukunft</i> fortgesetzt. Die durchgeführten Prototypentests stellten dabei erfolgreich unter Beweis, dass ein effizienterer Ablauf in Bürgerämtern mit dem entwickelten Check-In-System ermöglicht werden konnte. Wir können daher mit Stolz sagen, dass aktuell die technische Machbarkeit einer Integration des Check-In-Systems in die bestehende IT-Infrastruktur der Bürgerämter eruiert wird. Für uns aber noch kein Grund, den Stift fallen zu lassen: aktuell arbeiten wir nämlich daran, auch die Anzahl von abgebrochenen Dienstleistungen in den Bürgerämtern zu reduzieren. Wie es damit weitergeht und welche spannenden Daten wir erhoben haben, erfährt Ihr im kommenden Jahr!",
-            en: "Following on from our successful collaboration with Friedrichshain-Kreuzberg Citizen Center in 2022, we continued our work this year in connection with the project <i>Citizen Center of the Future</i>. The successful prototype tests demonstrated that the check-in system that was developed can enable more efficient processes at citizen centers. We can therefore proudly announce that the technical feasibility of integrating the check-in system in the existing IT infrastructure at citizen centers is currently being investigated. But that’s no reason for us to take a break: we’re currently working on reducing the number of canceled services at citizen centers. In the coming year you’ll find out what happens next and what intriguing data we’ve managed to collect!",
+            en: "Following on from our successful collaboration with Friedrichshain-Kreuzberg Citizen Center in 2022, we continued our work this year in connection with the project <i>Citizen Center of the Future</i>. The conducted prototype tests successfully demonstrated that a more efficient process in citizen’s offices could be achieved with the developed check-In system. We can therefore proudly announce that the technical feasibility of integrating the check-in system in the existing IT infrastructure at citizen centers is currently being investigated. But that’s no reason for us to take a break: we’re currently working on reducing the number of canceled services at citizen centers. In the coming year you’ll find out what happens next and what intriguing data we’ve managed to collect!",
           },
         },
         img: {
@@ -666,7 +666,7 @@ const content = {
               en: "To the website (GER only)",
               href: {
                 de: `https://energiecheckpoint.odis-berlin.de/`,
-                en: "https://citylab-berlin.org/en/events/smart-city-expo-world-congress-barcelona-2022/",
+                en: "https://energiecheckpoint.odis-berlin.de/",
               },
             },
           ],
@@ -787,7 +787,7 @@ const content = {
           links: [
             {
               de: "Zum Podcast",
-              en: "To the podcast",
+              en: "To the podcast (GER only)",
               href: `https://radiocitylab.podigee.io/`,
             },
           ],
@@ -1031,27 +1031,27 @@ const content = {
         links: [
           {
             de: "Behörden Spiegel:  Mehr als eine Projektliste: Berlins neue Digitalstrategie, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, Printausgabe Februar 2023",
-            en: "Behörden Spiegel:  Mehr als eine Projektliste: Berlins neue Digitalstrategie, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, Printausgabe Februar 2023",
+            en: "Behörden Spiegel:  More than a list of projects: Berlin's new digital strategy, interview with CityLAB Director Dr. Benjamin Seibel, print edition February 2023",
             href: "https://issuu.com/behoerden_spiegel/docs/2023_februar/20",
           },
           {
             de: "kommune21: Mehr Zeit für Termine, Geringere Wartezeiten und mehr Termine in Berliner Bürgerämtern – so lautet das Ziel für ein neues Check-in-System, das vom CityLAB Berlin im Amt für Bürgerdienste des Bezirks Friedrichshain-Kreuzberg getestet wurde, 17.07.2023",
-            en: "kommune21: Mehr Zeit für Termine, Geringere Wartezeiten und mehr Termine in Berliner Bürgerämtern – so lautet das Ziel für ein neues Check-in-System, das vom CityLAB Berlin im Amt für Bürgerdienste des Bezirks Friedrichshain-Kreuzberg getestet wurde, 17.07.2023",
+            en: "kommune 21: More time for appointments and shorter waiting times in Berlin's citizens' offices - this is the aim of a new check-in system developed by the CityLAB Berlin at the Friedrichshain-Kreuzberg district's Office for Citizen Services, 17.07.2023",
             href: "https://www.kommune21.de/meldung_41701_Mehr+Zeit+für+Termine+.html",
           },
           {
             de: "Tagesspiegel online: Gespräche mit einer Berliner Currywurst: Das CityLab Berlin präsentiert KI zum Anfassen, 02.08.2023",
-            en: "Tagesspiegel online: Gespräche mit einer Berliner Currywurst: Das CityLab Berlin präsentiert KI zum Anfassen, 02.08.2023",
+            en: "Tagesspiegel online: Conversations with a Berlin currywurst: CityLab Berlin presents AI you can touch, 02.08.2023",
             href: "https://www.tagesspiegel.de/wissen/gesprache-mit-einer-berliner-currywurst-das-citylab-berlin-prasentiert-ki-zum-anfassen-10237546.html",
           },
           {
             de: "eGovernment: Kiezlabor: ein offener Ort für Bürger und Verwaltung, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, 31.08.2023",
-            en: "eGovernment: Kiezlabor: ein offener Ort für Bürger und Verwaltung, Interview mit CityLAB-Direktor Dr. Benjamin Seibel, 31.08.2023",
+            en: "eGovernment: Kiezlabor: an open place for citizens and administration, interview with CityLAB Director Dr. Benjamin Seibel, 31.08.2023",
             href: "https://www.egovernment.de/kiezlabor-ein-offener-ort-fuer-buerger-und-verwaltung-a-ee62f2d7bd652cee6e3957e03000f94d/",
           },
           {
             de: "demo: Wie KI in der Bürgerbeteiligung eingesetzt wird, 01.11.2023",
-            en: "demo: Wie KI in der Bürgerbeteiligung eingesetzt wird, 01.11.2023",
+            en: "demo: How AI is used in citizen participation, 01.11.2023",
             href: "https://www.demo-online.de/artikel/ki-buergerbeteiligung-eingesetzt",
           },
         ],
@@ -1071,7 +1071,7 @@ const content = {
       {
         title: {
           de: "In Kontakt bleiben",
-          en: "Stay in contact",
+          en: "Stay in touch",
         },
         text: {
           de: "Wir freuen uns, wenn Ihr auf dem Laufenden bleiben möchtet: Einmal im Monat liefern wir Euch Neuigkeiten aus dem CityLAB, direkt in Euer E-Mail-Postfach. Ob Veranstaltungen, Projekte oder Hintergrundinformationen – mit unserem Newsletter bleibt Ihr stets informiert.",
@@ -1080,7 +1080,10 @@ const content = {
         link: {
           de: "Newsletter abonnieren",
           en: "Subscribe to Newsletter",
-          href: "https://citylab-berlin.org/de/newsletter/",
+          href: {
+            de: `https://citylab-berlin.org/de/newsletter/`,
+            en: "https://citylab-berlin.org/en/newsletter/",
+          },
         },
         social: {
           de: "Auf unseren Social Media-Kanälen <a href='https://www.instagram.com/citylabbln/' target='_blanc'>Instagram</a>, <a href='https://twitter.com/citylabberlin' target='_blanc'>X</a> und <a href='https://mastodontech.de/@citylabberlin' target='_blanc'>Mastodon</a> teilen wir tagesaktuelle Einblicke mit Euch – also folgt uns, wenn Ihr hinter die Kulissen des CityLAB blicken möchtet.",
