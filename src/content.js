@@ -54,7 +54,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
-                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/en/blog/highlights-of-our-kiezlabor-test-at-republica-2023/",
               },
             },
           ],
@@ -84,7 +84,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
-                en: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+                en: "https://citylab-berlin.org/en/blog/citylab-sommerfest-2023-recap/",
               },
             },
           ],
@@ -114,7 +114,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/klima-in-der-stadt-kiezlabor-tempelhofer-feld/",
-                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/en/blog/climate-in-the-city-the-kiezlabor-on-tempelhofer-feld/",
               },
             },
           ],
@@ -145,7 +145,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/platz-in-der-stadt-unser-kiezlabor-im-graefekiez/",
-                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/en/blog/space-in-the-city-our-kiezlabor-in-graefekiez/",
               },
             },
           ],
@@ -176,7 +176,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/macht-platz-hier-kommt-das-kiezlabor/",
-                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/en/blog/step-aside-here-comes-the-kiezlabor/",
               },
             },
           ],
@@ -207,7 +207,7 @@ const content = {
               en: "To Kiezlabor",
               href: {
                 de: "https://citylab-berlin.org/de/projects/kiezlabor/",
-                en: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+                en: "https://citylab-berlin.org/en/projects/kiezlabor/",
               },
             },
           ],
@@ -259,7 +259,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/jahreskonferenz-gemeinsam-digital-berlin-2023/",
-                en: "https://citylab-berlin.org/en/blog/the-citizen-center-of-the-future-part-1/",
+                en: "https://citylab-berlin.org/en/blog/this-was-the-first-annual-conference-together-digital-berlin-at-the-rotes-rathaus/",
               },
             },
           ],
@@ -290,7 +290,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/so-unterstuetzen-wir-die-massnahmen-teams-bei-der-umsetzung-der-strategie-gemeinsam-digital-berlin/",
-                en: "https://citylab-berlin.org/en/blog/a-look-into-berlins-coffers/",
+                en: "https://citylab-berlin.org/en/blog/in-this-way-we-are-supporting-the-action-teams-in-implementing-the-gemeinsam-digital-berlin-strategy/",
               },
             },
           ],
@@ -397,7 +397,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: "https://citylab-berlin.org/de/blog/das-burgeramt-der-zukunft-teil-2/",
-                en: "https://qtrees.ai/en/",
+                en: "https://citylab-berlin.org/en/blog/the-buergeramt-of-the-future-part-2/",
               },
             },
           ],
@@ -556,7 +556,10 @@ const content = {
             {
               de: "Zum Blogbeitrag",
               en: "To the blog",
-              href: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+              href: {
+                de: "https://citylab-berlin.org/de/blog/citylab-sommerfest-2023-recap/",
+                en: "https://citylab-berlin.org/en/blog/citylab-sommerfest-2023-recap/",
+              },
             },
             {
               de: "Zu allen Talks der Hauptbühne",
@@ -565,7 +568,7 @@ const content = {
             },
             {
               de: "Zum Podcast",
-              en: "To the podcast",
+              en: "To the podcast (GER only)",
               href: "https://radiocitylab.podigee.io/episodes",
             },
           ],
@@ -598,7 +601,10 @@ const content = {
             {
               de: "Zur Ausstellung",
               en: "To the exhibition",
-              href: `https://citylab-berlin.org/de/exhibition/`,
+              href: {
+                de: "https://citylab-berlin.org/de/exhibition/",
+                en: "https://citylab-berlin.org/en/exhibition/",
+              },
             },
           ],
           title: {
@@ -722,7 +728,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: `https://citylab-berlin.org/de/blog/summer-school-2023-prototyping-fur-die-gesunde-stadt/`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+                en: "https://citylab-berlin.org/en/blog/prototyping-a-healthy-city/",
               },
             },
           ],
@@ -755,10 +761,7 @@ const content = {
             {
               de: "Zur Anleitung",
               en: "To the instructions (GER only)",
-              href: {
-                de: `https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
-              },
+              href: `https://citylab-berlin.org/wp-content/uploads/2019/06/Giess-den-Kiez-Anleitung-Checkliste-Retrospektive.pdf`,
             },
           ],
           title: {
@@ -785,10 +788,7 @@ const content = {
             {
               de: "Zum Podcast",
               en: "To the podcast",
-              href: {
-                de: `https://radiocitylab.podigee.io/`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
-              },
+              href: `https://radiocitylab.podigee.io/`,
             },
           ],
           title: {
@@ -815,11 +815,8 @@ const content = {
           links: [
             {
               de: "Zum Blogbeitrag",
-              en: "To the blog",
-              href: {
-                de: `https://www.technologiestiftung-berlin.de/profil/blog/privacy-mobility-2023-freemove`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
-              },
+              en: "To the blog (GER only)",
+              href: `https://www.technologiestiftung-berlin.de/profil/blog/privacy-mobility-2023-freemove`,
             },
             {
               de: "Zu freemove",
@@ -856,7 +853,7 @@ const content = {
               en: "To the blog",
               href: {
                 de: `https://citylab-berlin.org/de/blog/die-labissage-neue-exponate-fur-unsere-ausstellung/`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+                en: "https://citylab-berlin.org/en/blog/the-labissage-new-exhibits-for-our-exhibition/",
               },
             },
             {
@@ -864,7 +861,7 @@ const content = {
               en: "To the exhibition",
               href: {
                 de: `https://citylab-berlin.org/de/exhibition/`,
-                en: "https://citylab-berlin.org/en/blog/our-visit-to-the-twin-city-of-jakarta/",
+                en: "https://citylab-berlin.org/en/exhibition/",
               },
             },
           ],
@@ -895,7 +892,7 @@ const content = {
       intro: {
         title: {
           de: "CityLAB unterwegs",
-          en: "CityLAB on the roa",
+          en: "CityLAB on the road",
         },
         text: {
           de: "Ob im historischen Ambiente eines ehemaligen Flughafens oder auf vier Rädern in einem umgebauten Schiffscontainer – das CityLAB verkörpert einen Ort der Innovation und des regen Austausches, bei dem Mobilität und Weltoffenheit tief in unserer DNA verankert sind. In diesem Jahr waren wir nicht nur Gastgeber spannender Veranstaltungen in unseren eigenen vier Wänden, sondern haben auch zahlreiche Orte besucht, um frische Ideen, neue Perspektiven und inspirierende Impulse zu sammeln.",
@@ -913,7 +910,10 @@ const content = {
             {
               de: "Zum Blogbeitrag",
               en: "Go to blog post",
-              href: "https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/",
+              href: {
+                de: `https://citylab-berlin.org/de/blog/hoehepunkte-unseres-kiezlabor-tests-auf-der-republica-2023/`,
+                en: "https://citylab-berlin.org/en/blog/highlights-of-our-kiezlabor-test-at-republica-2023/",
+              },
             },
             {
               de: "Zum Talk",
@@ -1026,7 +1026,7 @@ const content = {
         },
         text: {
           de: "In diesem Jahr durften wir uns über besonders viele Medienberichte freuen, die unsere Arbeit und Wirkung für und in Berlin in den Fokus rückten. Eine Auswahl möchten wir hier mit Euch teilen.",
-          en: "For those of you who have made it this far: Thank you for not only sticking it out while scrolling, but also for accompanying us over the past 12 months! Because what would CityLAB be without you – an experiment without experimenters, a lab without an experimental setup, a tool without...? In any case, we look forward to filling the new year together with you – whether with exciting content, fun conversations or inspiring events!",
+          en: "This year, we were delighted to receive a particularly large number of media reports that focused on our work and impact for and in Berlin. We would like to share a selection of these reports in German with you here.",
         },
         links: [
           {
