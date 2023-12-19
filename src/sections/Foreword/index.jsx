@@ -38,6 +38,30 @@ function Foreword({ content, lang }) {
           </div>
         </>
       )}
+      {lang === "en" && (
+        <>
+          <div className={cn.contentWrapper}>
+            <img
+              src='assets/images/Events at CityLAB 2023.png'
+              alt='Infotext: 170 Events'
+            />
+            <img
+              src='assets/images/Guests at CityLAB 2023.png'
+              alt='Infotext: 4,200 Guests'
+            />
+          </div>
+          <div className={cx(cn.contentWrapper, cn.mittelWrapper)}>
+            <img
+              src='assets/images/completed projects at CityLAB 2023.png'
+              alt='Infotext: 20 completed projects'
+            />
+            <img
+              src='assets/images/ongoing projects at CityLAB 2023.png'
+              alt='Infotext: 18 ongoing projects'
+            />
+          </div>
+        </>
+      )}
     </section>
   );
 }
